@@ -32,6 +32,12 @@ const selectRegion = (region) => {
   store.setRegionFilter(region);
   window.scrollTo({ top: 0, behavior: 'smooth' });
 };
+
+/** 切換排序後回到頂端，從第一個區塊重新開始 */
+const selectSort = (order) => {
+  store.setSortOrder(order);
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+};
 </script>
 
 <template>
@@ -96,6 +102,27 @@ const selectRegion = (region) => {
         >
           {{ r.key }} {{ store.regionCounts[r.key] ?? 0 }}
         </button>
+
+        <!-- 排序切換 -->
+        <div class="ml-auto flex items-center gap-1 rounded-full border border-stone-800 p-0.5">
+          <button
+            v-for="opt in [
+              { value: 'asc', label: '從舊到新' },
+              { value: 'desc', label: '從新到舊' },
+            ]"
+            :key="opt.value"
+            type="button"
+            class="rounded-full px-3 py-0.5 text-xs transition-colors duration-300"
+            :class="
+              store.sortOrder === opt.value
+                ? 'bg-stone-200/10 font-bold text-stone-100'
+                : 'text-stone-500 hover:text-stone-300'
+            "
+            @click="selectSort(opt.value)"
+          >
+            {{ opt.label }}
+          </button>
+        </div>
         </div>
 
         <!-- 三軌欄位標頭（與下方月份格線對齊） -->

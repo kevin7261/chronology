@@ -44,6 +44,8 @@ export const useTimelineStore = defineStore('timeline', {
     events: data.events,
     /** 地區篩選：'all' | '台灣' | '中國' | '世界' */
     regionFilter: 'all',
+    /** 時間排序：'asc' 從舊到新 | 'desc' 從新到舊 */
+    sortOrder: 'asc',
     /** 目前捲動所在的月份鍵（Scrollspy 高亮依據） */
     activeKey: null,
     /** 使用者手動收合的月份鍵（預設全部展開，捲動不改變版面） */
@@ -71,12 +73,13 @@ export const useTimelineStore = defineStore('timeline', {
         if (!byMonth.has(month)) byMonth.set(month, []);
         byMonth.get(month).push(evt);
       }
+      const dir = this.sortOrder === 'desc' ? -1 : 1;
       return [...byYear.keys()]
-        .sort((a, b) => a - b)
+        .sort((a, b) => (a - b) * dir)
         .map((year) => ({
           year,
           months: [...byYear.get(year).keys()]
-            .sort((a, b) => a - b)
+            .sort((a, b) => (a - b) * dir)
             .map((month) => ({
               key: monthKey(year, month),
               year,
@@ -85,7 +88,7 @@ export const useTimelineStore = defineStore('timeline', {
                 .get(year)
                 .get(month)
                 .slice()
-                .sort((a, b) => (a.day ?? 0) - (b.day ?? 0)),
+                .sort((a, b) => ((a.day ?? 0) - (b.day ?? 0)) * dir),
             })),
         }));
     },
@@ -117,6 +120,12 @@ export const useTimelineStore = defineStore('timeline', {
       this.regionFilter = region;
       this.activeKey = null;
       this.collapsedKeys = {};
+      this.scrollTarget = null;
+    },
+    setSortOrder(order) {
+      if (this.sortOrder === order) return;
+      this.sortOrder = order;
+      this.activeKey = null;
       this.scrollTarget = null;
     },
     setActiveKey(key) {

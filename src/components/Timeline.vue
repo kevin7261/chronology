@@ -45,9 +45,9 @@ const rebuildObservers = () => {
 onMounted(rebuildObservers);
 onUnmounted(() => activeIO?.disconnect());
 
-/** 切換地區篩選後，區塊全部重建，需重新掛上觀察器 */
+/** 切換地區篩選或排序後，區塊全部重建，需重新掛上觀察器 */
 watch(
-  () => store.regionFilter,
+  () => [store.regionFilter, store.sortOrder],
   async () => {
     await nextTick();
     rebuildObservers();
