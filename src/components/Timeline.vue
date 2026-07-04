@@ -8,46 +8,74 @@ const sectionEls = ref({});
 
 const setSectionEl = (key) => (el) => {
   if (el) sectionEls.value[key] = el;
+  else delete sectionEls.value[key];
 };
 
 /**
- * Scrollspy 核心（rAF 節流）：
- * - 展開規則：區塊頂端進入視窗下緣 90% 內即展開；捲回上方、區塊退回視窗下方時收合。
- *   高度變化永遠發生在視窗下緣之外，捲動不會跳動。
- * - 高亮規則：以視窗 35% 高度為基準線，最後一個越過基準線的月份即為目前進度。
+ * Scrollspy 核心：改用 IntersectionObserver，滾動路徑上完全不讀取版面幾何，
+ * 避免與展開動畫互相觸發同步 reflow（先前卡頓的主因）。
+ *
+ * - expandIO：區塊頂端進入視窗下緣 10% 內即展開；區塊退回視窗下方時收合。
+ *   高度變化永遠發生在視窗下緣之外，捲動位置不受影響。
+ * - activeIO：以視窗 20%~40% 高度為「目前進度」判定帶，取進度帶內
+ *   文件順序最後的月份作為高亮目標。
  */
-let ticking = false;
-const measure = () => {
-  ticking = false;
-  const expandLine = window.innerHeight * 0.9;
-  const activeLine = window.innerHeight * 0.35;
-  let activeKey = null;
+let expandIO = null;
+let activeIO = null;
+const inBand = new Map();
+
+const rebuildObservers = () => {
+  expandIO?.disconnect();
+  activeIO?.disconnect();
+  inBand.clear();
+
+  expandIO = new IntersectionObserver(
+    (entries) => {
+      for (const entry of entries) {
+        const key = entry.target.dataset.key;
+        if (entry.isIntersecting) store.setExpanded(key, true);
+        else if (entry.boundingClientRect.top > 0) store.setExpanded(key, false);
+      }
+    },
+    { rootMargin: '0px 0px -10% 0px' }
+  );
+
+  activeIO = new IntersectionObserver(
+    (entries) => {
+      for (const entry of entries) inBand.set(entry.target.dataset.key, entry.isIntersecting);
+      let active = null;
+      for (const section of store.monthSections) {
+        if (inBand.get(section.key)) active = section.key;
+      }
+      if (active) store.setActiveKey(active);
+    },
+    { rootMargin: '-20% 0px -60% 0px' }
+  );
 
   for (const section of store.monthSections) {
     const el = sectionEls.value[section.key];
-    if (!el) continue;
-    const top = el.getBoundingClientRect().top;
-    store.setExpanded(section.key, top < expandLine);
-    if (top <= activeLine) activeKey = section.key;
+    if (el) {
+      expandIO.observe(el);
+      activeIO.observe(el);
+    }
   }
-  store.setActiveKey(activeKey ?? store.monthSections[0]?.key ?? null);
+  if (!store.activeKey) store.setActiveKey(store.monthSections[0]?.key ?? null);
 };
 
-const onScroll = () => {
-  if (ticking) return;
-  ticking = true;
-  requestAnimationFrame(measure);
-};
-
-onMounted(() => {
-  window.addEventListener('scroll', onScroll, { passive: true });
-  window.addEventListener('resize', onScroll, { passive: true });
-  measure();
-});
+onMounted(rebuildObservers);
 onUnmounted(() => {
-  window.removeEventListener('scroll', onScroll);
-  window.removeEventListener('resize', onScroll);
+  expandIO?.disconnect();
+  activeIO?.disconnect();
 });
+
+/** 切換地區篩選後，區塊全部重建，需重新掛上觀察器 */
+watch(
+  () => store.regionFilter,
+  async () => {
+    await nextTick();
+    rebuildObservers();
+  }
+);
 
 /** 導覽點擊跳轉：目標之前的區塊已由 store 先行展開，直接平滑捲動即可 */
 watch(

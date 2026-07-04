@@ -1,6 +1,6 @@
 <script setup>
 import { computed, onMounted, onUnmounted, ref } from 'vue';
-import { useTimelineStore } from './stores/timeline';
+import { useTimelineStore, REGIONS } from './stores/timeline';
 import SideNav from './components/SideNav.vue';
 import Timeline from './components/Timeline.vue';
 
@@ -22,8 +22,16 @@ onUnmounted(() => window.removeEventListener('scroll', onScroll));
 const yearRange = computed(() => {
   const ys = store.years;
   if (!ys.length) return '';
-  return `${ys[0].year} — ${Math.max(ys[ys.length - 1].year, store.meta.end_year ?? 0)}`;
+  const first = Math.min(ys[0].year, store.meta.start_year ?? Infinity);
+  const last = Math.max(ys[ys.length - 1].year, store.meta.end_year ?? 0);
+  return `${first} — ${last}`;
 });
+
+/** 切換地區後回到時間軸頂端，避免停留在已消失的區塊位置 */
+const selectRegion = (region) => {
+  store.setRegionFilter(region);
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+};
 </script>
 
 <template>
@@ -51,7 +59,7 @@ const yearRange = computed(() => {
         {{ store.meta.description }}
       </p>
       <p class="mt-6 flex flex-wrap items-center gap-x-4 gap-y-1 text-xs text-stone-500">
-        <span>共 {{ store.totalEvents }} 起事件</span>
+        <span>共 {{ store.filteredEvents.length }} 起事件</span>
         <span class="hidden h-3 w-px bg-stone-700 sm:block"></span>
         <span>每筆事件皆附維基百科驗證連結</span>
         <span class="hidden h-3 w-px bg-stone-700 sm:block"></span>
@@ -66,6 +74,37 @@ const yearRange = computed(() => {
       <SideNav />
     </aside>
     <main class="min-w-0 flex-1 lg:pl-12">
+      <!-- 地區篩選列（sticky） -->
+      <div
+        class="sticky top-2 z-40 -mx-2 mt-6 flex flex-wrap items-center gap-2 rounded-full border border-stone-800/80 bg-stone-950/85 px-3 py-2 backdrop-blur"
+      >
+        <button
+          type="button"
+          class="rounded-full border px-3.5 py-1 text-xs transition-colors duration-300"
+          :class="
+            store.regionFilter === 'all'
+              ? 'border-stone-300/70 bg-stone-200/10 font-bold text-stone-100'
+              : 'border-stone-700 text-stone-400 hover:border-stone-500 hover:text-stone-200'
+          "
+          @click="selectRegion('all')"
+        >
+          全部 {{ store.regionCounts.all }}
+        </button>
+        <button
+          v-for="r in REGIONS"
+          :key="r.key"
+          type="button"
+          class="rounded-full border px-3.5 py-1 text-xs transition-colors duration-300"
+          :class="
+            store.regionFilter === r.key
+              ? r.pillActive
+              : 'border-stone-700 text-stone-400 hover:border-stone-500 hover:text-stone-200'
+          "
+          @click="selectRegion(r.key)"
+        >
+          {{ r.key }} {{ store.regionCounts[r.key] ?? 0 }}
+        </button>
+      </div>
       <Timeline />
     </main>
   </div>

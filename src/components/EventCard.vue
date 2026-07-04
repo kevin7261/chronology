@@ -1,4 +1,6 @@
 <script setup>
+import { regionBadgeClass } from '../stores/timeline';
+
 defineProps({
   event: { type: Object, required: true },
 });
@@ -21,10 +23,18 @@ defineProps({
         </span>
       </div>
 
-      <div class="min-w-0">
-        <h4 class="font-serif text-lg font-bold text-stone-100">
-          {{ event.title }}
-        </h4>
+      <div class="min-w-0 flex-1">
+        <div class="flex items-start justify-between gap-3">
+          <h4 class="font-serif text-lg font-bold text-stone-100">
+            {{ event.title }}
+          </h4>
+          <span
+            class="mt-1 shrink-0 rounded-full border px-2 py-0.5 text-[10px] tracking-wider"
+            :class="regionBadgeClass(event.region)"
+          >
+            {{ event.region }}
+          </span>
+        </div>
         <p class="mt-1.5 text-sm leading-relaxed text-stone-400">
           {{ event.description }}
         </p>

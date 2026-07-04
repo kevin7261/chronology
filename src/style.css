@@ -28,7 +28,7 @@ body {
 .month-body {
   display: grid;
   grid-template-rows: 0fr;
-  transition: grid-template-rows 0.55s cubic-bezier(0.22, 1, 0.36, 1);
+  transition: grid-template-rows 0.4s cubic-bezier(0.22, 1, 0.36, 1);
 }
 .month-body.is-expanded {
   grid-template-rows: 1fr;
@@ -41,10 +41,10 @@ body {
 /* 事件卡片進場 */
 .event-card {
   opacity: 0;
-  transform: translateY(10px);
+  transform: translateY(8px);
   transition:
-    opacity 0.5s ease 0.15s,
-    transform 0.5s ease 0.15s;
+    opacity 0.4s ease 0.1s,
+    transform 0.4s ease 0.1s;
 }
 .is-expanded .event-card {
   opacity: 1;

@@ -6,10 +6,34 @@ import data from '../data/events.json';
  */
 export const monthKey = (year, month) => `${year}-${month}`;
 
+/** 地區清單與對應的 Tailwind 配色（badge / 篩選鈕共用） */
+export const REGIONS = [
+  {
+    key: '台灣',
+    badge: 'border-amber-500/40 bg-amber-500/15 text-amber-300',
+    pillActive: 'border-amber-400/70 bg-amber-400/15 text-amber-300 font-bold',
+  },
+  {
+    key: '中國',
+    badge: 'border-rose-500/40 bg-rose-500/15 text-rose-300',
+    pillActive: 'border-rose-400/70 bg-rose-400/15 text-rose-300 font-bold',
+  },
+  {
+    key: '世界',
+    badge: 'border-sky-500/40 bg-sky-500/15 text-sky-300',
+    pillActive: 'border-sky-400/70 bg-sky-400/15 text-sky-300 font-bold',
+  },
+];
+
+export const regionBadgeClass = (region) =>
+  REGIONS.find((r) => r.key === region)?.badge ?? 'border-stone-600 bg-stone-800 text-stone-300';
+
 export const useTimelineStore = defineStore('timeline', {
   state: () => ({
     meta: data.timeline_meta,
     events: data.events,
+    /** 地區篩選：'all' | '台灣' | '中國' | '世界' */
+    regionFilter: 'all',
     /** 目前捲動所在的月份鍵（Scrollspy 高亮依據） */
     activeKey: null,
     /** 已展開（時間線上已抵達）的月份鍵集合 */
@@ -19,13 +43,18 @@ export const useTimelineStore = defineStore('timeline', {
   }),
 
   getters: {
+    filteredEvents(state) {
+      if (state.regionFilter === 'all') return state.events;
+      return state.events.filter((e) => e.region === state.regionFilter);
+    },
+
     /**
      * 依年份 → 月份層級化的時間軸結構（由舊到新）。
      * 只納入實際有事件的年月，年份範圍隨資料自動延伸。
      */
-    years(state) {
+    years() {
       const byYear = new Map();
-      for (const evt of state.events) {
+      for (const evt of this.filteredEvents) {
         if (!byYear.has(evt.year)) byYear.set(evt.year, new Map());
         const byMonth = byYear.get(evt.year);
         if (!byMonth.has(evt.month)) byMonth.set(evt.month, []);
@@ -59,17 +88,26 @@ export const useTimelineStore = defineStore('timeline', {
       return state.activeKey ? Number(state.activeKey.split('-')[0]) : null;
     },
 
-    totalEvents(state) {
-      return state.events.length;
+    regionCounts(state) {
+      const counts = { all: state.events.length };
+      for (const e of state.events) counts[e.region] = (counts[e.region] ?? 0) + 1;
+      return counts;
     },
   },
 
   actions: {
+    setRegionFilter(region) {
+      if (this.regionFilter === region) return;
+      this.regionFilter = region;
+      this.activeKey = null;
+      this.expandedKeys = {};
+      this.scrollTarget = null;
+    },
     setActiveKey(key) {
       this.activeKey = key;
     },
     setExpanded(key, value) {
-      this.expandedKeys[key] = value;
+      if (this.expandedKeys[key] !== value) this.expandedKeys[key] = value;
     },
     /** 導覽點擊：展開目標之前的所有月份，避免平滑捲動途中版面高度位移 */
     jumpTo(key) {

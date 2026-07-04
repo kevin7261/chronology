@@ -14,7 +14,7 @@ const isActive = computed(() => store.activeKey === props.section.key);
 </script>
 
 <template>
-  <section :ref="refFn" class="relative scroll-mt-16 pb-2 pl-8">
+  <section :ref="refFn" :data-key="section.key" class="relative scroll-mt-24 pb-2 pl-8">
     <!-- 月份節點圓點 -->
     <span
       class="absolute top-[9px] left-[3px] h-[9px] w-[9px] rounded-full transition-all duration-500"
