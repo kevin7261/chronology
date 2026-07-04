@@ -50,8 +50,8 @@ export const useTimelineStore = defineStore('timeline', {
     events: data.events,
     /** 地區篩選：'all' | '台灣' | '中國' | '世界' */
     regionFilter: 'all',
-    /** 時間排序：'asc' 從舊到新 | 'desc' 從新到舊 */
-    sortOrder: 'asc',
+    /** 時間排序：'asc' 從舊到新 | 'desc' 從新到舊（預設） */
+    sortOrder: 'desc',
     /** 目前捲動所在的月份鍵（Scrollspy 高亮依據） */
     activeKey: null,
     /** 使用者手動收合的月份鍵（預設全部展開，捲動不改變版面） */
