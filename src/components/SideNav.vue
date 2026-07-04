@@ -3,19 +3,33 @@ import { ref, watch, nextTick } from 'vue';
 import { useTimelineStore, monthKey } from '../stores/timeline';
 
 const store = useTimelineStore();
+const navEl = ref(null);
 const yearEls = ref({});
 
 const setYearEl = (year) => (el) => {
   if (el) yearEls.value[year] = el;
 };
 
-/** 目前年份變動時，讓左欄自動平滑捲動到該年份 */
+/**
+ * 目前年份變動時，僅捲動左欄容器本身讓該年份保持可見。
+ * 不用 scrollIntoView——它會連帶捲動視窗，干擾使用者的頁面滾動。
+ */
 watch(
   () => store.activeYear,
   async (year) => {
     if (year == null) return;
     await nextTick();
-    yearEls.value[year]?.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+    const nav = navEl.value;
+    const el = yearEls.value[year];
+    if (!nav || !el) return;
+    const top = el.offsetTop;
+    const bottom = top + el.offsetHeight;
+    const margin = 48;
+    if (top < nav.scrollTop + margin) {
+      nav.scrollTo({ top: top - margin, behavior: 'smooth' });
+    } else if (bottom > nav.scrollTop + nav.clientHeight - margin) {
+      nav.scrollTo({ top: bottom - nav.clientHeight + margin, behavior: 'smooth' });
+    }
   }
 );
 
@@ -24,6 +38,7 @@ const jumpToYear = (yearEntry) => store.jumpTo(yearEntry.months[0].key);
 
 <template>
   <nav
+    ref="navEl"
     class="nav-scroll sticky top-5 h-[calc(100vh-40px)] overflow-y-auto border-r border-stone-800/80 py-10 pr-6"
     aria-label="年份導覽"
   >

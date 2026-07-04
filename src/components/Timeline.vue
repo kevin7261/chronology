@@ -12,33 +12,16 @@ const setSectionEl = (key) => (el) => {
 };
 
 /**
- * Scrollspy 核心：改用 IntersectionObserver，滾動路徑上完全不讀取版面幾何，
- * 避免與展開動畫互相觸發同步 reflow（先前卡頓的主因）。
- *
- * - expandIO：區塊頂端進入視窗下緣 10% 內即展開；區塊退回視窗下方時收合。
- *   高度變化永遠發生在視窗下緣之外，捲動位置不受影響。
- * - activeIO：以視窗 20%~40% 高度為「目前進度」判定帶，取進度帶內
- *   文件順序最後的月份作為高亮目標。
+ * Scrollspy：純 IntersectionObserver 高亮，捲動過程零版面讀取、零版面變動
+ * （內容預設全部展開，收合僅由使用者手動觸發）。
+ * 以視窗 20%~40% 高度為「目前進度」判定帶，取帶內文件順序最後的月份高亮。
  */
-let expandIO = null;
 let activeIO = null;
 const inBand = new Map();
 
 const rebuildObservers = () => {
-  expandIO?.disconnect();
   activeIO?.disconnect();
   inBand.clear();
-
-  expandIO = new IntersectionObserver(
-    (entries) => {
-      for (const entry of entries) {
-        const key = entry.target.dataset.key;
-        if (entry.isIntersecting) store.setExpanded(key, true);
-        else if (entry.boundingClientRect.top > 0) store.setExpanded(key, false);
-      }
-    },
-    { rootMargin: '0px 0px -10% 0px' }
-  );
 
   activeIO = new IntersectionObserver(
     (entries) => {
@@ -54,19 +37,13 @@ const rebuildObservers = () => {
 
   for (const section of store.monthSections) {
     const el = sectionEls.value[section.key];
-    if (el) {
-      expandIO.observe(el);
-      activeIO.observe(el);
-    }
+    if (el) activeIO.observe(el);
   }
   if (!store.activeKey) store.setActiveKey(store.monthSections[0]?.key ?? null);
 };
 
 onMounted(rebuildObservers);
-onUnmounted(() => {
-  expandIO?.disconnect();
-  activeIO?.disconnect();
-});
+onUnmounted(() => activeIO?.disconnect());
 
 /** 切換地區篩選後，區塊全部重建，需重新掛上觀察器 */
 watch(

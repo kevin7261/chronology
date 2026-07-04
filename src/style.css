@@ -5,10 +5,6 @@
   --font-serif: 'Noto Serif TC', ui-serif, Georgia, serif;
 }
 
-html {
-  scroll-behavior: smooth;
-}
-
 body {
   @apply bg-stone-950 text-stone-200 antialiased;
 }
@@ -36,17 +32,4 @@ body {
 .month-body > .month-body-inner {
   overflow: hidden;
   min-height: 0;
-}
-
-/* 事件卡片進場 */
-.event-card {
-  opacity: 0;
-  transform: translateY(8px);
-  transition:
-    opacity 0.4s ease 0.1s,
-    transform 0.4s ease 0.1s;
-}
-.is-expanded .event-card {
-  opacity: 1;
-  transform: translateY(0);
 }

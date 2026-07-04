@@ -36,8 +36,8 @@ export const useTimelineStore = defineStore('timeline', {
     regionFilter: 'all',
     /** 目前捲動所在的月份鍵（Scrollspy 高亮依據） */
     activeKey: null,
-    /** 已展開（時間線上已抵達）的月份鍵集合 */
-    expandedKeys: {},
+    /** 使用者手動收合的月份鍵（預設全部展開，捲動不改變版面） */
+    collapsedKeys: {},
     /** 導覽點擊觸發的目標，供時間軸捲動使用 */
     scrollTarget: null,
   }),
@@ -100,21 +100,18 @@ export const useTimelineStore = defineStore('timeline', {
       if (this.regionFilter === region) return;
       this.regionFilter = region;
       this.activeKey = null;
-      this.expandedKeys = {};
+      this.collapsedKeys = {};
       this.scrollTarget = null;
     },
     setActiveKey(key) {
       this.activeKey = key;
     },
-    setExpanded(key, value) {
-      if (this.expandedKeys[key] !== value) this.expandedKeys[key] = value;
+    toggleCollapsed(key) {
+      this.collapsedKeys[key] = !this.collapsedKeys[key];
     },
-    /** 導覽點擊：展開目標之前的所有月份，避免平滑捲動途中版面高度位移 */
+    /** 導覽點擊：確保目標展開後平滑捲動（版面固定，落點不會位移） */
     jumpTo(key) {
-      for (const section of this.monthSections) {
-        this.expandedKeys[section.key] = true;
-        if (section.key === key) break;
-      }
+      this.collapsedKeys[key] = false;
       this.scrollTarget = { key, at: performance.now() };
     },
   },

@@ -9,7 +9,7 @@ const props = defineProps({
 });
 
 const store = useTimelineStore();
-const isExpanded = computed(() => !!store.expandedKeys[props.section.key]);
+const isExpanded = computed(() => !store.collapsedKeys[props.section.key]);
 const isActive = computed(() => store.activeKey === props.section.key);
 </script>
 
@@ -25,7 +25,7 @@ const isActive = computed(() => store.activeKey === props.section.key);
     <button
       type="button"
       class="group flex w-full items-baseline gap-3 py-1 text-left"
-      @click="store.setExpanded(section.key, !isExpanded)"
+      @click="store.toggleCollapsed(section.key)"
     >
       <h3
         class="font-mono text-lg font-bold transition-colors duration-500"
