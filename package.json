@@ -1,0 +1,22 @@
+{
+  "name": "chronology",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "台灣百年重大事件編年表 (1926 - 2026) — 融合流暢滾動與結構展開的直式時間軸",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "pinia": "^3.0.3",
+    "vue": "^3.5.17"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.11",
+    "@vitejs/plugin-vue": "^6.0.0",
+    "tailwindcss": "^4.1.11",
+    "vite": "^7.0.0"
+  }
+}

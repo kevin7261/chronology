@@ -1,0 +1,52 @@
+@import 'tailwindcss';
+
+@theme {
+  --font-sans: 'Noto Sans TC', ui-sans-serif, system-ui, 'PingFang TC', 'Microsoft JhengHei', sans-serif;
+  --font-serif: 'Noto Serif TC', ui-serif, Georgia, serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-stone-950 text-stone-200 antialiased;
+}
+
+/* 自訂捲軸（左側導覽欄） */
+.nav-scroll::-webkit-scrollbar {
+  width: 4px;
+}
+.nav-scroll::-webkit-scrollbar-thumb {
+  @apply rounded-full bg-stone-700;
+}
+.nav-scroll::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+/* 月份區塊手風琴展開動畫（grid-rows 0fr → 1fr） */
+.month-body {
+  display: grid;
+  grid-template-rows: 0fr;
+  transition: grid-template-rows 0.55s cubic-bezier(0.22, 1, 0.36, 1);
+}
+.month-body.is-expanded {
+  grid-template-rows: 1fr;
+}
+.month-body > .month-body-inner {
+  overflow: hidden;
+  min-height: 0;
+}
+
+/* 事件卡片進場 */
+.event-card {
+  opacity: 0;
+  transform: translateY(10px);
+  transition:
+    opacity 0.5s ease 0.15s,
+    transform 0.5s ease 0.15s;
+}
+.is-expanded .event-card {
+  opacity: 1;
+  transform: translateY(0);
+}
