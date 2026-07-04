@@ -65,8 +65,8 @@ const selectSort = (order) => {
     </div>
   </header>
 
-  <!-- 雙欄主體：左 25% 導覽 / 右 75% 時間軸 -->
-  <div class="mx-auto flex max-w-6xl items-start px-6">
+  <!-- 雙欄主體：左 25% 導覽 / 右 75% 時間軸（aside 需撐滿整列高度，sticky 才能全程貼住） -->
+  <div class="mx-auto flex max-w-6xl px-6">
     <aside class="hidden w-1/4 shrink-0 lg:block">
       <SideNav />
     </aside>
