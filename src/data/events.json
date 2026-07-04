@@ -1,7 +1,7 @@
 {
   "timeline_meta": {
-    "title": "台灣・中國・世界重大事件編年表",
-    "description": "從人類文明的曙光（約西元前 3500 年）到當代，涵蓋台灣、中國與世界三軌的高精度歷史事件時間軸，具備 Wiki 驗證機制。",
+    "title": "台灣・中國・日本・世界重大事件編年表",
+    "description": "從人類文明的曙光（約西元前 3500 年）到當代，涵蓋台灣、中國、日本與世界四軌的高精度歷史事件時間軸，具備 Wiki 驗證機制。",
     "start_year": -3500,
     "end_year": 2026,
     "last_updated": "2026-07-05"
@@ -190,6 +190,48 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/雅典式民主"
     },
     {
+      "id": "evt_bc0490_001",
+      "year": -490,
+      "month": null,
+      "day": null,
+      "region": "世界",
+      "title": "馬拉松戰役",
+      "description": "西元前 490 年雅典軍於馬拉松平原擊退波斯大軍，希臘城邦免於征服，「馬拉松長跑」的傳說由此而來。",
+      "tags": [
+        "古希臘",
+        "戰爭"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/馬拉松戰役"
+    },
+    {
+      "id": "evt_bc0431_001",
+      "year": -431,
+      "month": null,
+      "day": null,
+      "region": "世界",
+      "title": "伯羅奔尼撒戰爭爆發",
+      "description": "西元前 431 年雅典與斯巴達兩大陣營開戰，近三十年的消耗戰終結雅典黃金時代，修昔底德的史筆成為國際政治的永恆教材。",
+      "tags": [
+        "古希臘",
+        "戰爭"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/伯罗奔尼撒战争"
+    },
+    {
+      "id": "evt_bc0399_001",
+      "year": -399,
+      "month": null,
+      "day": null,
+      "region": "世界",
+      "title": "蘇格拉底之死",
+      "description": "西元前 399 年蘇格拉底以「腐化青年」等罪名被雅典公民法庭判處死刑，飲下毒堇汁從容赴死，成為西方哲學精神的原點。",
+      "tags": [
+        "思想",
+        "古希臘"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/蘇格拉底"
+    },
+    {
       "id": "evt_bc0334_001",
       "year": -334,
       "month": null,
@@ -245,6 +287,35 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/張騫"
     },
     {
+      "id": "evt_bc0091_001",
+      "year": -91,
+      "month": null,
+      "day": null,
+      "region": "中國",
+      "title": "司馬遷完成《史記》",
+      "description": "約西元前 91 年司馬遷忍辱著成史記，紀傳體通史涵蓋三千年，「究天人之際，通古今之變」奠定中國史學傳統。",
+      "tags": [
+        "史學",
+        "人物",
+        "漢朝"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/史記"
+    },
+    {
+      "id": "evt_bc0044_001",
+      "year": -44,
+      "month": 3,
+      "day": 15,
+      "region": "世界",
+      "title": "凱撒遇刺",
+      "description": "西元前 44 年 3 月 15 日，羅馬終身獨裁官凱撒於元老院遭布魯圖斯等人刺殺，共和最後的掙扎反而加速帝制到來。",
+      "tags": [
+        "古羅馬",
+        "政治史"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/尤利烏斯·凱撒"
+    },
+    {
       "id": "evt_bc0027_001",
       "year": -27,
       "month": null,
@@ -271,6 +342,20 @@
         "文明"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/耶穌"
+    },
+    {
+      "id": "evt_0079_001",
+      "year": 79,
+      "month": null,
+      "day": null,
+      "region": "世界",
+      "title": "維蘇威火山爆發，龐貝城掩埋",
+      "description": "西元 79 年維蘇威火山大爆發，龐貝與赫庫蘭尼姆兩城瞬間被火山灰掩埋，千年後出土成為認識羅馬日常生活最完整的時空膠囊。",
+      "tags": [
+        "天災",
+        "古羅馬"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/龐貝"
     },
     {
       "id": "evt_0105_001",
@@ -329,6 +414,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/西羅馬帝國"
     },
     {
+      "id": "evt_0529_001",
+      "year": 529,
+      "month": null,
+      "day": null,
+      "region": "世界",
+      "title": "查士丁尼《民法大全》編纂",
+      "description": "西元 529 年起東羅馬皇帝查士丁尼下令編纂羅馬法大全，系統化的羅馬法典成為後世歐陸法系的共同基石。",
+      "tags": [
+        "法律",
+        "拜占庭"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/民法大全"
+    },
+    {
       "id": "evt_0589_001",
       "year": 589,
       "month": null,
@@ -341,6 +440,20 @@
         "統一"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/隋朝"
+    },
+    {
+      "id": "evt_0604_001",
+      "year": 604,
+      "month": null,
+      "day": null,
+      "region": "日本",
+      "title": "聖德太子頒布《十七條憲法》",
+      "description": "西元 604 年聖德太子頒布十七條憲法，「以和為貴」揭示日本最早的成文施政原則，並大力引進佛教與隋唐制度。",
+      "tags": [
+        "制度",
+        "古代日本"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/聖德太子"
     },
     {
       "id": "evt_0618_001",
@@ -371,6 +484,92 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/穆罕默德"
     },
     {
+      "id": "evt_06260702_001",
+      "year": 626,
+      "month": 7,
+      "day": 2,
+      "region": "中國",
+      "title": "玄武門之變",
+      "description": "西元 626 年李世民於玄武門伏殺兄長太子建成與弟元吉，逼父退位登基為唐太宗，開創貞觀之治的同時也立下宮廷政變的先例。",
+      "tags": [
+        "政變",
+        "唐朝"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/玄武門之變"
+    },
+    {
+      "id": "evt_0645_001",
+      "year": 645,
+      "month": null,
+      "day": null,
+      "region": "日本",
+      "title": "大化改新",
+      "description": "西元 645 年中大兄皇子誅殺權臣蘇我氏後推行大化改新，仿唐制建立中央集權律令國家，日本古代國家體制成形。",
+      "tags": [
+        "政變",
+        "改革",
+        "古代日本"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/大化改新"
+    },
+    {
+      "id": "evt_0701_001",
+      "year": 701,
+      "month": null,
+      "day": null,
+      "region": "中國",
+      "title": "李白誕生",
+      "description": "西元 701 年詩仙李白出生，其豪放飄逸的詩篇代表盛唐氣象的頂峰，千年來仍是華文世界最家喻戶曉的詩人。",
+      "tags": [
+        "人物",
+        "文學",
+        "唐朝"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/李白"
+    },
+    {
+      "id": "evt_0751_001",
+      "year": 751,
+      "month": null,
+      "day": null,
+      "region": "世界",
+      "title": "怛羅斯之役，造紙術西傳",
+      "description": "西元 751 年唐軍與阿拔斯王朝軍隊會戰於怛羅斯，被俘唐軍工匠將造紙術傳入伊斯蘭世界，繼而傳抵歐洲，改變全球知識傳播。",
+      "tags": [
+        "戰爭",
+        "技術傳播"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/怛羅斯戰役"
+    },
+    {
+      "id": "evt_0793_001",
+      "year": 793,
+      "month": 6,
+      "day": null,
+      "region": "世界",
+      "title": "維京時代開始",
+      "description": "西元 793 年維京人洗劫英格蘭林迪斯法恩修道院，此後兩百餘年北歐海盜與商人的足跡遍及歐洲、遠達北美，重塑歐洲版圖。",
+      "tags": [
+        "中世紀",
+        "維京"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/維京人"
+    },
+    {
+      "id": "evt_079410_001",
+      "year": 794,
+      "month": 10,
+      "day": null,
+      "region": "日本",
+      "title": "遷都平安京",
+      "description": "西元 794 年桓武天皇遷都平安京（今京都），此後千餘年京都作為日本首都，孕育出物語文學與貴族文化的平安時代。",
+      "tags": [
+        "古代日本",
+        "文化"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/平安京"
+    },
+    {
       "id": "evt_08001225_001",
       "year": 800,
       "month": 12,
@@ -398,6 +597,35 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/宋朝"
     },
     {
+      "id": "evt_09620202_001",
+      "year": 962,
+      "month": 2,
+      "day": 2,
+      "region": "世界",
+      "title": "神聖羅馬帝國建立",
+      "description": "西元 962 年鄂圖一世於羅馬加冕稱帝，神聖羅馬帝國自此號稱羅馬正統，鬆散的帝國體制主導中歐政治八百餘年。",
+      "tags": [
+        "中世紀",
+        "帝國"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/神聖羅馬帝國"
+    },
+    {
+      "id": "evt_10370108_001",
+      "year": 1037,
+      "month": 1,
+      "day": 8,
+      "region": "中國",
+      "title": "蘇軾誕生",
+      "description": "1037 年蘇軾生於眉州，詩詞書畫皆臻極境，宦海浮沉間寫下赤壁賦等千古名篇，是宋代文化的最高象徵。",
+      "tags": [
+        "人物",
+        "文學",
+        "宋朝"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/蘇軾"
+    },
+    {
       "id": "evt_1041_001",
       "year": 1041,
       "month": null,
@@ -412,6 +640,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/畢昇"
     },
     {
+      "id": "evt_10540716_001",
+      "year": 1054,
+      "month": 7,
+      "day": 16,
+      "region": "世界",
+      "title": "東西教會大分裂",
+      "description": "1054 年羅馬教廷與君士坦丁堡牧首互相絕罰，基督教正式分裂為天主教與東正教，深刻劃分歐洲的文化疆界。",
+      "tags": [
+        "宗教",
+        "中世紀"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/東西教會大分裂"
+    },
+    {
       "id": "evt_10661014_001",
       "year": 1066,
       "month": 10,
@@ -424,6 +666,20 @@
         "戰爭"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/諾曼征服英格蘭"
+    },
+    {
+      "id": "evt_1088_001",
+      "year": 1088,
+      "month": null,
+      "day": null,
+      "region": "世界",
+      "title": "博洛尼亞大學創立",
+      "description": "約 1088 年歐洲第一所大學於義大利博洛尼亞誕生，大學制度自此萌芽，成為西方知識傳承與創新的核心建制。",
+      "tags": [
+        "教育",
+        "中世紀"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/博洛尼亞大學"
     },
     {
       "id": "evt_1096_001",
@@ -452,6 +708,20 @@
         "戰爭"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/靖康之變"
+    },
+    {
+      "id": "evt_119207_001",
+      "year": 1192,
+      "month": 7,
+      "day": null,
+      "region": "日本",
+      "title": "鎌倉幕府成立",
+      "description": "1192 年源賴朝受封征夷大將軍開創鎌倉幕府，武士政權自此主導日本近七百年，天皇淪為象徵。",
+      "tags": [
+        "幕府",
+        "武士"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/鎌倉幕府"
     },
     {
       "id": "evt_1206_001",
@@ -496,6 +766,48 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/元朝"
     },
     {
+      "id": "evt_127410_001",
+      "year": 1274,
+      "month": 10,
+      "day": null,
+      "region": "日本",
+      "title": "蒙古襲來（文永之役）",
+      "description": "1274 年忽必烈遣軍渡海攻日，兩次進攻皆遇颱風失利，「神風」信仰深植日本，也埋下鎌倉幕府衰亡的財政危機。",
+      "tags": [
+        "戰爭",
+        "蒙元"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/元日戰爭"
+    },
+    {
+      "id": "evt_1298_001",
+      "year": 1298,
+      "month": null,
+      "day": null,
+      "region": "世界",
+      "title": "《馬可·波羅遊記》問世",
+      "description": "約 1298 年馬可·波羅於獄中口述東方見聞成書，對富庶中國的描繪風靡歐洲，點燃其後大航海時代對東方的想像。",
+      "tags": [
+        "旅行",
+        "東西交流"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/馬可·波羅"
+    },
+    {
+      "id": "evt_1337_001",
+      "year": 1337,
+      "month": null,
+      "day": null,
+      "region": "世界",
+      "title": "英法百年戰爭開始",
+      "description": "1337 年英法為王位繼承與領地爭端開戰，斷續百餘年的戰爭催生民族認同與常備軍制度，中世紀騎士時代步向終結。",
+      "tags": [
+        "中世紀",
+        "戰爭"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/百年戰爭"
+    },
+    {
       "id": "evt_1347_001",
       "year": 1347,
       "month": null,
@@ -521,6 +833,21 @@
         "王朝更迭"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/明朝"
+    },
+    {
+      "id": "evt_1399_001",
+      "year": 1399,
+      "month": null,
+      "day": null,
+      "region": "中國",
+      "title": "靖難之役",
+      "description": "1399 年燕王朱棣以「清君側」為名起兵，四年內戰奪姪建文帝之位即位為明成祖，其後遷都北京並派鄭和下西洋。",
+      "tags": [
+        "政變",
+        "內戰",
+        "明朝"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/靖難之役"
     },
     {
       "id": "evt_14050711_001",
@@ -551,6 +878,21 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/約翰尼斯·古騰堡"
     },
     {
+      "id": "evt_14520415_001",
+      "year": 1452,
+      "month": 4,
+      "day": 15,
+      "region": "世界",
+      "title": "達文西誕生",
+      "description": "1452 年達文西生於托斯卡尼文西鎮，集畫家、解剖學家、工程師於一身，《蒙娜麗莎》與手稿成為文藝復興「全才」的極致象徵。",
+      "tags": [
+        "人物",
+        "文藝復興",
+        "藝術"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/李奧納多·達文西"
+    },
+    {
       "id": "evt_14530529_001",
       "year": 1453,
       "month": 5,
@@ -565,6 +907,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/君士坦丁堡的陷落"
     },
     {
+      "id": "evt_1467_001",
+      "year": 1467,
+      "month": null,
+      "day": null,
+      "region": "日本",
+      "title": "應仁之亂，戰國時代開始",
+      "description": "1467 年京都爆發應仁之亂，室町幕府權威崩潰，日本進入群雄割據百餘年的戰國時代。",
+      "tags": [
+        "內戰",
+        "戰國"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/應仁之亂"
+    },
+    {
       "id": "evt_14921012_001",
       "year": 1492,
       "month": 10,
@@ -577,6 +933,34 @@
         "地理大發現"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/克里斯多福·哥倫布"
+    },
+    {
+      "id": "evt_14980520_001",
+      "year": 1498,
+      "month": 5,
+      "day": 20,
+      "region": "世界",
+      "title": "達伽馬開通印度航路",
+      "description": "1498 年達伽馬繞過好望角抵達印度卡利卡特，歐亞海上直航開通，香料貿易與殖民勢力自此湧入印度洋。",
+      "tags": [
+        "大航海",
+        "地理大發現"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/瓦斯科·達伽馬"
+    },
+    {
+      "id": "evt_15040908_001",
+      "year": 1504,
+      "month": 9,
+      "day": 8,
+      "region": "世界",
+      "title": "米開朗基羅《大衛像》揭幕",
+      "description": "1504 年大衛像於佛羅倫斯揭幕，文藝復興盛期的人文精神與藝術成就臻於頂峰，人取代神成為時代的主角。",
+      "tags": [
+        "文藝復興",
+        "藝術"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/大衛像"
     },
     {
       "id": "evt_15171031_001",
@@ -607,6 +991,34 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/斐迪南·麥哲倫"
     },
     {
+      "id": "evt_15210813_001",
+      "year": 1521,
+      "month": 8,
+      "day": 13,
+      "region": "世界",
+      "title": "西班牙滅阿茲特克帝國",
+      "description": "1521 年科爾特斯攻陷特諾奇提特蘭，阿茲特克帝國滅亡，美洲古文明在槍炮與瘟疫下崩解，殖民時代全面展開。",
+      "tags": [
+        "殖民",
+        "美洲"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/阿茲特克"
+    },
+    {
+      "id": "evt_1533_001",
+      "year": 1533,
+      "month": null,
+      "day": null,
+      "region": "世界",
+      "title": "西班牙征服印加帝國",
+      "description": "1533 年皮薩羅處死印加皇帝阿塔瓦爾帕並攻入庫斯科，安地斯山最後的大帝國覆滅，南美白銀自此源源流入歐亞。",
+      "tags": [
+        "殖民",
+        "美洲"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/印加帝國"
+    },
+    {
       "id": "evt_1543_001",
       "year": 1543,
       "month": null,
@@ -635,6 +1047,34 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/福爾摩沙"
     },
     {
+      "id": "evt_15560123_001",
+      "year": 1556,
+      "month": 1,
+      "day": 23,
+      "region": "中國",
+      "title": "嘉靖大地震",
+      "description": "1556 年陝西華縣大地震，官方記載死亡逾 83 萬人，為人類史上死亡人數最多的地震災難。",
+      "tags": [
+        "天災",
+        "明朝"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/嘉靖大地震"
+    },
+    {
+      "id": "evt_15820621_001",
+      "year": 1582,
+      "month": 6,
+      "day": 21,
+      "region": "日本",
+      "title": "本能寺之變",
+      "description": "1582 年統一在望的織田信長遭家臣明智光秀夜襲於京都本能寺，被迫自盡，豐臣秀吉旋即崛起接手天下。",
+      "tags": [
+        "政變",
+        "戰國"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/本能寺之變"
+    },
+    {
       "id": "evt_1588_001",
       "year": 1588,
       "month": 8,
@@ -649,6 +1089,62 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/西班牙無敵艦隊"
     },
     {
+      "id": "evt_159008_001",
+      "year": 1590,
+      "month": 8,
+      "day": null,
+      "region": "日本",
+      "title": "豐臣秀吉統一日本",
+      "description": "1590 年豐臣秀吉降伏小田原北條氏，結束戰國亂世統一日本，隨後施行刀狩與檢地，奠定近世身分制社會。",
+      "tags": [
+        "統一",
+        "戰國"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/豐臣秀吉"
+    },
+    {
+      "id": "evt_159205_001",
+      "year": 1592,
+      "month": 5,
+      "day": null,
+      "region": "日本",
+      "title": "豐臣秀吉出兵朝鮮（文祿之役）",
+      "description": "1592 年秀吉發兵侵略朝鮮，明朝出兵援朝，七年戰爭使三國俱疲，豐臣政權因而動搖，東亞秩序重新洗牌。",
+      "tags": [
+        "戰爭",
+        "東亞"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/萬曆朝鮮之役"
+    },
+    {
+      "id": "evt_16001021_001",
+      "year": 1600,
+      "month": 10,
+      "day": 21,
+      "region": "日本",
+      "title": "關原之戰",
+      "description": "1600 年德川家康於關原擊敗石田三成的西軍，一戰底定天下歸屬，三年後開創江戶幕府。",
+      "tags": [
+        "戰爭",
+        "戰國"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/關原之戰"
+    },
+    {
+      "id": "evt_16001231_001",
+      "year": 1600,
+      "month": 12,
+      "day": 31,
+      "region": "世界",
+      "title": "英國東印度公司成立",
+      "description": "1600 年英王伊莉莎白一世特許東印度公司壟斷東方貿易，這家公司其後以商業之名統治印度次大陸近兩百年。",
+      "tags": [
+        "經濟",
+        "殖民"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/英國東印度公司"
+    },
+    {
       "id": "evt_16020320_001",
       "year": 1602,
       "month": 3,
@@ -661,6 +1157,76 @@
         "大航海"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/荷蘭東印度公司"
+    },
+    {
+      "id": "evt_16030324_001",
+      "year": 1603,
+      "month": 3,
+      "day": 24,
+      "region": "日本",
+      "title": "德川家康開創江戶幕府",
+      "description": "1603 年德川家康受封征夷大將軍於江戶開府，德川幕府統治日本 265 年，帶來長期和平與市民文化的繁榮。",
+      "tags": [
+        "幕府",
+        "江戶時代"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/江戶幕府"
+    },
+    {
+      "id": "evt_1609_001",
+      "year": 1609,
+      "month": null,
+      "day": null,
+      "region": "世界",
+      "title": "伽利略以望遠鏡觀測天空",
+      "description": "1609 年伽利略自製望遠鏡指向夜空，發現月球坑谷與木星衛星，觀測證據動搖地心說，實驗科學方法自此確立。",
+      "tags": [
+        "科學革命",
+        "天文"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/伽利略·伽利萊"
+    },
+    {
+      "id": "evt_16160423_001",
+      "year": 1616,
+      "month": 4,
+      "day": 23,
+      "region": "世界",
+      "title": "莎士比亞逝世",
+      "description": "1616 年莎士比亞逝世，留下三十七部戲劇與百餘首十四行詩，哈姆雷特的天問至今迴盪，被譽為最偉大的英語作家。",
+      "tags": [
+        "人物",
+        "文學"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/威廉·莎士比亞"
+    },
+    {
+      "id": "evt_16180523_001",
+      "year": 1618,
+      "month": 5,
+      "day": 23,
+      "region": "世界",
+      "title": "三十年戰爭爆發",
+      "description": "1618 年布拉格擲窗事件點燃三十年戰爭，歐洲列強混戰使日耳曼地區人口銳減，最終以西發里亞和約重建秩序。",
+      "tags": [
+        "戰爭",
+        "宗教戰爭"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/三十年戰爭"
+    },
+    {
+      "id": "evt_162011_001",
+      "year": 1620,
+      "month": 11,
+      "day": null,
+      "region": "世界",
+      "title": "五月花號抵達北美",
+      "description": "1620 年清教徒乘五月花號抵達北美，船上簽署的《五月花號公約》以自治契約立足新大陸，被視為美國民主的種子。",
+      "tags": [
+        "殖民",
+        "美洲"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/五月花號"
     },
     {
       "id": "evt_162408_001",
@@ -689,6 +1255,35 @@
         "政權轉移"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/臺灣西班牙統治時期"
+    },
+    {
+      "id": "evt_163712_001",
+      "year": 1637,
+      "month": 12,
+      "day": null,
+      "region": "日本",
+      "title": "島原之亂",
+      "description": "1637 年九州島原的天主教徒與農民起義遭幕府大軍血腥鎮壓，近四萬人死亡，幕府隨後徹底禁教並走向鎖國。",
+      "tags": [
+        "民變",
+        "宗教",
+        "江戶時代"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/島原之亂"
+    },
+    {
+      "id": "evt_1639_001",
+      "year": 1639,
+      "month": null,
+      "day": null,
+      "region": "日本",
+      "title": "鎖國體制完成",
+      "description": "1639 年幕府禁止葡萄牙船來航，僅留長崎出島與荷蘭、中國通商，兩百餘年鎖國深刻形塑日本社會，直至黑船叩關。",
+      "tags": [
+        "政策",
+        "江戶時代"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/鎖國"
     },
     {
       "id": "evt_164404_001",
@@ -761,6 +1356,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/澎湖海戰"
     },
     {
+      "id": "evt_16830912_001",
+      "year": 1683,
+      "month": 9,
+      "day": 12,
+      "region": "世界",
+      "title": "維也納之戰",
+      "description": "1683 年波蘭國王索別斯基率聯軍解維也納之圍，鄂圖曼帝國向歐洲的擴張自此逆轉，歐陸權力格局重新洗牌。",
+      "tags": [
+        "戰爭",
+        "鄂圖曼"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/維也納之戰"
+    },
+    {
       "id": "evt_168404_001",
       "year": 1684,
       "month": 4,
@@ -773,6 +1382,20 @@
         "政權轉移"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/臺灣清治時期"
+    },
+    {
+      "id": "evt_168503_001",
+      "year": 1685,
+      "month": 3,
+      "day": null,
+      "region": "世界",
+      "title": "巴哈誕生",
+      "description": "1685 年巴哈生於德國愛森納赫，其賦格與清唱劇集巴洛克音樂之大成，被後世尊為「音樂之父」。",
+      "tags": [
+        "人物",
+        "音樂"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/約翰·塞巴斯蒂安·巴赫"
     },
     {
       "id": "evt_168707_001",
@@ -817,6 +1440,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/尼布楚條約"
     },
     {
+      "id": "evt_1697_001",
+      "year": 1697,
+      "month": null,
+      "day": null,
+      "region": "台灣",
+      "title": "郁永河來台採硫",
+      "description": "1697 年郁永河自福建渡海至北投採硫，沿途見聞寫成《裨海紀遊》，為十七世紀台灣西部最生動的第一手紀錄。",
+      "tags": [
+        "清治時期",
+        "文獻"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/郁永河"
+    },
+    {
       "id": "evt_17070501_001",
       "year": 1707,
       "month": 5,
@@ -829,6 +1466,49 @@
         "帝國"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/大不列顛王國"
+    },
+    {
+      "id": "evt_1709_001",
+      "year": 1709,
+      "month": null,
+      "day": null,
+      "region": "台灣",
+      "title": "陳賴章墾號開拓台北盆地",
+      "description": "1709 年陳賴章墾號取得大佳臘（今台北一帶）墾照，漢人大規模拓墾台北盆地自此開始。",
+      "tags": [
+        "拓墾",
+        "清治時期"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/陳賴章"
+    },
+    {
+      "id": "evt_1712_001",
+      "year": 1712,
+      "month": null,
+      "day": null,
+      "region": "中國",
+      "title": "「盛世滋生人丁，永不加賦」",
+      "description": "1712 年康熙帝宣布以現行丁冊為準永不加賦，雍正朝進一步攤丁入畝，賦稅與人口脫鉤後中國人口爆炸性成長。",
+      "tags": [
+        "制度",
+        "清朝"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/攤丁入畝"
+    },
+    {
+      "id": "evt_1719_001",
+      "year": 1719,
+      "month": null,
+      "day": null,
+      "region": "台灣",
+      "title": "八堡圳完工",
+      "description": "1719 年施世榜引濁水溪水建成八堡圳，灌溉彰化平原上萬甲田地，為清代台灣最大水利工程，奠定中部穀倉地位。",
+      "tags": [
+        "水利",
+        "拓墾",
+        "清治時期"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/八堡圳"
     },
     {
       "id": "evt_17210500_001",
@@ -845,6 +1525,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/朱一貴"
     },
     {
+      "id": "evt_17211102_001",
+      "year": 1721,
+      "month": 11,
+      "day": 2,
+      "region": "世界",
+      "title": "俄羅斯帝國成立",
+      "description": "1721 年彼得大帝於大北方戰爭獲勝後稱皇帝，俄羅斯躋身歐洲列強，此後兩百年不斷向東、向南擴張版圖。",
+      "tags": [
+        "帝國",
+        "政治史"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/俄羅斯帝國"
+    },
+    {
       "id": "evt_17221220_001",
       "year": 1722,
       "month": 12,
@@ -857,6 +1551,34 @@
         "政治史"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/康熙帝"
+    },
+    {
+      "id": "evt_1723_001",
+      "year": 1723,
+      "month": null,
+      "day": null,
+      "region": "台灣",
+      "title": "增設彰化縣與淡水廳",
+      "description": "1723 年清廷因朱一貴事件後檢討治台，增設彰化縣與淡水廳，行政區劃首度越過濁水溪向北推進，反映拓墾北移的趨勢。",
+      "tags": [
+        "行政區劃",
+        "清治時期"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/淡水廳"
+    },
+    {
+      "id": "evt_1729_001",
+      "year": 1729,
+      "month": null,
+      "day": null,
+      "region": "中國",
+      "title": "軍機處設立",
+      "description": "雍正帝為西北用兵設軍機處，其後成為清朝實際的中樞機構，皇權集中臻於頂點。",
+      "tags": [
+        "制度",
+        "清朝"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/軍機處"
     },
     {
       "id": "evt_17351000_001",
@@ -873,6 +1595,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/乾隆帝"
     },
     {
+      "id": "evt_1751_001",
+      "year": 1751,
+      "month": null,
+      "day": null,
+      "region": "世界",
+      "title": "狄德羅《百科全書》開始出版",
+      "description": "1751 年狄德羅主編的《百科全書》首卷問世，啟蒙思想家以知識體系挑戰教會與王權，理性主義浪潮席捲歐洲。",
+      "tags": [
+        "啟蒙運動",
+        "思想"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/德尼·狄德羅"
+    },
+    {
       "id": "evt_17551101_001",
       "year": 1755,
       "month": 11,
@@ -885,6 +1621,34 @@
         "啟蒙運動"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/1755年里斯本大地震"
+    },
+    {
+      "id": "evt_17560127_001",
+      "year": 1756,
+      "month": 1,
+      "day": 27,
+      "region": "世界",
+      "title": "莫札特誕生",
+      "description": "1756 年莫札特生於薩爾斯堡，五歲作曲的神童三十五年生涯留下六百餘部作品，古典樂派的完美化身。",
+      "tags": [
+        "人物",
+        "音樂"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/沃夫岡·阿瑪迪斯·莫札特"
+    },
+    {
+      "id": "evt_17560517_001",
+      "year": 1756,
+      "month": 5,
+      "day": 17,
+      "region": "世界",
+      "title": "七年戰爭爆發",
+      "description": "1756 年英法為殖民地與歐陸霸權開戰，戰火延燒歐、美、亞三洲，被稱為「第一場世界大戰」，英國自此確立海上霸權。",
+      "tags": [
+        "戰爭",
+        "殖民"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/七年戰爭"
     },
     {
       "id": "evt_17571200_001",
@@ -916,6 +1680,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/詹姆斯·瓦特"
     },
     {
+      "id": "evt_177012_001",
+      "year": 1770,
+      "month": 12,
+      "day": null,
+      "region": "世界",
+      "title": "貝多芬誕生",
+      "description": "1770 年貝多芬生於波昂，在全聾之境寫出第九號交響曲，將古典推向浪漫，「扼住命運咽喉」的形象成為藝術意志的象徵。",
+      "tags": [
+        "人物",
+        "音樂"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/路德維希·范·貝多芬"
+    },
+    {
       "id": "evt_17760704_001",
       "year": 1776,
       "month": 7,
@@ -928,6 +1706,20 @@
         "民主發展"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/美國獨立宣言"
+    },
+    {
+      "id": "evt_1782_001",
+      "year": 1782,
+      "month": null,
+      "day": null,
+      "region": "中國",
+      "title": "《四庫全書》第一部完成",
+      "description": "1782 年歷時十年編成的四庫全書首部告成，收書三千餘種，是最大規模的古籍整理工程，惟編纂過程亦伴隨大量禁燬圖書。",
+      "tags": [
+        "文化",
+        "清朝"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/四庫全書"
     },
     {
       "id": "evt_17870100_001",
@@ -986,6 +1778,34 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/川楚教亂"
     },
     {
+      "id": "evt_17960514_001",
+      "year": 1796,
+      "month": 5,
+      "day": 14,
+      "region": "世界",
+      "title": "詹納接種第一劑牛痘疫苗",
+      "description": "1796 年英國醫師詹納以牛痘為男童接種預防天花，疫苗學自此誕生，最終使天花成為第一個被根除的人類傳染病。",
+      "tags": [
+        "醫學",
+        "公共衛生"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/愛德華·詹納"
+    },
+    {
+      "id": "evt_179907_001",
+      "year": 1799,
+      "month": 7,
+      "day": null,
+      "region": "世界",
+      "title": "羅塞塔石碑出土",
+      "description": "1799 年拿破崙遠征軍於埃及羅塞塔發現三語石碑，其後商博良據以破譯埃及聖書體，埃及學自此誕生。",
+      "tags": [
+        "考古",
+        "古埃及"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/羅塞塔石碑"
+    },
+    {
       "id": "evt_18041202_001",
       "year": 1804,
       "month": 12,
@@ -1000,6 +1820,35 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/拿破崙一世"
     },
     {
+      "id": "evt_18070325_001",
+      "year": 1807,
+      "month": 3,
+      "day": 25,
+      "region": "世界",
+      "title": "英國廢除奴隸貿易",
+      "description": "1807 年英國國會通過廢除奴隸貿易法案，廢奴運動跨出關鍵一步，1833 年大英帝國進一步全面廢除奴隸制。",
+      "tags": [
+        "人權",
+        "廢奴"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/廢奴主義"
+    },
+    {
+      "id": "evt_1810_001",
+      "year": 1810,
+      "month": null,
+      "day": null,
+      "region": "台灣",
+      "title": "噶瑪蘭廳設立",
+      "description": "1810 年清廷將吳沙等人拓墾的蛤仔難（宜蘭）正式納入版圖設噶瑪蘭廳，東北部自此進入官治。",
+      "tags": [
+        "行政區劃",
+        "拓墾",
+        "清治時期"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/噶瑪蘭廳"
+    },
+    {
       "id": "evt_18150618_001",
       "year": 1815,
       "month": 6,
@@ -1012,6 +1861,20 @@
         "國際秩序"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/滑鐵盧戰役"
+    },
+    {
+      "id": "evt_1823_001",
+      "year": 1823,
+      "month": null,
+      "day": null,
+      "region": "台灣",
+      "title": "鄭用錫成為「開台進士」",
+      "description": "1823 年竹塹鄭用錫以台灣本籍身分考中進士，人稱開台進士，象徵台灣社會由移墾走向文教成熟。",
+      "tags": [
+        "文教",
+        "清治時期"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/鄭用錫"
     },
     {
       "id": "evt_18250927_001",
@@ -1072,6 +1935,34 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/南京條約"
     },
     {
+      "id": "evt_18440524_001",
+      "year": 1844,
+      "month": 5,
+      "day": 24,
+      "region": "世界",
+      "title": "摩斯發送首封長途電報",
+      "description": "1844 年摩斯自華盛頓向巴爾的摩發出「上帝創造了何等奇蹟」，電報時代來臨，資訊首度跑得比人快。",
+      "tags": [
+        "科技",
+        "通訊"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/電報"
+    },
+    {
+      "id": "evt_18470211_001",
+      "year": 1847,
+      "month": 2,
+      "day": 11,
+      "region": "世界",
+      "title": "愛迪生誕生",
+      "description": "1847 年愛迪生生於俄亥俄州，一生取得千餘項專利，白熾燈與留聲機改寫日常生活，開創發明工業化的先河。",
+      "tags": [
+        "人物",
+        "科技"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/湯瑪斯·愛迪生"
+    },
+    {
       "id": "evt_18480221_001",
       "year": 1848,
       "month": 2,
@@ -1100,6 +1991,49 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/太平天國"
     },
     {
+      "id": "evt_1853_001",
+      "year": 1853,
+      "month": null,
+      "day": null,
+      "region": "台灣",
+      "title": "頂下郊拚",
+      "description": "1853 年艋舺頂郊與下郊人群爆發大規模分類械鬥，落敗的同安人退往大稻埕另起爐灶，意外造就日後大稻埕的繁榮。",
+      "tags": [
+        "械鬥",
+        "社會",
+        "清治時期"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/頂下郊拚"
+    },
+    {
+      "id": "evt_18530708_001",
+      "year": 1853,
+      "month": 7,
+      "day": 8,
+      "region": "日本",
+      "title": "黑船來航",
+      "description": "1853 年美國培里艦隊駛入江戶灣強迫日本開國，兩百年鎖國告終，日本的危機感直接催生明治維新。",
+      "tags": [
+        "日本",
+        "開國"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/黑船來航"
+    },
+    {
+      "id": "evt_18560506_001",
+      "year": 1856,
+      "month": 5,
+      "day": 6,
+      "region": "世界",
+      "title": "佛洛伊德誕生",
+      "description": "1856 年精神分析學創始人佛洛伊德生於摩拉維亞，潛意識與夢的解析顛覆人類的自我認識，影響遍及心理學、藝術與文化。",
+      "tags": [
+        "人物",
+        "思想"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/西格蒙德·佛洛伊德"
+    },
+    {
       "id": "evt_18561008_001",
       "year": 1856,
       "month": 10,
@@ -1113,6 +2047,20 @@
         "近代史"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/第二次鴉片戰爭"
+    },
+    {
+      "id": "evt_18580626_001",
+      "year": 1858,
+      "month": 6,
+      "day": 26,
+      "region": "中國",
+      "title": "《天津條約》簽訂",
+      "description": "1858 年清廷與英法等國簽訂天津條約，增開通商口岸並開放台灣的滬尾（淡水）、安平等港，台灣自此重新進入世界貿易體系。",
+      "tags": [
+        "條約",
+        "清朝"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/天津條約"
     },
     {
       "id": "evt_18591124_001",
@@ -1144,6 +2092,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/圓明園"
     },
     {
+      "id": "evt_18601024_001",
+      "year": 1860,
+      "month": 10,
+      "day": 24,
+      "region": "中國",
+      "title": "《北京條約》簽訂",
+      "description": "1860 年英法聯軍兵臨城下，清廷簽訂北京條約割讓九龍、開放天津，並確認割讓烏蘇里江以東土地予俄國。",
+      "tags": [
+        "條約",
+        "清朝"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/北京條約"
+    },
+    {
       "id": "evt_18610120_001",
       "year": 1861,
       "month": 1,
@@ -1173,6 +2135,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/南北戰爭"
     },
     {
+      "id": "evt_186111_001",
+      "year": 1861,
+      "month": 11,
+      "day": null,
+      "region": "中國",
+      "title": "辛酉政變，慈禧掌權",
+      "description": "1861 年咸豐帝駕崩後，慈禧太后聯合恭親王發動政變剷除顧命八大臣，垂簾聽政近半世紀，主導晚清政局。",
+      "tags": [
+        "政變",
+        "清朝"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/辛酉政變"
+    },
+    {
       "id": "evt_18620400_001",
       "year": 1862,
       "month": 4,
@@ -1187,6 +2163,77 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/戴潮春事件"
     },
     {
+      "id": "evt_18640719_001",
+      "year": 1864,
+      "month": 7,
+      "day": 19,
+      "region": "中國",
+      "title": "天京陷落，太平天國覆滅",
+      "description": "1864 年湘軍攻破天京，歷時十四年、波及大半中國的太平天國運動告終，估計死亡人數達數千萬，湘淮軍崛起改變清廷權力結構。",
+      "tags": [
+        "戰爭",
+        "清朝"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/太平天國"
+    },
+    {
+      "id": "evt_18650414_001",
+      "year": 1865,
+      "month": 4,
+      "day": 14,
+      "region": "世界",
+      "title": "林肯遇刺",
+      "description": "1865 年南北戰爭甫結束，林肯總統於福特劇院遇刺身亡；同年憲法第十三修正案正式廢除奴隸制，重建時代在動盪中展開。",
+      "tags": [
+        "美國",
+        "人物"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/亞伯拉罕·林肯"
+    },
+    {
+      "id": "evt_18670312_001",
+      "year": 1867,
+      "month": 3,
+      "day": 12,
+      "region": "台灣",
+      "title": "羅妹號事件",
+      "description": "1867 年美國商船羅妹號船員於恆春半島遇害，美國與瑯嶠十八社頭目卓杞篤直接締約，暴露清廷對「番地」統治的空白。",
+      "tags": [
+        "涉外事件",
+        "原住民",
+        "清治時期"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/羅妹號事件"
+    },
+    {
+      "id": "evt_18671107_001",
+      "year": 1867,
+      "month": 11,
+      "day": 7,
+      "region": "世界",
+      "title": "瑪麗·居禮誕生",
+      "description": "1867 年瑪麗·居禮生於華沙，發現釙與鐳並兩度榮獲諾貝爾獎，是女性科學家衝破時代藩籬的永恆典範。",
+      "tags": [
+        "人物",
+        "科學"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/瑪麗·居禮"
+    },
+    {
+      "id": "evt_18680103_001",
+      "year": 1868,
+      "month": 1,
+      "day": 3,
+      "region": "日本",
+      "title": "明治維新開始",
+      "description": "1868 年日本王政復古、廢幕府行新政，明治政府全面西化改革，數十年間躍升為亞洲第一個工業化強權，深刻牽動東亞與台灣的命運。",
+      "tags": [
+        "日本",
+        "改革"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/明治維新"
+    },
+    {
       "id": "evt_18691117_001",
       "year": 1869,
       "month": 11,
@@ -1199,6 +2246,34 @@
         "全球化"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/蘇伊士運河"
+    },
+    {
+      "id": "evt_18710118_001",
+      "year": 1871,
+      "month": 1,
+      "day": 18,
+      "region": "世界",
+      "title": "德意志帝國成立",
+      "description": "1871 年普法戰爭獲勝後，威廉一世於凡爾賽鏡廳加冕為德意志皇帝，統一的德國崛起徹底改變歐洲均勢。",
+      "tags": [
+        "帝國",
+        "政治史"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/德意志帝國"
+    },
+    {
+      "id": "evt_18720811_001",
+      "year": 1872,
+      "month": 8,
+      "day": 11,
+      "region": "中國",
+      "title": "首批留美幼童出洋",
+      "description": "1872 年容閎促成首批三十名幼童赴美留學，中國近代留學教育開端，詹天佑等人日後成為建設骨幹。",
+      "tags": [
+        "教育",
+        "近代化"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/留美幼童"
     },
     {
       "id": "evt_18740500_001",
@@ -1230,6 +2305,34 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/亞歷山大·格拉漢姆·貝爾"
     },
     {
+      "id": "evt_187702_001",
+      "year": 1877,
+      "month": 2,
+      "day": null,
+      "region": "日本",
+      "title": "西南戰爭",
+      "description": "1877 年西鄉隆盛率不滿士族起兵反抗明治政府，政府軍以徵兵制新軍平亂，武士時代就此落幕。",
+      "tags": [
+        "內戰",
+        "明治"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/西南戰爭"
+    },
+    {
+      "id": "evt_18830827_001",
+      "year": 1883,
+      "month": 8,
+      "day": 27,
+      "region": "世界",
+      "title": "喀拉喀托火山大爆發",
+      "description": "1883 年印尼喀拉喀托火山爆發，巨響遠傳數千公里、海嘯奪走三萬六千條人命，火山灰使全球氣溫下降，晚霞染紅世界天空。",
+      "tags": [
+        "天災",
+        "火山"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/喀拉喀托火山"
+    },
+    {
       "id": "evt_18840805_001",
       "year": 1884,
       "month": 8,
@@ -1242,6 +2345,20 @@
         "清治時期"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/清法戰爭"
+    },
+    {
+      "id": "evt_188502_001",
+      "year": 1885,
+      "month": 2,
+      "day": null,
+      "region": "世界",
+      "title": "柏林會議與瓜分非洲",
+      "description": "1885 年柏林會議閉幕，歐洲列強議定瓜分非洲的規則，此後二十年幾乎整個非洲大陸淪為殖民地。",
+      "tags": [
+        "殖民",
+        "帝國主義"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/瓜分非洲"
     },
     {
       "id": "evt_18851012_001",
@@ -1273,6 +2390,49 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/卡爾·賓士"
     },
     {
+      "id": "evt_188709_001",
+      "year": 1887,
+      "month": 9,
+      "day": null,
+      "region": "中國",
+      "title": "黃河鄭州決口",
+      "description": "1887 年黃河於鄭州決口奪淮入海，洪水淹沒豫皖蘇大片平原，死亡人數估計近百萬，為十九世紀最慘重的水災之一。",
+      "tags": [
+        "天災",
+        "清朝"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/黃河"
+    },
+    {
+      "id": "evt_18890211_001",
+      "year": 1889,
+      "month": 2,
+      "day": 11,
+      "region": "日本",
+      "title": "《大日本帝國憲法》頒布",
+      "description": "1889 年明治政府頒布亞洲第一部近代憲法，確立天皇主權下的立憲體制，日本躋身立憲國家之列。",
+      "tags": [
+        "憲政",
+        "明治"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/大日本帝國憲法"
+    },
+    {
+      "id": "evt_1891_001",
+      "year": 1891,
+      "month": null,
+      "day": null,
+      "region": "台灣",
+      "title": "基隆—台北鐵路通車",
+      "description": "1891 年劉銘傳主持修築的基隆至台北鐵路通車，為全中國最早的官辦客運鐵路之一，台灣近代化建設的里程碑。",
+      "tags": [
+        "交通",
+        "近代化",
+        "清治時期"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/劉銘傳"
+    },
+    {
       "id": "evt_18940725_001",
       "year": 1894,
       "month": 7,
@@ -1302,6 +2462,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/馬關條約"
     },
     {
+      "id": "evt_18950502_001",
+      "year": 1895,
+      "month": 5,
+      "day": 2,
+      "region": "中國",
+      "title": "公車上書",
+      "description": "1895 年康有為集結千餘名舉人聯名上書反對批准馬關條約、要求變法，士人集體政治行動揭開維新運動序幕。",
+      "tags": [
+        "改革",
+        "清朝"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/公車上書"
+    },
+    {
       "id": "evt_18950525_001",
       "year": 1895,
       "month": 5,
@@ -1316,6 +2490,62 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/臺灣民主國"
     },
     {
+      "id": "evt_18951108_001",
+      "year": 1895,
+      "month": 11,
+      "day": 8,
+      "region": "世界",
+      "title": "倫琴發現 X 光",
+      "description": "1895 年倫琴發現能穿透人體的未知射線，醫學影像自此誕生，他也因此獲得史上第一座諾貝爾物理學獎。",
+      "tags": [
+        "科學",
+        "醫學"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/威廉·倫琴"
+    },
+    {
+      "id": "evt_18960331_001",
+      "year": 1896,
+      "month": 3,
+      "day": 31,
+      "region": "台灣",
+      "title": "六三法公布",
+      "description": "1896 年日本國會授權台灣總督發布具法律效力之命令，總督集行政、立法、軍事大權於一身，成為日後台人抗爭的焦點。",
+      "tags": [
+        "法制",
+        "日治時期"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/六三法"
+    },
+    {
+      "id": "evt_18960406_001",
+      "year": 1896,
+      "month": 4,
+      "day": 6,
+      "region": "世界",
+      "title": "首屆現代奧運會於雅典開幕",
+      "description": "1896 年古柏坦推動的第一屆現代奧林匹克運動會在雅典揭幕，體育自此成為跨越國界的世界共同語言。",
+      "tags": [
+        "體育",
+        "國際交流"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/1896年夏季奧林匹克運動會"
+    },
+    {
+      "id": "evt_189803_001",
+      "year": 1898,
+      "month": 3,
+      "day": null,
+      "region": "台灣",
+      "title": "後藤新平就任民政長官",
+      "description": "1898 年兒玉源太郎與後藤新平主政，以土地調查、戶口普查與生物學統治原則奠定日治基礎建設，台灣財政迅速自立。",
+      "tags": [
+        "治理",
+        "日治時期"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/後藤新平"
+    },
+    {
       "id": "evt_18980611_001",
       "year": 1898,
       "month": 6,
@@ -1328,6 +2558,20 @@
         "清朝"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/戊戌變法"
+    },
+    {
+      "id": "evt_18990926_001",
+      "year": 1899,
+      "month": 9,
+      "day": 26,
+      "region": "台灣",
+      "title": "台灣銀行開業",
+      "description": "1899 年台灣銀行開業並發行台灣銀行券，統一幣制、融通產業資金，成為殖民地經濟的金融中樞。",
+      "tags": [
+        "金融",
+        "日治時期"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/臺灣銀行"
     },
     {
       "id": "evt_19000814_001",
@@ -1345,6 +2589,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/八國聯軍之役"
     },
     {
+      "id": "evt_19010907_001",
+      "year": 1901,
+      "month": 9,
+      "day": 7,
+      "region": "中國",
+      "title": "《辛丑條約》簽訂",
+      "description": "1901 年清廷與十一國簽訂辛丑條約，賠款白銀 4.5 億兩、允許外軍駐京，中國半殖民地化至此達到頂點。",
+      "tags": [
+        "條約",
+        "清朝"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/辛丑條約"
+    },
+    {
       "id": "evt_19031217_001",
       "year": 1903,
       "month": 12,
@@ -1357,6 +2615,34 @@
         "航空"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/萊特兄弟"
+    },
+    {
+      "id": "evt_19040208_001",
+      "year": 1904,
+      "month": 2,
+      "day": 8,
+      "region": "日本",
+      "title": "日俄戰爭爆發",
+      "description": "1904 年日俄為爭奪滿洲與朝鮮開戰，日本成為首個擊敗歐洲列強的亞洲國家，震動全球殖民地並埋下俄國革命火種。",
+      "tags": [
+        "戰爭",
+        "帝國主義"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/日俄戰爭"
+    },
+    {
+      "id": "evt_1905_001",
+      "year": 1905,
+      "month": null,
+      "day": null,
+      "region": "世界",
+      "title": "愛因斯坦「奇蹟年」",
+      "description": "1905 年愛因斯坦連續發表狹義相對論、光電效應與布朗運動等論文，徹底改寫物理學的時空觀，開啟現代物理紀元。",
+      "tags": [
+        "科學",
+        "物理"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/阿爾伯特·愛因斯坦"
     },
     {
       "id": "evt_19050902_001",
@@ -1374,6 +2660,34 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/科舉"
     },
     {
+      "id": "evt_19060317_001",
+      "year": 1906,
+      "month": 3,
+      "day": 17,
+      "region": "台灣",
+      "title": "梅山大地震",
+      "description": "1906 年嘉義梅山發生規模 7.1 強震，1200 餘人罹難，為二十世紀台灣最嚴重震災之一，促成日治時期家屋耐震規範。",
+      "tags": [
+        "天災",
+        "日治時期"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/1906年梅山地震"
+    },
+    {
+      "id": "evt_19071115_001",
+      "year": 1907,
+      "month": 11,
+      "day": 15,
+      "region": "台灣",
+      "title": "北埔事件",
+      "description": "1907 年蔡清琳率眾襲擊北埔支廳日警，為日治時期首起武裝抗日事件，遭到迅速鎮壓，百餘人被處死或判刑。",
+      "tags": [
+        "抗日",
+        "日治時期"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/北埔事件"
+    },
+    {
       "id": "evt_19080420_001",
       "year": 1908,
       "month": 4,
@@ -1387,6 +2701,34 @@
         "日治時期"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/縱貫線_(臺鐵)"
+    },
+    {
+      "id": "evt_190811_001",
+      "year": 1908,
+      "month": 11,
+      "day": null,
+      "region": "中國",
+      "title": "光緒與慈禧相繼去世，溥儀繼位",
+      "description": "1908 年 11 月光緒帝與慈禧太后在兩日內相繼去世，三歲溥儀入承大統，風雨飄搖的清王朝進入倒數。",
+      "tags": [
+        "清朝",
+        "人物"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/溥儀"
+    },
+    {
+      "id": "evt_19100829_001",
+      "year": 1910,
+      "month": 8,
+      "day": 29,
+      "region": "日本",
+      "title": "日韓合併",
+      "description": "1910 年日本強行兼併大韓帝國，朝鮮半島淪為殖民地三十五年，殖民統治的傷痕至今仍影響日韓關係。",
+      "tags": [
+        "殖民",
+        "帝國主義"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/日韓合併條約"
     },
     {
       "id": "evt_19111010_001",
@@ -1415,6 +2757,48 @@
         "共和"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/中華民國"
+    },
+    {
+      "id": "evt_19120415_001",
+      "year": 1912,
+      "month": 4,
+      "day": 15,
+      "region": "世界",
+      "title": "鐵達尼號沉沒",
+      "description": "1912 年號稱永不沉沒的鐵達尼號首航撞上冰山沉沒，逾 1500 人罹難，促成國際海上人命安全公約的誕生。",
+      "tags": [
+        "事故",
+        "航運"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/鐵達尼號"
+    },
+    {
+      "id": "evt_19130320_001",
+      "year": 1913,
+      "month": 3,
+      "day": 20,
+      "region": "中國",
+      "title": "宋教仁遇刺",
+      "description": "1913 年國民黨領袖宋教仁於上海車站遇刺身亡，政黨政治的希望隨之破滅，二次革命與軍閥時代接踵而來。",
+      "tags": [
+        "政治史",
+        "暗殺"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/宋教仁"
+    },
+    {
+      "id": "evt_191312_001",
+      "year": 1913,
+      "month": 12,
+      "day": null,
+      "region": "台灣",
+      "title": "苗栗事件",
+      "description": "1913 年羅福星以同盟會背景在苗栗籌劃抗日起事，事洩被捕，連同各地志士兩百餘人遭判刑，羅福星翌年就義。",
+      "tags": [
+        "抗日",
+        "日治時期"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/苗栗事件"
     },
     {
       "id": "evt_19140728_001",
@@ -1457,6 +2841,20 @@
         "文化"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/新文化運動"
+    },
+    {
+      "id": "evt_19151212_001",
+      "year": 1915,
+      "month": 12,
+      "day": 12,
+      "region": "中國",
+      "title": "袁世凱稱帝",
+      "description": "1915 年袁世凱接受帝位籌備洪憲帝制，護國戰爭隨即爆發，帝制八十三天即告取消，袁旋即病逝，中國陷入軍閥割據。",
+      "tags": [
+        "政變",
+        "政治史"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/袁世凱"
     },
     {
       "id": "evt_19171107_001",
@@ -1516,6 +2914,34 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/五四運動"
     },
     {
+      "id": "evt_19191029_001",
+      "year": 1919,
+      "month": 10,
+      "day": 29,
+      "region": "台灣",
+      "title": "首任文官總督田健治郎就任",
+      "description": "1919 年田健治郎出任首位文官台灣總督，標舉內地延長主義，武官統治告一段落，台灣進入相對開明的大正時期。",
+      "tags": [
+        "治理",
+        "日治時期"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/田健治郎"
+    },
+    {
+      "id": "evt_19200110_001",
+      "year": 1920,
+      "month": 1,
+      "day": 10,
+      "region": "世界",
+      "title": "國際聯盟成立",
+      "description": "1920 年一戰後成立的國際聯盟正式運作，人類首次嘗試以常設國際組織維持和平，雖告失敗卻為聯合國鋪路。",
+      "tags": [
+        "國際組織",
+        "戰後秩序"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/國際聯盟"
+    },
+    {
       "id": "evt_19210723_001",
       "year": 1921,
       "month": 7,
@@ -1545,6 +2971,33 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/臺灣文化協會"
     },
     {
+      "id": "evt_19221230_001",
+      "year": 1922,
+      "month": 12,
+      "day": 30,
+      "region": "世界",
+      "title": "蘇聯成立",
+      "description": "1922 年俄羅斯等四個蘇維埃共和國組成蘇聯，世界第一個社會主義聯邦國家登場，成為二十世紀全球格局的一極。",
+      "tags": [
+        "政治史",
+        "共產主義"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/蘇聯"
+    },
+    {
+      "id": "evt_19230901_001",
+      "year": 1923,
+      "month": 9,
+      "day": 1,
+      "region": "日本",
+      "title": "關東大地震",
+      "description": "1923 年規模 7.9 強震襲擊東京、橫濱，地震與大火奪走十萬餘條人命，混亂中並發生朝鮮人遭虐殺事件，日本社會深受衝擊。",
+      "tags": [
+        "天災"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/關東大地震"
+    },
+    {
       "id": "evt_19231216_001",
       "year": 1923,
       "month": 12,
@@ -1558,6 +3011,48 @@
         "日治時期"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/治警事件"
+    },
+    {
+      "id": "evt_19240616_001",
+      "year": 1924,
+      "month": 6,
+      "day": 16,
+      "region": "中國",
+      "title": "黃埔軍校成立",
+      "description": "1924 年孫中山在蘇聯協助下於廣州創辦黃埔軍校，蔣中正任校長，國共兩黨的軍事骨幹多出於此。",
+      "tags": [
+        "軍事",
+        "國共"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/黃埔軍校"
+    },
+    {
+      "id": "evt_19250312_001",
+      "year": 1925,
+      "month": 3,
+      "day": 12,
+      "region": "中國",
+      "title": "孫中山逝世",
+      "description": "1925 年孫中山病逝北京，遺囑「革命尚未成功，同志仍須努力」，其三民主義成為國民黨的意識形態旗幟。",
+      "tags": [
+        "人物",
+        "政治史"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/孫中山"
+    },
+    {
+      "id": "evt_19250530_001",
+      "year": 1925,
+      "month": 5,
+      "day": 30,
+      "region": "中國",
+      "title": "五卅運動",
+      "description": "1925 年上海租界巡捕開槍鎮壓示威群眾釀成五卅慘案，反帝罷工浪潮席捲全國，民族主義動員達到新高峰。",
+      "tags": [
+        "社會運動",
+        "民族主義"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/五卅運動"
     },
     {
       "id": "evt_19260424_001",
@@ -1588,6 +3083,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/國民革命軍北伐"
     },
     {
+      "id": "evt_19270412_001",
+      "year": 1927,
+      "month": 4,
+      "day": 12,
+      "region": "中國",
+      "title": "四一二事件，國共分裂",
+      "description": "1927 年蔣中正於上海清黨，大規模捕殺共產黨人，第一次國共合作破裂，此後十年國共內戰不斷。",
+      "tags": [
+        "政變",
+        "國共"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/四一二事件"
+    },
+    {
       "id": "evt_19270710_001",
       "year": 1927,
       "month": 7,
@@ -1603,6 +3112,48 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/臺灣民眾黨_(1927年)"
     },
     {
+      "id": "evt_192803_001",
+      "year": 1928,
+      "month": 3,
+      "day": null,
+      "region": "台灣",
+      "title": "台北帝國大學創立",
+      "description": "1928 年台北帝國大學設立，為台灣第一所大學，戰後改制為國立台灣大學，百年來始終是台灣學術重鎮。",
+      "tags": [
+        "教育",
+        "日治時期"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/國立臺灣大學"
+    },
+    {
+      "id": "evt_19280928_001",
+      "year": 1928,
+      "month": 9,
+      "day": 28,
+      "region": "世界",
+      "title": "弗萊明發現盤尼西林",
+      "description": "1928 年弗萊明在發霉的培養皿中發現青黴素，抗生素時代自此開啟，人類對細菌感染的戰爭出現決定性轉折。",
+      "tags": [
+        "醫學",
+        "科學"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/亞歷山大·弗萊明"
+    },
+    {
+      "id": "evt_19281229_001",
+      "year": 1928,
+      "month": 12,
+      "day": 29,
+      "region": "中國",
+      "title": "東北易幟",
+      "description": "1928 年張學良宣布東北改懸青天白日滿地紅旗歸順國民政府，北伐告成，中國形式上完成統一。",
+      "tags": [
+        "政治史",
+        "統一"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/東北易幟"
+    },
+    {
       "id": "evt_19291024_001",
       "year": 1929,
       "month": 10,
@@ -1615,6 +3166,21 @@
         "大蕭條"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/1929年華爾街股災"
+    },
+    {
+      "id": "evt_193005_001",
+      "year": 1930,
+      "month": 5,
+      "day": null,
+      "region": "台灣",
+      "title": "嘉南大圳完工",
+      "description": "1930 年八田與一設計的嘉南大圳與烏山頭水庫竣工，灌溉嘉南平原十五萬甲，徹底改寫台灣農業版圖。",
+      "tags": [
+        "水利",
+        "基礎建設",
+        "日治時期"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/嘉南大圳"
     },
     {
       "id": "evt_19301027_001",
@@ -1632,6 +3198,48 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/霧社事件"
     },
     {
+      "id": "evt_193107_001",
+      "year": 1931,
+      "month": 7,
+      "day": null,
+      "region": "中國",
+      "title": "1931 年長江大水災",
+      "description": "1931 年長江、淮河流域特大洪水淹沒武漢等城市，受災人口估計逾五千萬、死亡數十萬，為二十世紀最慘重的水災之一。",
+      "tags": [
+        "天災"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/1931年中國水災"
+    },
+    {
+      "id": "evt_19310805_001",
+      "year": 1931,
+      "month": 8,
+      "day": 5,
+      "region": "台灣",
+      "title": "蔣渭水逝世",
+      "description": "1931 年「台灣人的救主」蔣渭水病逝，年僅四十歲，其創立文化協會與民眾黨、畢生推動非武裝抗日的身影成為台灣民族運動的象徵。",
+      "tags": [
+        "人物",
+        "民主運動",
+        "日治時期"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/蔣渭水"
+    },
+    {
+      "id": "evt_193108_001",
+      "year": 1931,
+      "month": 8,
+      "day": 21,
+      "region": "台灣",
+      "title": "嘉農棒球隊闖進甲子園決賽",
+      "description": "1931 年嘉義農林棒球隊以漢人、日人、原住民混編陣容打進日本甲子園決賽獲得亞軍，「天下嘉農」成為台灣棒球的原點。",
+      "tags": [
+        "體育",
+        "日治時期"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/嘉義農林棒球隊"
+    },
+    {
       "id": "evt_19310918_001",
       "year": 1931,
       "month": 9,
@@ -1644,6 +3252,34 @@
         "抗日"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/九一八事變"
+    },
+    {
+      "id": "evt_19320301_001",
+      "year": 1932,
+      "month": 3,
+      "day": 1,
+      "region": "中國",
+      "title": "滿洲國成立",
+      "description": "1932 年日本扶植溥儀於東北建立滿洲國，國際聯盟調查認定為傀儡政權，日本憤而退出國聯，走向孤立與擴張。",
+      "tags": [
+        "傀儡政權",
+        "抗日"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/滿洲國"
+    },
+    {
+      "id": "evt_19321128_001",
+      "year": 1932,
+      "month": 11,
+      "day": 28,
+      "region": "台灣",
+      "title": "菊元百貨開幕",
+      "description": "1932 年台灣第一家百貨公司菊元百貨於台北榮町開幕，配備「流籠」電梯的七層洋樓成為摩登時代的地標。",
+      "tags": [
+        "社會文化",
+        "日治時期"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/菊元百貨"
     },
     {
       "id": "evt_19330130_001",
@@ -1672,6 +3308,20 @@
         "政治史"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/長征"
+    },
+    {
+      "id": "evt_193501_001",
+      "year": 1935,
+      "month": 1,
+      "day": null,
+      "region": "中國",
+      "title": "遵義會議",
+      "description": "1935 年長征途中的遵義會議批判左傾軍事路線，毛澤東進入決策核心，成為中共黨史的重大轉折點。",
+      "tags": [
+        "國共",
+        "政治史"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/遵義會議"
     },
     {
       "id": "evt_19350421_001",
@@ -1715,6 +3365,48 @@
         "日治時期"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/1935年臺灣市會及街庄協議會員選舉"
+    },
+    {
+      "id": "evt_19360226_001",
+      "year": 1936,
+      "month": 2,
+      "day": 26,
+      "region": "日本",
+      "title": "二二六事件",
+      "description": "1936 年皇道派青年軍官率兵政變刺殺重臣，政變雖被鎮壓，軍部勢力卻更加坐大，日本加速走向軍國主義與戰爭。",
+      "tags": [
+        "政變",
+        "軍國主義"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/二二六事件"
+    },
+    {
+      "id": "evt_19360717_001",
+      "year": 1936,
+      "month": 7,
+      "day": 17,
+      "region": "世界",
+      "title": "西班牙內戰爆發",
+      "description": "1936 年佛朗哥發動叛變，西班牙內戰成為法西斯與左翼陣營的國際代理戰場，格爾尼卡的悲劇預演了二戰的殘酷。",
+      "tags": [
+        "戰爭",
+        "法西斯"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/西班牙內戰"
+    },
+    {
+      "id": "evt_19361019_001",
+      "year": 1936,
+      "month": 10,
+      "day": 19,
+      "region": "中國",
+      "title": "魯迅逝世",
+      "description": "1936 年新文學旗手魯迅病逝上海，數萬民眾自發送葬，靈柩覆蓋「民族魂」旗幟，其雜文與小說至今仍是華文世界的思想利刃。",
+      "tags": [
+        "人物",
+        "文學"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/魯迅"
     },
     {
       "id": "evt_19361212_001",
@@ -1774,6 +3466,35 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/南京大屠殺"
     },
     {
+      "id": "evt_19380609_001",
+      "year": 1938,
+      "month": 6,
+      "day": 9,
+      "region": "中國",
+      "title": "花園口決堤",
+      "description": "1938 年國民政府為阻滯日軍炸開黃河花園口大堤，洪水造成數十萬平民死亡、上千萬人流離，是戰爭中最慘烈的以水代兵。",
+      "tags": [
+        "戰爭",
+        "天災",
+        "抗日"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/花園口決堤事件"
+    },
+    {
+      "id": "evt_19380930_001",
+      "year": 1938,
+      "month": 9,
+      "day": 30,
+      "region": "世界",
+      "title": "《慕尼黑協定》簽署",
+      "description": "1938 年英法為避戰同意德國兼併蘇台德地區，「綏靖政策」反而助長希特勒野心，一年後大戰全面爆發。",
+      "tags": [
+        "二戰前夕",
+        "外交"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/慕尼黑協定"
+    },
+    {
       "id": "evt_19390901_001",
       "year": 1939,
       "month": 9,
@@ -1788,6 +3509,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/第二次世界大戰"
     },
     {
+      "id": "evt_19400330_001",
+      "year": 1940,
+      "month": 3,
+      "day": 30,
+      "region": "中國",
+      "title": "汪精衛政權成立",
+      "description": "1940 年汪精衛於南京成立親日的國民政府，與重慶國民政府分庭抗禮，「和平運動」淪為日本占領統治的工具。",
+      "tags": [
+        "傀儡政權",
+        "抗日"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/汪精衛"
+    },
+    {
       "id": "evt_19411208_001",
       "year": 1941,
       "month": 12,
@@ -1800,6 +3535,48 @@
         "日治時期"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/太平洋戰爭"
+    },
+    {
+      "id": "evt_19440606_001",
+      "year": 1944,
+      "month": 6,
+      "day": 6,
+      "region": "世界",
+      "title": "諾曼第登陸",
+      "description": "1944 年 6 月 6 日盟軍發動史上最大兩棲登陸作戰，於諾曼第開闢第二戰場，納粹德國的敗亡自此進入倒數。",
+      "tags": [
+        "二戰",
+        "戰爭"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/諾曼第戰役"
+    },
+    {
+      "id": "evt_194407_001",
+      "year": 1944,
+      "month": 7,
+      "day": null,
+      "region": "世界",
+      "title": "布雷頓森林會議",
+      "description": "1944 年 44 國代表於布雷頓森林議定戰後金融秩序，建立美元掛鉤黃金的固定匯率體系與 IMF、世界銀行。",
+      "tags": [
+        "經濟",
+        "國際秩序"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/布雷頓森林體系"
+    },
+    {
+      "id": "evt_19450204_001",
+      "year": 1945,
+      "month": 2,
+      "day": 4,
+      "region": "世界",
+      "title": "雅爾達會議",
+      "description": "1945 年羅斯福、邱吉爾、史達林於雅爾達密議戰後勢力範圍，會議安排形塑冷戰格局，也深刻影響東亞與台灣的命運。",
+      "tags": [
+        "二戰",
+        "國際秩序"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/雅爾達會議"
     },
     {
       "id": "evt_19450531_001",
@@ -1820,7 +3597,7 @@
       "year": 1945,
       "month": 8,
       "day": 6,
-      "region": "世界",
+      "region": "日本",
       "title": "廣島原子彈爆炸",
       "description": "美軍於廣島投下人類史上首枚實戰原子彈，瞬間夷平全城、奪走十餘萬人生命，三日後長崎再遭核擊，核時代自此開啟。",
       "tags": [
@@ -1835,7 +3612,7 @@
       "year": 1945,
       "month": 8,
       "day": 15,
-      "region": "世界",
+      "region": "日本",
       "title": "日本宣布無條件投降，二戰結束",
       "description": "昭和天皇發表終戰詔書宣布接受《波茨坦公告》，第二次世界大戰結束，戰後國際秩序與冷戰格局即將登場。",
       "tags": [
@@ -1843,6 +3620,20 @@
         "二戰"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/日本投降"
+    },
+    {
+      "id": "evt_19451010_001",
+      "year": 1945,
+      "month": 10,
+      "day": 10,
+      "region": "中國",
+      "title": "重慶談判與《雙十協定》",
+      "description": "1945 年毛澤東赴重慶與蔣中正談判並簽署雙十協定，和平建國的承諾未及一年即被全面內戰取代。",
+      "tags": [
+        "國共",
+        "談判"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/重慶談判"
     },
     {
       "id": "evt_19451024_001",
@@ -1871,6 +3662,20 @@
         "戰後"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/臺灣光復"
+    },
+    {
+      "id": "evt_19460214_001",
+      "year": 1946,
+      "month": 2,
+      "day": 14,
+      "region": "世界",
+      "title": "第一台通用電子計算機 ENIAC 啟用",
+      "description": "1946 年 ENIAC 於賓州大學公開，每秒五千次加法的運算能力開啟電子計算時代，資訊革命的起點。",
+      "tags": [
+        "科技",
+        "電腦"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/ENIAC"
     },
     {
       "id": "evt_19460600_001",
@@ -1915,6 +3720,63 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/杜魯門主義"
     },
     {
+      "id": "evt_19470503_001",
+      "year": 1947,
+      "month": 5,
+      "day": 3,
+      "region": "日本",
+      "title": "《日本國憲法》施行",
+      "description": "1947 年美軍佔領下制定的新憲法施行，天皇改為象徵、主權在民，第九條放棄戰爭，奠定戰後日本的和平主義體制。",
+      "tags": [
+        "憲政",
+        "戰後"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/日本國憲法"
+    },
+    {
+      "id": "evt_19470815_001",
+      "year": 1947,
+      "month": 8,
+      "day": 15,
+      "region": "世界",
+      "title": "印巴分治與獨立",
+      "description": "1947 年英屬印度分裂為印度與巴基斯坦兩國獨立，大英帝國殖民體系開始瓦解，分治的血腥遷徙埋下延續至今的南亞對立。",
+      "tags": [
+        "去殖民化",
+        "獨立"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/印巴分治"
+    },
+    {
+      "id": "evt_19480130_001",
+      "year": 1948,
+      "month": 1,
+      "day": 30,
+      "region": "世界",
+      "title": "甘地遇刺",
+      "description": "1948 年甫見證印度獨立的甘地遭極端分子槍殺，非暴力不合作的「聖雄」以身殉道，其精神啟發金恩、曼德拉等後世運動。",
+      "tags": [
+        "人物",
+        "暗殺",
+        "非暴力"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/聖雄甘地"
+    },
+    {
+      "id": "evt_19480510_001",
+      "year": 1948,
+      "month": 5,
+      "day": 10,
+      "region": "中國",
+      "title": "《動員戡亂時期臨時條款》施行",
+      "description": "1948 年國民大會通過臨時條款凍結部分憲法、擴大總統權力，該條款其後在台灣沿用四十三年，成為威權體制的法源。",
+      "tags": [
+        "憲政",
+        "內戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/動員戡亂時期臨時條款"
+    },
+    {
       "id": "evt_19480514_001",
       "year": 1948,
       "month": 5,
@@ -1927,6 +3789,34 @@
         "中東"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/以色列"
+    },
+    {
+      "id": "evt_194904_001",
+      "year": 1949,
+      "month": 4,
+      "day": null,
+      "region": "台灣",
+      "title": "三七五減租實施",
+      "description": "1949 年政府實施三七五減租限制地租，土地改革第一步大幅減輕佃農負擔，也重塑台灣農村的社會結構。",
+      "tags": [
+        "土地改革",
+        "經濟"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/三七五減租"
+    },
+    {
+      "id": "evt_19490404_001",
+      "year": 1949,
+      "month": 4,
+      "day": 4,
+      "region": "世界",
+      "title": "北大西洋公約組織成立",
+      "description": "1949 年美加與西歐十國簽署北大西洋公約，集體防禦體制成形，與其後的華沙公約組織兩相對峙，冷戰陣營固定化。",
+      "tags": [
+        "冷戰",
+        "軍事同盟"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/北大西洋公約組織"
     },
     {
       "id": "evt_19490519_001",
@@ -1999,6 +3889,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/朝鮮戰爭"
     },
     {
+      "id": "evt_19501019_001",
+      "year": 1950,
+      "month": 10,
+      "day": 19,
+      "region": "中國",
+      "title": "中國人民志願軍參戰韓戰",
+      "description": "1950 年中國志願軍跨過鴨綠江參戰，與聯合國軍鏖戰至 1953 年停戰，中國傷亡數十萬，東亞冷戰格局就此固定。",
+      "tags": [
+        "戰爭",
+        "冷戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/抗美援朝"
+    },
+    {
       "id": "evt_19510908_001",
       "year": 1951,
       "month": 9,
@@ -2011,6 +3915,48 @@
         "條約"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/舊金山和約"
+    },
+    {
+      "id": "evt_19530126_001",
+      "year": 1953,
+      "month": 1,
+      "day": 26,
+      "region": "台灣",
+      "title": "耕者有其田實施",
+      "description": "1953 年政府徵收地主超額出租耕地放領給佃農，完成土地改革三部曲，釋出的地主資本轉入工商業，助推日後經濟起飛。",
+      "tags": [
+        "土地改革",
+        "經濟"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/耕者有其田"
+    },
+    {
+      "id": "evt_19530305_001",
+      "year": 1953,
+      "month": 3,
+      "day": 5,
+      "region": "世界",
+      "title": "史達林逝世",
+      "description": "1953 年統治蘇聯近三十年的史達林逝世，赫魯雪夫其後展開去史達林化，冷戰進入時而解凍、時而對抗的新階段。",
+      "tags": [
+        "冷戰",
+        "人物"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/史達林"
+    },
+    {
+      "id": "evt_19530425_001",
+      "year": 1953,
+      "month": 4,
+      "day": 25,
+      "region": "世界",
+      "title": "DNA 雙螺旋結構發表",
+      "description": "1953 年華生與克里克於《自然》發表 DNA 雙螺旋結構，破解遺傳密碼的分子基礎，分子生物學與基因時代自此展開。",
+      "tags": [
+        "科學",
+        "生物學"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/去氧核醣核酸"
     },
     {
       "id": "evt_19541202_001",
@@ -2026,6 +3972,34 @@
         "條約"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/中美共同防禦條約"
+    },
+    {
+      "id": "evt_19570524_001",
+      "year": 1957,
+      "month": 5,
+      "day": 24,
+      "region": "台灣",
+      "title": "五二四反美事件",
+      "description": "1957 年美軍士兵槍殺劉自然獲判無罪，激憤群眾搗毀美國大使館，是戒嚴時期罕見的大規模群眾事件，震動台美關係。",
+      "tags": [
+        "群眾事件",
+        "台美關係"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/五二四事件"
+    },
+    {
+      "id": "evt_195706_001",
+      "year": 1957,
+      "month": 6,
+      "day": null,
+      "region": "中國",
+      "title": "反右運動",
+      "description": "1957 年鳴放後急轉的反右運動將五十餘萬知識分子劃為右派，言路自此斷絕，為其後的政策災難埋下伏筆。",
+      "tags": [
+        "政治運動",
+        "整肅"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/反右運動"
     },
     {
       "id": "evt_19571004_001",
@@ -2072,6 +4046,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/金門炮戰"
     },
     {
+      "id": "evt_19590310_001",
+      "year": 1959,
+      "month": 3,
+      "day": 10,
+      "region": "中國",
+      "title": "西藏起義，達賴喇嘛流亡",
+      "description": "1959 年拉薩爆發起義遭解放軍鎮壓，達賴喇嘛流亡印度成立流亡政府，西藏問題自此成為長期國際議題。",
+      "tags": [
+        "起義",
+        "西藏"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/1959年西藏起義"
+    },
+    {
       "id": "evt_19590807_001",
       "year": 1959,
       "month": 8,
@@ -2084,6 +4072,34 @@
         "社會記憶"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/八七水災"
+    },
+    {
+      "id": "evt_19600904_001",
+      "year": 1960,
+      "month": 9,
+      "day": 4,
+      "region": "台灣",
+      "title": "雷震案：《自由中國》遭封殺",
+      "description": "1960 年籌組反對黨的《自由中國》發行人雷震以叛亂罪被捕判刑十年，戒嚴時期最具象徵性的言論自由案件。",
+      "tags": [
+        "政治壓迫",
+        "言論自由"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/雷震"
+    },
+    {
+      "id": "evt_19610516_001",
+      "year": 1961,
+      "month": 5,
+      "day": 16,
+      "region": "世界",
+      "title": "南韓五一六軍事政變",
+      "description": "1961 年朴正熙發動軍事政變掌權，其後十八年威權統治推動「漢江奇蹟」經濟起飛，1979 年遭中央情報部長刺殺身亡。",
+      "tags": [
+        "政變",
+        "韓國"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/朴正熙"
     },
     {
       "id": "evt_19610813_001",
@@ -2128,6 +4144,62 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/古巴飛彈危機"
     },
     {
+      "id": "evt_19621020_001",
+      "year": 1962,
+      "month": 10,
+      "day": 20,
+      "region": "中國",
+      "title": "中印邊境戰爭",
+      "description": "1962 年中印於喜馬拉雅邊境爆發戰爭，中方獲勝後單方面停火後撤，邊界爭議懸而未決延續至今。",
+      "tags": [
+        "戰爭",
+        "邊界"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/中印邊境戰爭"
+    },
+    {
+      "id": "evt_19630828_001",
+      "year": 1963,
+      "month": 8,
+      "day": 28,
+      "region": "世界",
+      "title": "金恩博士「我有一個夢」演說",
+      "description": "1963 年 25 萬人進軍華盛頓，金恩博士發表「我有一個夢」演說，美國民權運動達到高峰，翌年《民權法案》通過。",
+      "tags": [
+        "人權",
+        "民權運動"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/馬丁·路德·金恩"
+    },
+    {
+      "id": "evt_19631122_001",
+      "year": 1963,
+      "month": 11,
+      "day": 22,
+      "region": "世界",
+      "title": "甘迺迪總統遇刺",
+      "description": "1963 年美國總統甘迺迪於德州達拉斯遇刺身亡，舉世震驚，事件真相的爭議延續至今。",
+      "tags": [
+        "美國",
+        "人物"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/約翰·F·甘迺迪"
+    },
+    {
+      "id": "evt_19641010_001",
+      "year": 1964,
+      "month": 10,
+      "day": 10,
+      "region": "日本",
+      "title": "東京奧運開幕",
+      "description": "1964 年亞洲首次奧運會於東京揭幕，新幹線同年通車，向世界宣告日本自戰敗廢墟中完成復興。",
+      "tags": [
+        "體育",
+        "經濟奇蹟"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/1964年夏季奧林匹克運動會"
+    },
+    {
       "id": "evt_19641016_001",
       "year": 1964,
       "month": 10,
@@ -2141,6 +4213,34 @@
         "科技"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/兩彈一星"
+    },
+    {
+      "id": "evt_19650124_001",
+      "year": 1965,
+      "month": 1,
+      "day": 24,
+      "region": "世界",
+      "title": "邱吉爾逝世",
+      "description": "1965 年帶領英國撐過二戰至暗時刻的邱吉爾逝世，英國為其舉行罕見的國葬，「絕不投降」的演說永載史冊。",
+      "tags": [
+        "人物",
+        "二戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/溫斯頓·邱吉爾"
+    },
+    {
+      "id": "evt_19650630_001",
+      "year": 1965,
+      "month": 6,
+      "day": 30,
+      "region": "台灣",
+      "title": "美援終止",
+      "description": "1965 年實施十五年的美援正式結束，累計約十五億美元的援助穩定了戰後台灣經濟，此後台灣走向出口導向的自立成長。",
+      "tags": [
+        "經濟",
+        "台美關係"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/美援"
     },
     {
       "id": "evt_19660516_001",
@@ -2171,6 +4271,48 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/加工出口區"
     },
     {
+      "id": "evt_19670701_001",
+      "year": 1967,
+      "month": 7,
+      "day": 1,
+      "region": "台灣",
+      "title": "台北市升格直轄市",
+      "description": "1967 年台北市升格為直轄市，人口與資源快速集中，開啟大台北都會區半世紀的擴張。",
+      "tags": [
+        "城市發展",
+        "行政區劃"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/臺北市"
+    },
+    {
+      "id": "evt_19680820_001",
+      "year": 1968,
+      "month": 8,
+      "day": 20,
+      "region": "世界",
+      "title": "蘇軍鎮壓布拉格之春",
+      "description": "1968 年華約軍隊入侵捷克斯洛伐克，撲滅「帶有人性面孔的社會主義」改革，東歐自由化的希望被坦克輾碎。",
+      "tags": [
+        "冷戰",
+        "民主運動"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/布拉格之春"
+    },
+    {
+      "id": "evt_19680825_001",
+      "year": 1968,
+      "month": 8,
+      "day": 25,
+      "region": "台灣",
+      "title": "紅葉少棒擊敗日本明星隊",
+      "description": "1968 年台東紅葉少棒隊擊敗來訪的日本關西聯隊，點燃全台棒球熱，開啟其後三冠王時代的棒球盛世。",
+      "tags": [
+        "體育",
+        "社會記憶"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/紅葉少棒隊"
+    },
+    {
       "id": "evt_19680900_001",
       "year": 1968,
       "month": 9,
@@ -2185,6 +4327,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/九年國民義務教育"
     },
     {
+      "id": "evt_19690302_001",
+      "year": 1969,
+      "month": 3,
+      "day": 2,
+      "region": "中國",
+      "title": "珍寶島事件",
+      "description": "1969 年中蘇軍隊於烏蘇里江珍寶島爆發武裝衝突，兩國瀕臨全面戰爭，中蘇決裂反而促成其後的中美接近。",
+      "tags": [
+        "軍事衝突",
+        "冷戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/珍寶島事件"
+    },
+    {
       "id": "evt_19690720_001",
       "year": 1969,
       "month": 7,
@@ -2197,6 +4353,48 @@
         "科技"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/阿波羅11號"
+    },
+    {
+      "id": "evt_19701125_001",
+      "year": 1970,
+      "month": 11,
+      "day": 25,
+      "region": "日本",
+      "title": "三島由紀夫自決",
+      "description": "1970 年作家三島由紀夫挾持自衛隊總監、發表演說後切腹自殺，戰後日本最具衝擊性的文化事件，震撼世界文壇。",
+      "tags": [
+        "人物",
+        "文學"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/三島由紀夫"
+    },
+    {
+      "id": "evt_197104_001",
+      "year": 1971,
+      "month": 4,
+      "day": null,
+      "region": "台灣",
+      "title": "保釣運動",
+      "description": "1971 年海內外留學生與知識分子發起保衛釣魚台運動，民族主義浪潮衝擊台港與海外華人社會，也啟蒙一代政治世代。",
+      "tags": [
+        "社會運動",
+        "主權爭議"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/保釣運動"
+    },
+    {
+      "id": "evt_19710913_001",
+      "year": 1971,
+      "month": 9,
+      "day": 13,
+      "region": "中國",
+      "title": "九一三事件：林彪墜機身亡",
+      "description": "1971 年寫入黨章的接班人林彪出逃，座機墜毀於蒙古溫都爾汗，事件重創文革的政治神話。",
+      "tags": [
+        "政變",
+        "政治史"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/九一三事件"
     },
     {
       "id": "evt_19711025_001",
@@ -2226,6 +4424,21 @@
         "中美關係"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/上海公報"
+    },
+    {
+      "id": "evt_19730911_001",
+      "year": 1973,
+      "month": 9,
+      "day": 11,
+      "region": "世界",
+      "title": "智利九一一政變",
+      "description": "1973 年皮諾契特在美國默許下推翻民選的阿葉德政府，總統府遭轟炸、阿葉德身亡，其後十七年軍政府失蹤與處決者數以千計。",
+      "tags": [
+        "政變",
+        "冷戰",
+        "拉美"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/1973年智利政變"
     },
     {
       "id": "evt_19731017_001",
@@ -2270,6 +4483,33 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/蔣中正"
     },
     {
+      "id": "evt_19750430_001",
+      "year": 1975,
+      "month": 4,
+      "day": 30,
+      "region": "世界",
+      "title": "西貢陷落，越戰結束",
+      "description": "1975 年北越攻陷西貢，長達二十年的越南戰爭結束，美國國力與信心深受重創，中南半島隨後陷入難民潮。",
+      "tags": [
+        "戰爭",
+        "冷戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/越南戰爭"
+    },
+    {
+      "id": "evt_19760728_001",
+      "year": 1976,
+      "month": 7,
+      "day": 28,
+      "region": "中國",
+      "title": "唐山大地震",
+      "description": "1976 年唐山發生規模 7.6 淺層地震，官方統計 24 萬餘人罹難，城市夷為平地，為二十世紀死亡最慘重的地震。",
+      "tags": [
+        "天災"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/唐山大地震"
+    },
+    {
       "id": "evt_19760909_001",
       "year": 1976,
       "month": 9,
@@ -2282,6 +4522,35 @@
         "人物"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/毛澤東"
+    },
+    {
+      "id": "evt_19771119_001",
+      "year": 1977,
+      "month": 11,
+      "day": 19,
+      "region": "台灣",
+      "title": "中壢事件",
+      "description": "1977 年桃園縣長選舉開票疑雲引發群眾包圍中壢分局並焚燒警車，是戒嚴後首次大規模選舉抗爭，黨外勢力自此崛起。",
+      "tags": [
+        "選舉",
+        "群眾事件",
+        "民主運動"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/中壢事件"
+    },
+    {
+      "id": "evt_19780520_001",
+      "year": 1978,
+      "month": 5,
+      "day": 20,
+      "region": "台灣",
+      "title": "蔣經國就任總統",
+      "description": "1978 年蔣經國就任第六任總統，全面接班；其晚年推動十大建設、本土化用人與解嚴，深刻形塑當代台灣。",
+      "tags": [
+        "政治史",
+        "人物"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/蔣經國"
     },
     {
       "id": "evt_19781031_001",
@@ -2326,6 +4595,33 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/中華民國與美國關係"
     },
     {
+      "id": "evt_19790211_001",
+      "year": 1979,
+      "month": 2,
+      "day": 11,
+      "region": "世界",
+      "title": "伊朗伊斯蘭革命",
+      "description": "1979 年何梅尼推翻巴勒維王朝建立伊斯蘭共和國，中東地緣格局劇變，其後的人質危機與兩伊戰爭震盪至今。",
+      "tags": [
+        "革命",
+        "中東"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/伊朗伊斯蘭革命"
+    },
+    {
+      "id": "evt_19790217_001",
+      "year": 1979,
+      "month": 2,
+      "day": 17,
+      "region": "中國",
+      "title": "中越戰爭",
+      "description": "1979 年中國對越南發動「懲越戰爭」，一個月內雙方傷亡慘重，其後十年邊境衝突不斷，中越關係長期冰封。",
+      "tags": [
+        "戰爭"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/中越戰爭"
+    },
+    {
       "id": "evt_19791210_001",
       "year": 1979,
       "month": 12,
@@ -2338,6 +4634,77 @@
         "政治史"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/美麗島事件"
+    },
+    {
+      "id": "evt_19791224_001",
+      "year": 1979,
+      "month": 12,
+      "day": 24,
+      "region": "世界",
+      "title": "蘇聯入侵阿富汗",
+      "description": "1979 年蘇軍入侵阿富汗，十年戰爭消耗蘇聯國力並催生聖戰者運動，被稱為「蘇聯的越南」，加速冷戰終局。",
+      "tags": [
+        "冷戰",
+        "戰爭"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/蘇聯－阿富汗戰爭"
+    },
+    {
+      "id": "evt_19800518_001",
+      "year": 1980,
+      "month": 5,
+      "day": 18,
+      "region": "世界",
+      "title": "光州事件",
+      "description": "1980 年南韓光州市民反抗全斗煥戒嚴遭軍隊血腥鎮壓，死傷數千，這場悲劇成為韓國民主化運動最深的記憶與動力。",
+      "tags": [
+        "民主運動",
+        "鎮壓",
+        "韓國"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/光州事件"
+    },
+    {
+      "id": "evt_19800922_001",
+      "year": 1980,
+      "month": 9,
+      "day": 22,
+      "region": "世界",
+      "title": "兩伊戰爭爆發",
+      "description": "1980 年伊拉克入侵伊朗，八年戰爭造成上百萬人傷亡、動用化學武器與人海戰術，深刻改寫波斯灣地緣格局。",
+      "tags": [
+        "戰爭",
+        "中東"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/兩伊戰爭"
+    },
+    {
+      "id": "evt_19800925_001",
+      "year": 1980,
+      "month": 9,
+      "day": 25,
+      "region": "中國",
+      "title": "一胎化政策全面實施",
+      "description": "1980 年中共發布公開信提倡一對夫婦只生一個孩子，嚴格計劃生育實施三十五年，深刻改變中國人口結構並留下高齡化難題。",
+      "tags": [
+        "政策",
+        "人口"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/計劃生育"
+    },
+    {
+      "id": "evt_19801208_001",
+      "year": 1980,
+      "month": 12,
+      "day": 8,
+      "region": "世界",
+      "title": "約翰·藍儂遇刺",
+      "description": "1980 年披頭四靈魂人物約翰·藍儂於紐約寓所前遭歌迷槍殺，〈Imagine〉的和平之聲戛然而止，全球樂迷同悲。",
+      "tags": [
+        "人物",
+        "流行文化"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/約翰·藍儂"
     },
     {
       "id": "evt_19801215_001",
@@ -2353,6 +4720,62 @@
         "產業史"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/新竹科學園區"
+    },
+    {
+      "id": "evt_19810703_001",
+      "year": 1981,
+      "month": 7,
+      "day": 3,
+      "region": "台灣",
+      "title": "陳文成事件",
+      "description": "1981 年返台探親的旅美學者陳文成遭警備總部約談後陳屍台大校園，死因至今未明，成為戒嚴時期政治迫害的代表性懸案。",
+      "tags": [
+        "政治壓迫",
+        "白色恐怖"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/陳文成事件"
+    },
+    {
+      "id": "evt_19841015_001",
+      "year": 1984,
+      "month": 10,
+      "day": 15,
+      "region": "台灣",
+      "title": "江南案",
+      "description": "1984 年作家江南（劉宜良）於美國遭竹聯幫分子刺殺，情報局涉案曝光重創台美關係，也動搖蔣家接班布局。",
+      "tags": [
+        "暗殺",
+        "政治史"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/江南案"
+    },
+    {
+      "id": "evt_19841219_001",
+      "year": 1984,
+      "month": 12,
+      "day": 19,
+      "region": "中國",
+      "title": "《中英聯合聲明》簽署",
+      "description": "1984 年中英兩國確認香港於 1997 年回歸中國，「一國兩制、五十年不變」寫入國際條約，香港前途就此底定。",
+      "tags": [
+        "條約",
+        "香港"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/中英聯合聲明"
+    },
+    {
+      "id": "evt_19860426_001",
+      "year": 1986,
+      "month": 4,
+      "day": 26,
+      "region": "世界",
+      "title": "車諾比核災",
+      "description": "1986 年蘇聯車諾比核電廠四號機爆炸，輻射塵飄散歐洲，史上最嚴重核事故重創全球核能發展與蘇聯政權公信力。",
+      "tags": [
+        "核災",
+        "冷戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/切爾諾貝利核事故"
     },
     {
       "id": "evt_19860928_001",
@@ -2399,6 +4822,35 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/蔣經國"
     },
     {
+      "id": "evt_19890107_001",
+      "year": 1989,
+      "month": 1,
+      "day": 7,
+      "region": "日本",
+      "title": "昭和天皇逝世，平成開始",
+      "description": "1989 年在位 62 年、跨越戰前戰後的昭和天皇裕仁逝世，年號改為平成，日本最動盪的一個時代正式落幕。",
+      "tags": [
+        "人物",
+        "皇室",
+        "時代"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/昭和天皇"
+    },
+    {
+      "id": "evt_19890407_001",
+      "year": 1989,
+      "month": 4,
+      "day": 7,
+      "region": "台灣",
+      "title": "鄭南榕自焚",
+      "description": "1989 年主張百分之百言論自由的鄭南榕為抗拒拘捕自焚於雜誌社，以生命捍衛言論自由，4 月 7 日後定為言論自由日。",
+      "tags": [
+        "言論自由",
+        "民主運動"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/鄭南榕"
+    },
+    {
       "id": "evt_19890604_001",
       "year": 1989,
       "month": 6,
@@ -2441,6 +4893,48 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/野百合學運"
     },
     {
+      "id": "evt_19901003_001",
+      "year": 1990,
+      "month": 10,
+      "day": 3,
+      "region": "世界",
+      "title": "兩德統一",
+      "description": "1990 年東德併入聯邦德國，分裂四十五年的德國重歸統一，冷戰在歐洲的最大傷口癒合。",
+      "tags": [
+        "冷戰終結",
+        "德國"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/兩德統一"
+    },
+    {
+      "id": "evt_1991_001",
+      "year": 1991,
+      "month": null,
+      "day": null,
+      "region": "日本",
+      "title": "泡沫經濟破滅",
+      "description": "1991 年日本股市與地價泡沫相繼崩盤，經濟陷入長期停滯的「失落的三十年」，通縮與高齡化成為世界級課題。",
+      "tags": [
+        "經濟",
+        "泡沫"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/日本泡沫經濟"
+    },
+    {
+      "id": "evt_19910117_001",
+      "year": 1991,
+      "month": 1,
+      "day": 17,
+      "region": "世界",
+      "title": "波斯灣戰爭：沙漠風暴行動",
+      "description": "1991 年多國部隊以壓倒性空優擊潰入侵科威特的伊拉克軍，精準武器與即時轉播改寫現代戰爭的樣貌。",
+      "tags": [
+        "戰爭",
+        "中東"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/波斯灣戰爭"
+    },
+    {
       "id": "evt_19910501_001",
       "year": 1991,
       "month": 5,
@@ -2469,6 +4963,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/全球資訊網"
     },
     {
+      "id": "evt_19910819_001",
+      "year": 1991,
+      "month": 8,
+      "day": 19,
+      "region": "世界",
+      "title": "蘇聯八一九政變",
+      "description": "1991 年蘇共強硬派軟禁戈巴契夫發動政變，葉爾欽登上坦克號召抵抗，政變三日即潰，反而加速蘇聯年底解體。",
+      "tags": [
+        "政變",
+        "冷戰終結"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/八一九事件"
+    },
+    {
       "id": "evt_19911225_001",
       "year": 1991,
       "month": 12,
@@ -2481,6 +4989,159 @@
         "政權更迭"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/蘇聯解體"
+    },
+    {
+      "id": "evt_19920118_001",
+      "year": 1992,
+      "month": 1,
+      "day": 18,
+      "region": "中國",
+      "title": "鄧小平南巡談話",
+      "description": "1992 年鄧小平南巡深圳等地發表談話，力排姓社姓資之爭，重啟改革開放，中國經濟自此進入高速成長期。",
+      "tags": [
+        "改革開放",
+        "經濟"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/鄧小平南巡"
+    },
+    {
+      "id": "evt_19920515_001",
+      "year": 1992,
+      "month": 5,
+      "day": 15,
+      "region": "台灣",
+      "title": "刑法一百條修正",
+      "description": "1992 年立法院修正刑法第一百條，廢除思想與言論可構成內亂罪的規定，政治犯時代正式終結，言論自由獲得完整保障。",
+      "tags": [
+        "法制",
+        "民主發展"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/中華民國刑法第一百條"
+    },
+    {
+      "id": "evt_199210_001",
+      "year": 1992,
+      "month": 10,
+      "day": null,
+      "region": "台灣",
+      "title": "兩岸兩會香港會談",
+      "description": "1992 年海基會與海協會於香港就「一個中國」表述進行會談，會談結果日後被稱為「九二共識」，其存在與內涵至今仍是兩岸政治攻防的核心。",
+      "tags": [
+        "兩岸關係",
+        "談判"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/九二共識"
+    },
+    {
+      "id": "evt_19930427_001",
+      "year": 1993,
+      "month": 4,
+      "day": 27,
+      "region": "台灣",
+      "title": "辜汪會談",
+      "description": "1993 年辜振甫與汪道涵於新加坡舉行兩岸分治後首次授權高層會談，簽署四項事務性協議，開啟制度化協商。",
+      "tags": [
+        "兩岸關係",
+        "談判"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/辜汪會談"
+    },
+    {
+      "id": "evt_19940407_001",
+      "year": 1994,
+      "month": 4,
+      "day": 7,
+      "region": "世界",
+      "title": "盧安達大屠殺",
+      "description": "1994 年盧安達胡圖政權對圖西族展開種族滅絕，百日內約八十萬人遇害，國際社會的袖手旁觀成為人道史上最深的恥辱之一。",
+      "tags": [
+        "種族滅絕",
+        "人權"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/盧安達大屠殺"
+    },
+    {
+      "id": "evt_19940510_001",
+      "year": 1994,
+      "month": 5,
+      "day": 10,
+      "region": "世界",
+      "title": "曼德拉就任南非總統",
+      "description": "1994 年南非首次不分種族大選後，曼德拉宣誓就任總統，種族隔離制度正式落幕，和解政治成為典範。",
+      "tags": [
+        "人權",
+        "民主化"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/納爾遜·曼德拉"
+    },
+    {
+      "id": "evt_19941203_001",
+      "year": 1994,
+      "month": 12,
+      "day": 3,
+      "region": "台灣",
+      "title": "首次省市長民選",
+      "description": "1994 年台灣省長與北高市長首次民選，宋楚瑜當選唯一一任民選省長，地方自治邁入全面民選時代。",
+      "tags": [
+        "選舉",
+        "民主發展"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/臺灣省省長"
+    },
+    {
+      "id": "evt_19950117_001",
+      "year": 1995,
+      "month": 1,
+      "day": 17,
+      "region": "日本",
+      "title": "阪神大地震",
+      "description": "1995 年規模 7.3 直下型地震重創神戶，6400 餘人罹難，高架道路傾倒的畫面震撼世界，日本防災體系全面改革。",
+      "tags": [
+        "天災"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/阪神大地震"
+    },
+    {
+      "id": "evt_19950301_001",
+      "year": 1995,
+      "month": 3,
+      "day": 1,
+      "region": "台灣",
+      "title": "全民健保開辦",
+      "description": "1995 年全民健康保險正式開辦，整合各類社會保險達成全民納保，以低廉費用提供高可近性醫療，成為台灣最重要的社會制度之一。",
+      "tags": [
+        "社會福利",
+        "公共衛生"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/全民健康保險"
+    },
+    {
+      "id": "evt_19950320_001",
+      "year": 1995,
+      "month": 3,
+      "day": 20,
+      "region": "日本",
+      "title": "東京地鐵沙林毒氣事件",
+      "description": "1995 年奧姆真理教於東京地鐵釋放沙林毒氣，13 人死亡、數千人受害，史上罕見的城市化學恐攻震驚全球。",
+      "tags": [
+        "恐怖攻擊",
+        "社會"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/東京地鐵沙林毒氣事件"
+    },
+    {
+      "id": "evt_199507_001",
+      "year": 1995,
+      "month": 5,
+      "day": 8,
+      "region": "台灣",
+      "title": "鄧麗君逝世",
+      "description": "1995 年華語歌壇巨星鄧麗君於泰國清邁病逝，年僅 42 歲；她的歌聲跨越冷戰藩籬風靡兩岸與日本，「只要有華人的地方就有鄧麗君」。",
+      "tags": [
+        "人物",
+        "流行文化"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/鄧麗君"
     },
     {
       "id": "evt_19960308_001",
@@ -2511,6 +5172,34 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/1996年中華民國總統選舉"
     },
     {
+      "id": "evt_19970219_001",
+      "year": 1997,
+      "month": 2,
+      "day": 19,
+      "region": "中國",
+      "title": "鄧小平逝世",
+      "description": "1997 年改革開放總設計師鄧小平逝世，未及親見四個多月後的香港回歸，其「摸著石頭過河」的路線持續主導中國數十年。",
+      "tags": [
+        "人物",
+        "政治史"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/鄧小平"
+    },
+    {
+      "id": "evt_199707_001",
+      "year": 1997,
+      "month": 7,
+      "day": null,
+      "region": "台灣",
+      "title": "修憲凍省",
+      "description": "1997 年國民大會修憲精簡台灣省政府層級，民選省長走入歷史，中央與地方關係重新洗牌。",
+      "tags": [
+        "憲政改革",
+        "行政區劃"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/臺灣省政府功能業務與組織調整"
+    },
+    {
       "id": "evt_19970701_001",
       "year": 1997,
       "month": 7,
@@ -2523,6 +5212,48 @@
         "香港"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/香港回歸"
+    },
+    {
+      "id": "evt_19970702_001",
+      "year": 1997,
+      "month": 7,
+      "day": 2,
+      "region": "世界",
+      "title": "亞洲金融風暴爆發",
+      "description": "1997 年泰銖崩盤引爆亞洲金融風暴，貨幣危機橫掃東南亞與韓國，重創「亞洲奇蹟」並改寫區域金融秩序。",
+      "tags": [
+        "經濟",
+        "金融危機"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/亞洲金融風暴"
+    },
+    {
+      "id": "evt_19970831_001",
+      "year": 1997,
+      "month": 8,
+      "day": 31,
+      "region": "世界",
+      "title": "黛安娜王妃車禍身亡",
+      "description": "1997 年英國黛安娜王妃於巴黎車禍逝世，全球哀悼的「人民王妃」葬禮吸引逾二十億人收看，重塑英國王室與媒體的關係。",
+      "tags": [
+        "人物",
+        "王室"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/威爾斯王妃戴安娜"
+    },
+    {
+      "id": "evt_19990101_001",
+      "year": 1999,
+      "month": 1,
+      "day": 1,
+      "region": "世界",
+      "title": "歐元誕生",
+      "description": "1999 年歐元作為記帳貨幣正式啟用，2002 年現鈔流通，歐洲整合邁出最具體的一步，成為僅次於美元的世界貨幣。",
+      "tags": [
+        "經濟",
+        "歐洲整合"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/歐元"
     },
     {
       "id": "evt_19990921_001",
@@ -2596,6 +5327,34 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/世界貿易組織"
     },
     {
+      "id": "evt_20030320_001",
+      "year": 2003,
+      "month": 3,
+      "day": 20,
+      "region": "世界",
+      "title": "伊拉克戰爭爆發",
+      "description": "2003 年美英以大規模毀滅性武器為由入侵伊拉克推翻海珊政權，武器最終未尋獲，戰後亂局深遠影響中東與美國威信。",
+      "tags": [
+        "戰爭",
+        "中東"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/伊拉克戰爭"
+    },
+    {
+      "id": "evt_20030414_001",
+      "year": 2003,
+      "month": 4,
+      "day": 14,
+      "region": "世界",
+      "title": "人類基因組計畫完成",
+      "description": "2003 年人類基因組計畫宣告完成，30 億鹼基對序列全數定序，精準醫療與基因科技時代自此展開。",
+      "tags": [
+        "科學",
+        "生物學"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/人類基因組計劃"
+    },
+    {
       "id": "evt_20030424_001",
       "year": 2003,
       "month": 4,
@@ -2608,6 +5367,48 @@
         "疫情"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/嚴重急性呼吸道症候群"
+    },
+    {
+      "id": "evt_20031015_001",
+      "year": 2003,
+      "month": 10,
+      "day": 15,
+      "region": "中國",
+      "title": "神舟五號：中國首次載人航天",
+      "description": "2003 年楊利偉乘神舟五號進入太空，中國成為第三個獨立完成載人航天的國家，太空競逐進入新階段。",
+      "tags": [
+        "太空",
+        "科技"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/神舟五號"
+    },
+    {
+      "id": "evt_20040319_001",
+      "year": 2004,
+      "month": 3,
+      "day": 19,
+      "region": "台灣",
+      "title": "三一九槍擊事件",
+      "description": "2004 年總統大選投票前夕陳水扁、呂秀蓮掃街時遭槍擊受傷，翌日以不到三萬票之差連任，引發大規模選舉爭議與長期抗爭。",
+      "tags": [
+        "選舉",
+        "政治史"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/三一九槍擊事件"
+    },
+    {
+      "id": "evt_20041226_001",
+      "year": 2004,
+      "month": 12,
+      "day": 26,
+      "region": "世界",
+      "title": "印度洋大地震與海嘯",
+      "description": "2004 年蘇門答臘外海規模 9.1 巨震引發跨洋大海嘯，環印度洋十四國逾二十二萬人罹難，是本世紀最慘重的自然災難。",
+      "tags": [
+        "天災",
+        "海嘯"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/2004年印度洋大地震"
     },
     {
       "id": "evt_20041231_001",
@@ -2624,6 +5425,34 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/台北101"
     },
     {
+      "id": "evt_20050829_001",
+      "year": 2005,
+      "month": 8,
+      "day": 29,
+      "region": "世界",
+      "title": "卡崔娜颶風重創紐奧良",
+      "description": "2005 年颶風卡崔娜潰堤淹沒紐奧良八成市區，1800 餘人喪生，遲緩的救災暴露美國體制失靈，成為災難治理的經典教訓。",
+      "tags": [
+        "天災",
+        "颶風"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/颶風卡特里娜"
+    },
+    {
+      "id": "evt_20060909_001",
+      "year": 2006,
+      "month": 9,
+      "day": 9,
+      "region": "台灣",
+      "title": "紅衫軍倒扁運動",
+      "description": "2006 年施明德發起百萬人民倒扁運動，紅衫軍靜坐凱道要求陳水扁總統下台，是解嚴後最大規模的群眾運動之一。",
+      "tags": [
+        "社會運動",
+        "政治史"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/百萬人民倒扁運動"
+    },
+    {
       "id": "evt_20070105_001",
       "year": 2007,
       "month": 1,
@@ -2636,6 +5465,20 @@
         "基礎建設"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/台灣高速鐵路"
+    },
+    {
+      "id": "evt_20070109_001",
+      "year": 2007,
+      "month": 1,
+      "day": 9,
+      "region": "世界",
+      "title": "iPhone 發表",
+      "description": "2007 年賈伯斯發表初代 iPhone，智慧型手機重新定義人與資訊的關係，行動網路時代全面來臨。",
+      "tags": [
+        "科技",
+        "行動通訊"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/IPhone"
     },
     {
       "id": "evt_20080322_001",
@@ -2694,6 +5537,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/雷曼兄弟"
     },
     {
+      "id": "evt_20081104_001",
+      "year": 2008,
+      "month": 11,
+      "day": 4,
+      "region": "世界",
+      "title": "歐巴馬當選美國總統",
+      "description": "2008 年歐巴馬以「Yes We Can」贏得大選，成為美國史上首位非裔總統，就任時面對的是金融海嘯後的世界。",
+      "tags": [
+        "選舉",
+        "美國"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/巴拉克·歐巴馬"
+    },
+    {
       "id": "evt_20090808_001",
       "year": 2009,
       "month": 8,
@@ -2708,11 +5565,65 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/八八水災"
     },
     {
+      "id": "evt_2010_001",
+      "year": 2010,
+      "month": null,
+      "day": null,
+      "region": "中國",
+      "title": "中國 GDP 超越日本成世界第二",
+      "description": "2010 年中國國內生產毛額超越日本，成為僅次於美國的世界第二大經濟體，全球經濟與地緣重心加速東移。",
+      "tags": [
+        "經濟"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/中華人民共和國經濟"
+    },
+    {
+      "id": "evt_20100112_001",
+      "year": 2010,
+      "month": 1,
+      "day": 12,
+      "region": "世界",
+      "title": "海地大地震",
+      "description": "2010 年規模 7.0 地震摧毀海地首都太子港，死亡人數估計逾二十萬，貧困與脆弱治理使災難雪上加霜，重建至今未竟。",
+      "tags": [
+        "天災"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/2010年海地地震"
+    },
+    {
+      "id": "evt_20100629_001",
+      "year": 2010,
+      "month": 6,
+      "day": 29,
+      "region": "台灣",
+      "title": "兩岸簽署 ECFA",
+      "description": "2010 年兩岸簽署經濟合作架構協議，經貿依存度升至高點，協議的利弊之爭四年後在太陽花學運全面爆發。",
+      "tags": [
+        "兩岸關係",
+        "經濟"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/海峽兩岸經濟合作架構協議"
+    },
+    {
+      "id": "evt_20101217_001",
+      "year": 2010,
+      "month": 12,
+      "day": 17,
+      "region": "世界",
+      "title": "阿拉伯之春爆發",
+      "description": "2010 年底突尼西亞小販自焚點燃革命浪潮，示威席捲阿拉伯世界推翻多國政權，卻也留下敘利亞內戰等長期動盪。",
+      "tags": [
+        "革命",
+        "中東"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/阿拉伯之春"
+    },
+    {
       "id": "evt_20110311_001",
       "year": 2011,
       "month": 3,
       "day": 11,
-      "region": "世界",
+      "region": "日本",
       "title": "東日本大地震與福島核災",
       "description": "日本東北外海發生規模 9.0 巨震引發大海嘯，近兩萬人罹難，福島第一核電廠爐心熔毀，重創全球對核能安全的信心。",
       "tags": [
@@ -2720,6 +5631,20 @@
         "核災"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/東日本大震災"
+    },
+    {
+      "id": "evt_20111005_001",
+      "year": 2011,
+      "month": 10,
+      "day": 5,
+      "region": "世界",
+      "title": "賈伯斯逝世",
+      "description": "2011 年蘋果共同創辦人賈伯斯病逝，Mac、iPod 到 iPhone 一再重新定義科技產品，「求知若飢，虛心若愚」成為世代箴言。",
+      "tags": [
+        "人物",
+        "科技"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/史蒂夫·賈伯斯"
     },
     {
       "id": "evt_20121115_001",
@@ -2736,6 +5661,34 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/習近平"
     },
     {
+      "id": "evt_20130704_001",
+      "year": 2013,
+      "month": 7,
+      "day": 4,
+      "region": "台灣",
+      "title": "洪仲丘事件與白衫軍運動",
+      "description": "2013 年義務役士官洪仲丘遭不當管教死亡，25 萬白衫軍上凱道抗議，促成軍事審判制度走入歷史，公民力量展現新形態。",
+      "tags": [
+        "社會運動",
+        "軍事改革"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/洪仲丘事件"
+    },
+    {
+      "id": "evt_201309_001",
+      "year": 2013,
+      "month": 9,
+      "day": null,
+      "region": "中國",
+      "title": "「一帶一路」倡議提出",
+      "description": "2013 年習近平提出絲綢之路經濟帶與海上絲綢之路倡議，巨額基建投資遍及歐亞非，也引發債務與地緣影響力的爭論。",
+      "tags": [
+        "經濟",
+        "地緣政治"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/一帶一路"
+    },
+    {
       "id": "evt_20140318_001",
       "year": 2014,
       "month": 3,
@@ -2748,6 +5701,34 @@
         "政治史"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/太陽花學運"
+    },
+    {
+      "id": "evt_20151107_001",
+      "year": 2015,
+      "month": 11,
+      "day": 7,
+      "region": "台灣",
+      "title": "馬習會",
+      "description": "2015 年馬英九與習近平於新加坡會面，是兩岸分治 66 年來領導人首度會晤，象徵意義巨大但未能扭轉其後兩岸關係走向。",
+      "tags": [
+        "兩岸關係",
+        "政治史"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/馬習會"
+    },
+    {
+      "id": "evt_20151212_001",
+      "year": 2015,
+      "month": 12,
+      "day": 12,
+      "region": "世界",
+      "title": "《巴黎協定》通過",
+      "description": "2015 年近兩百國於巴黎氣候峰會達成協定，承諾將全球升溫控制於 2°C 以內，氣候治理首度取得全球性共識。",
+      "tags": [
+        "氣候",
+        "國際合作"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/巴黎協定"
     },
     {
       "id": "evt_20160116_001",
@@ -2765,6 +5746,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/2016年中華民國總統選舉"
     },
     {
+      "id": "evt_20160206_001",
+      "year": 2016,
+      "month": 2,
+      "day": 6,
+      "region": "台灣",
+      "title": "0206 美濃地震，維冠大樓倒塌",
+      "description": "2016 年小年夜高雄美濃地震重創台南，維冠金龍大樓倒塌釀 115 死，建築偷工減料問題引發全面檢討。",
+      "tags": [
+        "天災",
+        "建築安全"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/2016年高雄美濃地震"
+    },
+    {
       "id": "evt_20160623_001",
       "year": 2016,
       "month": 6,
@@ -2777,6 +5772,34 @@
         "歐洲整合"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/2016年英國脫離歐盟公投"
+    },
+    {
+      "id": "evt_20161108_001",
+      "year": 2016,
+      "month": 11,
+      "day": 8,
+      "region": "世界",
+      "title": "川普當選美國總統",
+      "description": "2016 年政治素人川普爆冷當選美國總統，民粹浪潮改寫美國政治，其後的貿易戰與同盟政策深刻牽動全球與台海局勢。",
+      "tags": [
+        "美國",
+        "政治"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/唐納·川普"
+    },
+    {
+      "id": "evt_20190501_001",
+      "year": 2019,
+      "month": 5,
+      "day": 1,
+      "region": "日本",
+      "title": "令和改元",
+      "description": "2019 年明仁天皇生前退位、德仁即位，年號改為令和，是日本兩百年來首次天皇生前讓位。",
+      "tags": [
+        "皇室",
+        "時代"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/令和"
     },
     {
       "id": "evt_20190517_001",
@@ -2808,6 +5831,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/反對逃犯條例修訂草案運動"
     },
     {
+      "id": "evt_20200111_001",
+      "year": 2020,
+      "month": 1,
+      "day": 11,
+      "region": "台灣",
+      "title": "蔡英文以 817 萬票連任",
+      "description": "2020 年蔡英文以史上最高的 817 萬票連任總統，選舉在香港反修例運動的背景下被視為對中政策的公投。",
+      "tags": [
+        "選舉",
+        "民主發展"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/2020年中華民國總統選舉"
+    },
+    {
       "id": "evt_20200121_001",
       "year": 2020,
       "month": 1,
@@ -2836,6 +5873,34 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/2019冠狀病毒病疫情"
     },
     {
+      "id": "evt_20200730_001",
+      "year": 2020,
+      "month": 7,
+      "day": 30,
+      "region": "台灣",
+      "title": "李登輝逝世",
+      "description": "2020 年首位民選總統、「民主先生」李登輝辭世，享耆壽 97 歲，其主導的寧靜革命讓台灣不流血完成民主轉型。",
+      "tags": [
+        "人物",
+        "民主發展"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/李登輝"
+    },
+    {
+      "id": "evt_20210201_001",
+      "year": 2021,
+      "month": 2,
+      "day": 1,
+      "region": "世界",
+      "title": "緬甸軍事政變",
+      "description": "2021 年緬甸軍方推翻大選獲勝的全民盟政府、拘押翁山蘇姬，全國陷入抗爭與內戰，十年民主化進程一夕逆轉。",
+      "tags": [
+        "政變",
+        "東南亞"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/2021年緬甸政變"
+    },
+    {
       "id": "evt_20210402_001",
       "year": 2021,
       "month": 4,
@@ -2849,6 +5914,34 @@
         "社會記憶"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/2021年太魯閣號列車出軌事故"
+    },
+    {
+      "id": "evt_20210515_001",
+      "year": 2021,
+      "month": 5,
+      "day": 15,
+      "region": "台灣",
+      "title": "本土疫情爆發，雙北三級警戒",
+      "description": "2021 年 5 月 COVID-19 本土疫情急遽升溫，雙北進入三級警戒並擴及全國，維持兩個月的準封城改變全民生活。",
+      "tags": [
+        "疫情",
+        "公共衛生"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/嚴重特殊傳染性肺炎臺灣疫情"
+    },
+    {
+      "id": "evt_20210815_001",
+      "year": 2021,
+      "month": 8,
+      "day": 15,
+      "region": "世界",
+      "title": "塔利班重奪喀布爾",
+      "description": "2021 年美軍撤離之際塔利班攻入喀布爾，二十年阿富汗戰爭以政權更迭告終，倉皇撤離的畫面震撼全球。",
+      "tags": [
+        "戰爭",
+        "中東"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/塔利班"
     },
     {
       "id": "evt_20220224_001",
@@ -2865,6 +5958,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/2022年俄羅斯入侵烏克蘭"
     },
     {
+      "id": "evt_20220708_001",
+      "year": 2022,
+      "month": 7,
+      "day": 8,
+      "region": "日本",
+      "title": "安倍晉三遇刺身亡",
+      "description": "2022 年日本前首相安倍晉三於奈良街頭助選時遭槍擊身亡，戰後日本最重大的政治暗殺事件，震撼國際社會。",
+      "tags": [
+        "暗殺",
+        "政治"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/安倍晉三"
+    },
+    {
       "id": "evt_20220802_001",
       "year": 2022,
       "month": 8,
@@ -2877,6 +5984,34 @@
         "兩岸關係"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/2022年佩洛西访问台湾"
+    },
+    {
+      "id": "evt_20220908_001",
+      "year": 2022,
+      "month": 9,
+      "day": 8,
+      "region": "世界",
+      "title": "英國女王伊莉莎白二世逝世",
+      "description": "2022 年在位七十年的伊莉莎白二世辭世，見證帝國解體到脫歐的漫長世紀落幕，查爾斯三世繼位。",
+      "tags": [
+        "人物",
+        "王室"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/伊莉莎白二世"
+    },
+    {
+      "id": "evt_202211_001",
+      "year": 2022,
+      "month": 11,
+      "day": null,
+      "region": "中國",
+      "title": "白紙運動",
+      "description": "2022 年 11 月烏魯木齊火災引發多城市民眾持白紙抗議嚴苛防疫與言論管制，是六四以來罕見的全國性街頭抗爭，其後清零政策急轉結束。",
+      "tags": [
+        "社會運動",
+        "抗議"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/白紙運動"
     },
     {
       "id": "evt_20221130_001",
@@ -2893,6 +6028,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/ChatGPT"
     },
     {
+      "id": "evt_20231007_001",
+      "year": 2023,
+      "month": 10,
+      "day": 7,
+      "region": "世界",
+      "title": "哈馬斯突襲以色列，加薩戰爭爆發",
+      "description": "2023 年 10 月 7 日哈馬斯對以色列發動突襲造成上千人死亡，以軍隨後大規模進攻加薩，人道危機與區域衝突延燒至今。",
+      "tags": [
+        "戰爭",
+        "中東"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/哈馬斯"
+    },
+    {
       "id": "evt_20240403_001",
       "year": 2024,
       "month": 4,
@@ -2905,6 +6054,20 @@
         "社會記憶"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/2024年花蓮地震"
+    },
+    {
+      "id": "evt_202405_001",
+      "year": 2024,
+      "month": 5,
+      "day": null,
+      "region": "台灣",
+      "title": "青鳥行動",
+      "description": "2024 年立法院國會職權修法爭議引發數萬公民集結立院外抗議，「青鳥行動」成為太陽花後最大規模的國會外群眾運動。",
+      "tags": [
+        "社會運動",
+        "憲政"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/青鳥行動"
     },
     {
       "id": "evt_20240520_001",

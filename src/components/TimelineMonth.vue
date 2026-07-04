@@ -47,8 +47,8 @@ const eventsByRegion = computed(() => {
       <div class="month-body-inner">
         <!-- 三軌並列：台灣 / 中國 / 世界（篩選單一地區時為單軌） -->
         <div
-          class="grid gap-x-4 gap-y-2 pt-1"
-          :class="store.activeRegions.length > 1 ? 'md:grid-cols-3' : ''"
+          class="grid gap-x-3 gap-y-2 pt-1"
+          :class="store.activeRegions.length > 1 ? 'lg:grid-cols-4' : ''"
         >
           <div
             v-for="region in store.activeRegions"

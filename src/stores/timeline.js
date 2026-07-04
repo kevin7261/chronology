@@ -25,6 +25,12 @@ export const REGIONS = [
     pillActive: 'border-rose-400/70 bg-rose-400/15 text-rose-300 font-bold',
   },
   {
+    key: '日本',
+    track: 'border-violet-500/35',
+    text: 'text-violet-300',
+    pillActive: 'border-violet-400/70 bg-violet-400/15 text-violet-300 font-bold',
+  },
+  {
     key: '世界',
     track: 'border-sky-500/35',
     text: 'text-sky-300',

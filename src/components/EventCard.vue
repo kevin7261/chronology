@@ -23,8 +23,8 @@ const open = ref(false);
       <h4 class="min-w-0 flex-1 text-sm leading-snug font-bold text-stone-100">
         {{ event.title }}
       </h4>
-      <!-- 行動版單欄堆疊時以文字標示軌道 -->
-      <span class="text-[10px] md:hidden" :class="regionTextClass(event.region)">
+      <!-- 單欄堆疊時以文字標示軌道 -->
+      <span class="text-[10px] lg:hidden" :class="regionTextClass(event.region)">
         {{ event.region }}
       </span>
       <span

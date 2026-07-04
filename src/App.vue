@@ -128,7 +128,7 @@ const selectSort = (order) => {
         <!-- 三軌欄位標頭（與下方月份格線對齊） -->
         <div
           v-if="store.regionFilter === 'all'"
-          class="mt-2.5 hidden gap-x-4 md:grid md:grid-cols-3"
+          class="mt-2.5 hidden gap-x-3 lg:grid lg:grid-cols-4"
         >
           <div
             v-for="r in REGIONS"
