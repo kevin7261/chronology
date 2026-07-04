@@ -43,27 +43,18 @@ const selectRegion = (region) => {
     ></div>
   </div>
 
-  <!-- Hero 標題區 -->
-  <header class="relative overflow-hidden border-b border-stone-800/80">
+  <!-- 精簡標題列 -->
+  <header class="border-b border-stone-800/80">
     <div
-      class="pointer-events-none absolute inset-0 bg-[radial-gradient(ellipse_at_top,rgba(217,119,6,0.12),transparent_55%)]"
-    ></div>
-    <div class="relative mx-auto max-w-6xl px-6 py-14 lg:py-20">
-      <p class="mb-3 font-mono text-xs tracking-[0.35em] text-amber-500/90 uppercase">
-        Chronology · {{ yearRange }}
-      </p>
-      <h1 class="font-serif text-3xl leading-tight font-black text-stone-50 lg:text-5xl">
+      class="mx-auto flex max-w-6xl flex-wrap items-baseline gap-x-4 gap-y-1 px-6 py-4"
+    >
+      <h1 class="font-serif text-base font-bold text-stone-100 lg:text-lg">
         {{ store.meta.title }}
       </h1>
-      <p class="mt-4 max-w-2xl text-sm leading-relaxed text-stone-400 lg:text-base">
-        {{ store.meta.description }}
-      </p>
-      <p class="mt-6 flex flex-wrap items-center gap-x-4 gap-y-1 text-xs text-stone-500">
+      <p class="hidden text-xs text-stone-500 sm:flex sm:items-baseline sm:gap-x-3">
+        <span class="font-mono tracking-widest text-amber-500/80">{{ yearRange }}</span>
         <span>共 {{ store.filteredEvents.length }} 起事件</span>
-        <span class="hidden h-3 w-px bg-stone-700 sm:block"></span>
-        <span>每筆事件皆附維基百科驗證連結</span>
-        <span class="hidden h-3 w-px bg-stone-700 sm:block"></span>
-        <span>最後更新：{{ store.meta.last_updated }}</span>
+        <span class="hidden md:inline">每筆皆附維基百科驗證連結</span>
       </p>
     </div>
   </header>

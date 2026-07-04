@@ -39,7 +39,7 @@ const jumpToYear = (yearEntry) => store.jumpTo(yearEntry.months[0].key);
 <template>
   <nav
     ref="navEl"
-    class="nav-scroll sticky top-5 h-[calc(100vh-40px)] overflow-y-auto border-r border-stone-800/80 py-10 pr-6"
+    class="nav-scroll sticky top-0 h-screen overflow-y-auto border-r border-stone-800/80 py-6 pr-6"
     aria-label="年份導覽"
   >
     <p class="mb-6 font-mono text-[10px] tracking-[0.3em] text-stone-500 uppercase">Timeline Index</p>
