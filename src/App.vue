@@ -1,6 +1,6 @@
 <script setup>
 import { computed, onMounted, onUnmounted, ref } from 'vue';
-import { useTimelineStore, REGIONS } from './stores/timeline';
+import { useTimelineStore, REGIONS, formatYear } from './stores/timeline';
 import SideNav from './components/SideNav.vue';
 import Timeline from './components/Timeline.vue';
 
@@ -24,7 +24,7 @@ const yearRange = computed(() => {
   if (!ys.length) return '';
   const first = Math.min(ys[0].year, store.meta.start_year ?? Infinity);
   const last = Math.max(ys[ys.length - 1].year, store.meta.end_year ?? 0);
-  return `${first} — ${last}`;
+  return `${formatYear(first)} — ${last}`;
 });
 
 /** 切換地區後回到時間軸頂端，避免停留在已消失的區塊位置 */

@@ -1,12 +1,821 @@
 {
   "timeline_meta": {
-    "title": "台灣・中國・世界重大事件編年表 (1700 - 2026)",
-    "description": "橫跨三個世紀、涵蓋台灣、中國與世界三軌的高精度歷史事件時間軸，融合流暢滾動與結構展開技術，具備 Wiki 驗證機制。",
-    "start_year": 1700,
+    "title": "台灣・中國・世界重大事件編年表",
+    "description": "從人類文明的曙光（約西元前 3500 年）到當代，涵蓋台灣、中國與世界三軌的高精度歷史事件時間軸，具備 Wiki 驗證機制。",
+    "start_year": -3500,
     "end_year": 2026,
     "last_updated": "2026-07-05"
   },
   "events": [
+    {
+      "id": "evt_bc3500_001",
+      "year": -3500,
+      "month": null,
+      "day": null,
+      "region": "世界",
+      "title": "蘇美人發明楔形文字",
+      "description": "約西元前 3500 年，兩河流域的蘇美人發展出楔形文字，人類最早的文字系統誕生，歷史自此有了文字紀錄。",
+      "tags": [
+        "文明起源",
+        "文字"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/楔形文字"
+    },
+    {
+      "id": "evt_bc3100_001",
+      "year": -3100,
+      "month": null,
+      "day": null,
+      "region": "世界",
+      "title": "美尼斯統一上下埃及",
+      "description": "約西元前 3100 年，美尼斯統一上下埃及建立第一王朝，開啟綿延三千年的古埃及文明。",
+      "tags": [
+        "文明起源",
+        "古埃及"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/古埃及"
+    },
+    {
+      "id": "evt_bc3000_001",
+      "year": -3000,
+      "month": null,
+      "day": null,
+      "region": "台灣",
+      "title": "大坌坑文化：台灣新石器時代",
+      "description": "約西元前 3000 年前後，大坌坑文化人群在台灣沿海定居，農耕與製陶並存，被視為南島語族擴散的重要源頭之一。",
+      "tags": [
+        "史前",
+        "考古"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/大坌坑文化"
+    },
+    {
+      "id": "evt_bc2560_001",
+      "year": -2560,
+      "month": null,
+      "day": null,
+      "region": "世界",
+      "title": "吉薩大金字塔落成",
+      "description": "約西元前 2560 年，古夫金字塔於吉薩高原建成，高近 147 公尺，其後近四千年間始終是世界最高的人造建築。",
+      "tags": [
+        "古埃及",
+        "建築"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/吉薩大金字塔"
+    },
+    {
+      "id": "evt_bc1754_001",
+      "year": -1754,
+      "month": null,
+      "day": null,
+      "region": "世界",
+      "title": "《漢摩拉比法典》頒布",
+      "description": "約西元前 1754 年，巴比倫王漢摩拉比頒布石柱法典，「以眼還眼」的條文是現存最完整的古代成文法之一。",
+      "tags": [
+        "法律",
+        "兩河文明"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/漢摩拉比法典"
+    },
+    {
+      "id": "evt_bc1600_001",
+      "year": -1600,
+      "month": null,
+      "day": null,
+      "region": "中國",
+      "title": "商朝建立",
+      "description": "約西元前 1600 年，商湯滅夏建立商朝，是目前有直接文字與考古證據可考的最早中國王朝。",
+      "tags": [
+        "上古",
+        "王朝更迭"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/商朝"
+    },
+    {
+      "id": "evt_bc1250_001",
+      "year": -1250,
+      "month": null,
+      "day": null,
+      "region": "中國",
+      "title": "甲骨文：漢字信史的開端",
+      "description": "約西元前 13 世紀商王武丁時期，占卜刻辭大量出現於龜甲獸骨，漢字體系與中國信史自此有據可考。",
+      "tags": [
+        "文字",
+        "上古"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/甲骨文"
+    },
+    {
+      "id": "evt_bc1046_001",
+      "year": -1046,
+      "month": null,
+      "day": null,
+      "region": "中國",
+      "title": "武王克商，西周建立",
+      "description": "約西元前 1046 年，周武王於牧野之戰擊敗商紂，建立周朝，封建宗法與禮樂制度深刻形塑其後三千年的中國社會。",
+      "tags": [
+        "上古",
+        "王朝更迭"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/周朝"
+    },
+    {
+      "id": "evt_bc0776_001",
+      "year": -776,
+      "month": null,
+      "day": null,
+      "region": "世界",
+      "title": "首屆古代奧林匹克運動會",
+      "description": "西元前 776 年，希臘城邦於奧林匹亞舉行第一屆奧運會，四年一度的賽會成為古希臘世界共同的時間座標。",
+      "tags": [
+        "古希臘",
+        "體育"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/古代奧林匹克運動會"
+    },
+    {
+      "id": "evt_bc0770_001",
+      "year": -770,
+      "month": null,
+      "day": null,
+      "region": "中國",
+      "title": "平王東遷，春秋時代開始",
+      "description": "西元前 770 年周平王東遷洛邑，王室衰微、諸侯爭霸，春秋戰國五百餘年的變局孕育了諸子百家思想。",
+      "tags": [
+        "上古",
+        "春秋戰國"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/春秋時期"
+    },
+    {
+      "id": "evt_bc0753_001",
+      "year": -753,
+      "month": null,
+      "day": null,
+      "region": "世界",
+      "title": "羅馬建城",
+      "description": "傳說西元前 753 年羅慕路斯建立羅馬城，此後羅馬由城邦一步步成長為橫跨三洲的大帝國，深刻形塑西方文明。",
+      "tags": [
+        "古羅馬",
+        "文明起源"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/古羅馬"
+    },
+    {
+      "id": "evt_bc0551_001",
+      "year": -551,
+      "month": null,
+      "day": null,
+      "region": "中國",
+      "title": "孔子誕生",
+      "description": "西元前 551 年孔子生於魯國，其儒家學說經漢代獨尊後成為東亞兩千年的思想主軸，影響及於今日。",
+      "tags": [
+        "思想",
+        "人物"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/孔子"
+    },
+    {
+      "id": "evt_bc0508_001",
+      "year": -508,
+      "month": null,
+      "day": null,
+      "region": "世界",
+      "title": "雅典建立民主政體",
+      "description": "西元前 508 年克里斯提尼改革雅典政制，公民大會與抽籤任官確立，「民主」一詞與制度自此進入人類政治史。",
+      "tags": [
+        "古希臘",
+        "民主發展"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/雅典式民主"
+    },
+    {
+      "id": "evt_bc0334_001",
+      "year": -334,
+      "month": null,
+      "day": null,
+      "region": "世界",
+      "title": "亞歷山大大帝東征",
+      "description": "西元前 334 年亞歷山大率軍東征，十年間征服波斯直抵印度河，希臘化文明隨之散播於歐亞非交會地帶。",
+      "tags": [
+        "戰爭",
+        "古希臘"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/亞歷山大大帝"
+    },
+    {
+      "id": "evt_bc0221_001",
+      "year": -221,
+      "month": null,
+      "day": null,
+      "region": "中國",
+      "title": "秦統一六國，皇帝制度創立",
+      "description": "西元前 221 年秦王政兼併六國，自稱始皇帝，推行郡縣、書同文、車同軌，中央集權帝制自此延續兩千餘年。",
+      "tags": [
+        "王朝更迭",
+        "制度"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/秦始皇"
+    },
+    {
+      "id": "evt_bc0202_001",
+      "year": -202,
+      "month": null,
+      "day": null,
+      "region": "中國",
+      "title": "漢朝建立",
+      "description": "西元前 202 年劉邦擊敗項羽即皇帝位，漢朝四百年間奠定中國的疆域規模與文化認同，「漢人」之名由此而來。",
+      "tags": [
+        "王朝更迭"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/漢朝"
+    },
+    {
+      "id": "evt_bc0138_001",
+      "year": -138,
+      "month": null,
+      "day": null,
+      "region": "中國",
+      "title": "張騫出使西域，絲路開通",
+      "description": "西元前 138 年張騫奉漢武帝之命出使西域，鑿空之旅開啟絲綢之路，東西方物產、宗教與技術自此長期交流。",
+      "tags": [
+        "外交",
+        "絲路"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/張騫"
+    },
+    {
+      "id": "evt_bc0027_001",
+      "year": -27,
+      "month": null,
+      "day": null,
+      "region": "世界",
+      "title": "屋大維建立羅馬帝國",
+      "description": "西元前 27 年屋大維獲元老院尊號「奧古斯都」，共和落幕、帝制開啟，羅馬和平（Pax Romana）籠罩地中海世界兩百年。",
+      "tags": [
+        "古羅馬",
+        "政治史"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/羅馬帝國"
+    },
+    {
+      "id": "evt_0030_001",
+      "year": 30,
+      "month": null,
+      "day": null,
+      "region": "世界",
+      "title": "耶穌受難，基督教興起",
+      "description": "約西元 30 年耶穌在耶路撒冷被釘十字架，其門徒傳播的信仰其後成為世界最大宗教，深刻形塑西方文明與世界史。",
+      "tags": [
+        "宗教",
+        "文明"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/耶穌"
+    },
+    {
+      "id": "evt_0105_001",
+      "year": 105,
+      "month": null,
+      "day": null,
+      "region": "中國",
+      "title": "蔡倫改良造紙術",
+      "description": "東漢蔡倫於西元 105 年改良造紙術並奏報朝廷，低廉紙張使知識傳播成本大降，後經絲路西傳改變全世界。",
+      "tags": [
+        "科技",
+        "四大發明"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/蔡倫"
+    },
+    {
+      "id": "evt_0220_001",
+      "year": 220,
+      "month": null,
+      "day": null,
+      "region": "中國",
+      "title": "東漢滅亡，三國鼎立",
+      "description": "西元 220 年曹丕篡漢稱帝，魏蜀吳三國鼎立，其後近四百年的分裂與民族融合重塑中國的政治與文化版圖。",
+      "tags": [
+        "王朝更迭",
+        "三國"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/三國"
+    },
+    {
+      "id": "evt_0313_001",
+      "year": 313,
+      "month": null,
+      "day": null,
+      "region": "世界",
+      "title": "《米蘭敕令》：基督教合法化",
+      "description": "西元 313 年君士坦丁大帝頒布米蘭敕令承認基督教合法地位，數十年後基督教成為羅馬國教，歐洲進入基督教時代。",
+      "tags": [
+        "宗教",
+        "古羅馬"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/米蘭敕令"
+    },
+    {
+      "id": "evt_0476_001",
+      "year": 476,
+      "month": null,
+      "day": null,
+      "region": "世界",
+      "title": "西羅馬帝國滅亡",
+      "description": "西元 476 年末代皇帝羅慕路斯·奧古斯都被廢黜，西羅馬帝國滅亡，歐洲進入日耳曼王國林立的中世紀。",
+      "tags": [
+        "古羅馬",
+        "中世紀"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/西羅馬帝國"
+    },
+    {
+      "id": "evt_0589_001",
+      "year": 589,
+      "month": null,
+      "day": null,
+      "region": "中國",
+      "title": "隋滅陳，統一南北",
+      "description": "西元 589 年隋文帝滅陳，結束近三百年南北分裂；隋創科舉、開運河，制度遺產由唐朝發揚光大。",
+      "tags": [
+        "王朝更迭",
+        "統一"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/隋朝"
+    },
+    {
+      "id": "evt_0618_001",
+      "year": 618,
+      "month": null,
+      "day": null,
+      "region": "中國",
+      "title": "唐朝建立",
+      "description": "西元 618 年李淵稱帝建唐，盛唐國力與文化臻於極盛，長安成為當時世界最大的國際都會。",
+      "tags": [
+        "王朝更迭",
+        "盛世"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/唐朝"
+    },
+    {
+      "id": "evt_0622_001",
+      "year": 622,
+      "month": null,
+      "day": null,
+      "region": "世界",
+      "title": "聖遷：伊斯蘭曆元年",
+      "description": "西元 622 年穆罕默德率信眾自麥加遷往麥地那，伊斯蘭曆以此為元年；一世紀內伊斯蘭帝國即橫跨三大洲。",
+      "tags": [
+        "宗教",
+        "伊斯蘭"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/穆罕默德"
+    },
+    {
+      "id": "evt_08001225_001",
+      "year": 800,
+      "month": 12,
+      "day": 25,
+      "region": "世界",
+      "title": "查理曼加冕為「羅馬人的皇帝」",
+      "description": "西元 800 年聖誕節，教宗於羅馬為法蘭克國王查理曼加冕，教權與王權結盟的中世紀歐洲秩序成形。",
+      "tags": [
+        "中世紀",
+        "政治史"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/查理曼"
+    },
+    {
+      "id": "evt_0960_001",
+      "year": 960,
+      "month": null,
+      "day": null,
+      "region": "中國",
+      "title": "陳橋兵變，宋朝建立",
+      "description": "西元 960 年趙匡胤黃袍加身建立宋朝，重文輕武的體制下，經濟、科技與市民文化達到前所未有的高峰。",
+      "tags": [
+        "王朝更迭"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/宋朝"
+    },
+    {
+      "id": "evt_1041_001",
+      "year": 1041,
+      "month": null,
+      "day": null,
+      "region": "中國",
+      "title": "畢昇發明活字印刷術",
+      "description": "北宋慶曆年間（約 1041 年）畢昇發明膠泥活字，為世界最早的活字印刷，早於古騰堡四百年。",
+      "tags": [
+        "科技",
+        "四大發明"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/畢昇"
+    },
+    {
+      "id": "evt_10661014_001",
+      "year": 1066,
+      "month": 10,
+      "day": 14,
+      "region": "世界",
+      "title": "諾曼征服英格蘭",
+      "description": "1066 年黑斯廷斯之役，諾曼第公爵威廉擊敗英王哈羅德征服英格蘭，重塑英國的王室、語言與封建制度。",
+      "tags": [
+        "中世紀",
+        "戰爭"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/諾曼征服英格蘭"
+    },
+    {
+      "id": "evt_1096_001",
+      "year": 1096,
+      "month": null,
+      "day": null,
+      "region": "世界",
+      "title": "第一次十字軍東征",
+      "description": "1096 年教宗號召下的第一次十字軍出發東征，兩百年間八次東征深刻改變歐洲與伊斯蘭世界的關係及地中海貿易。",
+      "tags": [
+        "中世紀",
+        "宗教戰爭"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/十字軍東征"
+    },
+    {
+      "id": "evt_1127_001",
+      "year": 1127,
+      "month": null,
+      "day": null,
+      "region": "中國",
+      "title": "靖康之變，宋室南渡",
+      "description": "1127 年金兵攻陷開封擄走徽欽二帝，北宋滅亡；宋室南渡臨安，中國經濟文化重心加速南移。",
+      "tags": [
+        "王朝更迭",
+        "戰爭"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/靖康之變"
+    },
+    {
+      "id": "evt_1206_001",
+      "year": 1206,
+      "month": null,
+      "day": null,
+      "region": "世界",
+      "title": "成吉思汗建立蒙古帝國",
+      "description": "1206 年鐵木真統一蒙古諸部尊號成吉思汗，其子孫建立史上疆域最大的陸上帝國，重寫歐亞大陸的歷史。",
+      "tags": [
+        "帝國",
+        "戰爭"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/成吉思汗"
+    },
+    {
+      "id": "evt_12150615_001",
+      "year": 1215,
+      "month": 6,
+      "day": 15,
+      "region": "世界",
+      "title": "英王約翰簽署《大憲章》",
+      "description": "1215 年英格蘭貴族迫使約翰王簽署大憲章，「王在法下」的原則成為後世憲政與法治傳統的源頭。",
+      "tags": [
+        "法治",
+        "憲政"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/大憲章"
+    },
+    {
+      "id": "evt_1271_001",
+      "year": 1271,
+      "month": null,
+      "day": null,
+      "region": "中國",
+      "title": "忽必烈定國號大元",
+      "description": "1271 年忽必烈取《易經》「大哉乾元」定國號大元，八年後滅南宋，中國首次由草原民族完成全境統治。",
+      "tags": [
+        "王朝更迭",
+        "蒙元"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/元朝"
+    },
+    {
+      "id": "evt_1347_001",
+      "year": 1347,
+      "month": null,
+      "day": null,
+      "region": "世界",
+      "title": "黑死病席捲歐洲",
+      "description": "1347 年起鼠疫沿貿易路線橫掃歐洲，數年間奪走歐洲三分之一以上人口，勞動力劇變動搖封建秩序。",
+      "tags": [
+        "疫情",
+        "中世紀"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/黑死病"
+    },
+    {
+      "id": "evt_1368_001",
+      "year": 1368,
+      "month": null,
+      "day": null,
+      "region": "中國",
+      "title": "明朝建立",
+      "description": "1368 年朱元璋於應天稱帝建立明朝，驅逐元廷恢復漢人政權，其後遷都北京、修築長城，形塑近世中國格局。",
+      "tags": [
+        "王朝更迭"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/明朝"
+    },
+    {
+      "id": "evt_14050711_001",
+      "year": 1405,
+      "month": 7,
+      "day": 11,
+      "region": "中國",
+      "title": "鄭和首下西洋",
+      "description": "1405 年鄭和率兩百餘艘寶船、兩萬七千人首航西洋，七次遠航最遠抵達東非，規模領先歐洲大航海近一世紀。",
+      "tags": [
+        "航海",
+        "外交"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/鄭和下西洋"
+    },
+    {
+      "id": "evt_1450_001",
+      "year": 1450,
+      "month": null,
+      "day": null,
+      "region": "世界",
+      "title": "古騰堡發明金屬活字印刷",
+      "description": "約 1450 年古騰堡於美因茲以金屬活字印刷《聖經》，書籍量產使知識擴散失控於教會與王權，催化宗教改革與科學革命。",
+      "tags": [
+        "科技",
+        "印刷"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/約翰尼斯·古騰堡"
+    },
+    {
+      "id": "evt_14530529_001",
+      "year": 1453,
+      "month": 5,
+      "day": 29,
+      "region": "世界",
+      "title": "君士坦丁堡陷落",
+      "description": "1453 年鄂圖曼蘇丹穆罕默德二世攻陷君士坦丁堡，千年拜占庭帝國滅亡，東西貿易路線改變助推歐洲尋找新航路。",
+      "tags": [
+        "帝國",
+        "戰爭"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/君士坦丁堡的陷落"
+    },
+    {
+      "id": "evt_14921012_001",
+      "year": 1492,
+      "month": 10,
+      "day": 12,
+      "region": "世界",
+      "title": "哥倫布抵達美洲",
+      "description": "1492 年 10 月 12 日哥倫布船隊登陸巴哈馬群島，新舊大陸自此相遇，大交換與殖民浪潮徹底改寫全球史。",
+      "tags": [
+        "大航海",
+        "地理大發現"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/克里斯多福·哥倫布"
+    },
+    {
+      "id": "evt_15171031_001",
+      "year": 1517,
+      "month": 10,
+      "day": 31,
+      "region": "世界",
+      "title": "馬丁·路德發表《九十五條論綱》",
+      "description": "1517 年路德於威登堡張貼論綱抨擊贖罪券，宗教改革席捲歐洲，基督教世界分裂並引發百年宗教戰爭。",
+      "tags": [
+        "宗教改革",
+        "思想"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/馬丁·路德"
+    },
+    {
+      "id": "evt_15190920_001",
+      "year": 1519,
+      "month": 9,
+      "day": 20,
+      "region": "世界",
+      "title": "麥哲倫船隊啟航環球",
+      "description": "1519 年麥哲倫率五艦啟航，三年後倖存的維多利亞號完成人類首次環球航行，以實證確認地圓與世界一體。",
+      "tags": [
+        "大航海",
+        "地理大發現"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/斐迪南·麥哲倫"
+    },
+    {
+      "id": "evt_1543_001",
+      "year": 1543,
+      "month": null,
+      "day": null,
+      "region": "世界",
+      "title": "哥白尼發表日心說",
+      "description": "1543 年哥白尼臨終出版《天體運行論》，日心說動搖教會宇宙觀，揭開近代科學革命的序幕。",
+      "tags": [
+        "科學革命",
+        "天文"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/尼古拉·哥白尼"
+    },
+    {
+      "id": "evt_1544_001",
+      "year": 1544,
+      "month": null,
+      "day": null,
+      "region": "台灣",
+      "title": "葡萄牙人稱台灣「福爾摩沙」",
+      "description": "約 1544 年葡萄牙船員航經台灣，讚嘆「Ilha Formosa（美麗之島）」，台灣自此進入歐洲海圖與世界貿易的視野。",
+      "tags": [
+        "大航海",
+        "地名由來"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/福爾摩沙"
+    },
+    {
+      "id": "evt_1588_001",
+      "year": 1588,
+      "month": 8,
+      "day": null,
+      "region": "世界",
+      "title": "西班牙無敵艦隊覆滅",
+      "description": "1588 年西班牙無敵艦隊遠征英格蘭失利，海權天平開始傾向英荷，大西洋貿易與殖民格局隨之改觀。",
+      "tags": [
+        "海權",
+        "戰爭"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/西班牙無敵艦隊"
+    },
+    {
+      "id": "evt_16020320_001",
+      "year": 1602,
+      "month": 3,
+      "day": 20,
+      "region": "世界",
+      "title": "荷蘭東印度公司成立",
+      "description": "1602 年世界第一家股份有限公司荷蘭東印度公司成立，公司體制與股票交易誕生，資本主義全球擴張自此加速。",
+      "tags": [
+        "經濟",
+        "大航海"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/荷蘭東印度公司"
+    },
+    {
+      "id": "evt_162408_001",
+      "year": 1624,
+      "month": 8,
+      "day": null,
+      "region": "台灣",
+      "title": "荷蘭東印度公司據台",
+      "description": "1624 年荷蘭東印度公司轉進大員（今台南安平）築熱蘭遮城，台灣首度被納入全球貿易網絡，開啟 38 年荷治時期。",
+      "tags": [
+        "荷治時期",
+        "政權轉移"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/臺灣荷蘭統治時期"
+    },
+    {
+      "id": "evt_162605_001",
+      "year": 1626,
+      "month": 5,
+      "day": null,
+      "region": "台灣",
+      "title": "西班牙人佔領北台灣",
+      "description": "1626 年西班牙人自菲律賓北上佔領雞籠（基隆），後拓展至淡水，與南部荷蘭人分據台灣十六年。",
+      "tags": [
+        "西治時期",
+        "政權轉移"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/臺灣西班牙統治時期"
+    },
+    {
+      "id": "evt_164404_001",
+      "year": 1644,
+      "month": 4,
+      "day": null,
+      "region": "中國",
+      "title": "明朝滅亡，清軍入關",
+      "description": "1644 年李自成攻陷北京、崇禎帝自縊，吳三桂引清兵入關，滿洲政權入主中原，開啟中國最後一個帝制王朝。",
+      "tags": [
+        "王朝更迭",
+        "戰爭"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/清兵入關"
+    },
+    {
+      "id": "evt_164810_001",
+      "year": 1648,
+      "month": 10,
+      "day": 24,
+      "region": "世界",
+      "title": "《西發里亞和約》簽署",
+      "description": "1648 年三十年戰爭以西發里亞和約落幕，主權國家平等原則確立，近代國際體系的基本規則自此成形。",
+      "tags": [
+        "國際秩序",
+        "條約"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/西發里亞和約"
+    },
+    {
+      "id": "evt_165209_001",
+      "year": 1652,
+      "month": 9,
+      "day": null,
+      "region": "台灣",
+      "title": "郭懷一事件",
+      "description": "1652 年漢人移民領袖郭懷一起事反抗荷蘭統治，遭荷軍與原住民聯手鎮壓，數千人喪生，是荷治時期最大規模的抗爭。",
+      "tags": [
+        "荷治時期",
+        "民變"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/郭懷一事件"
+    },
+    {
+      "id": "evt_16620201_001",
+      "year": 1662,
+      "month": 2,
+      "day": 1,
+      "region": "台灣",
+      "title": "鄭成功取台灣，荷蘭人投降",
+      "description": "1662 年 2 月熱蘭遮城開城，荷蘭東印度公司結束在台統治；鄭成功以台灣為反清基地，建立台灣史上首個漢人政權。",
+      "tags": [
+        "明鄭時期",
+        "政權轉移"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/鄭成功攻臺之役"
+    },
+    {
+      "id": "evt_168307_001",
+      "year": 1683,
+      "month": 7,
+      "day": null,
+      "region": "台灣",
+      "title": "澎湖海戰，明鄭降清",
+      "description": "1683 年施琅率清軍於澎湖海戰大破明鄭艦隊，鄭克塽投降，歷經三代 22 年的明鄭政權告終。",
+      "tags": [
+        "明鄭時期",
+        "戰爭"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/澎湖海戰"
+    },
+    {
+      "id": "evt_168404_001",
+      "year": 1684,
+      "month": 4,
+      "day": null,
+      "region": "台灣",
+      "title": "台灣納入清朝版圖",
+      "description": "1684 年清廷設台灣府隸屬福建省，下轄一府三縣，台灣正式納入清帝國行政體系，開啟兩百餘年清治時期。",
+      "tags": [
+        "清治時期",
+        "政權轉移"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/臺灣清治時期"
+    },
+    {
+      "id": "evt_168707_001",
+      "year": 1687,
+      "month": 7,
+      "day": 5,
+      "region": "世界",
+      "title": "牛頓發表《自然哲學的數學原理》",
+      "description": "1687 年牛頓出版《原理》，以三大運動定律與萬有引力統一天地力學，科學革命臻於高峰，理性時代來臨。",
+      "tags": [
+        "科學革命",
+        "物理"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/艾薩克·牛頓"
+    },
+    {
+      "id": "evt_1688_001",
+      "year": 1688,
+      "month": 11,
+      "day": null,
+      "region": "世界",
+      "title": "光榮革命",
+      "description": "1688 年英格蘭議會迎立威廉三世，不流血革命確立議會主權與《權利法案》，君主立憲制度自此成為典範。",
+      "tags": [
+        "憲政",
+        "革命"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/光榮革命"
+    },
+    {
+      "id": "evt_16890907_001",
+      "year": 1689,
+      "month": 9,
+      "day": 7,
+      "region": "中國",
+      "title": "《尼布楚條約》簽訂",
+      "description": "1689 年清俄簽訂尼布楚條約劃定東段邊界，是中國首次以對等主權國家形式與歐洲國家締約。",
+      "tags": [
+        "條約",
+        "對外關係"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/尼布楚條約"
+    },
     {
       "id": "evt_17070501_001",
       "year": 1707,

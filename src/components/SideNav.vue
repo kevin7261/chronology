@@ -1,6 +1,6 @@
 <script setup>
 import { ref, watch, nextTick } from 'vue';
-import { useTimelineStore, monthKey } from '../stores/timeline';
+import { useTimelineStore, formatYear } from '../stores/timeline';
 
 const store = useTimelineStore();
 const navEl = ref(null);
@@ -70,7 +70,7 @@ const jumpToYear = (yearEntry) => store.jumpTo(yearEntry.months[0].key);
                 : 'text-sm text-stone-400 group-hover:text-stone-200'
             "
           >
-            {{ yearEntry.year }}
+            {{ formatYear(yearEntry.year) }}
           </span>
           <span class="text-[10px] text-stone-600">
             {{ yearEntry.months.reduce((n, m) => n + m.events.length, 0) }}
@@ -94,7 +94,7 @@ const jumpToYear = (yearEntry) => store.jumpTo(yearEntry.months[0].key);
             "
             @click="store.jumpTo(m.key)"
           >
-            {{ m.month }}月
+            {{ m.month === 0 ? '全年' : `${m.month}月` }}
           </button>
         </div>
       </li>

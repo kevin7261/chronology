@@ -18,7 +18,7 @@ const open = ref(false);
   >
     <div class="flex items-baseline gap-2">
       <span class="w-9 shrink-0 font-mono text-[11px] text-amber-400/90">
-        {{ event.day ? `${event.day} 日` : '本月' }}
+        {{ event.day ? `${event.day} 日` : event.month ? '本月' : '—' }}
       </span>
       <h4 class="min-w-0 flex-1 text-sm leading-snug font-bold text-stone-100">
         {{ event.title }}

@@ -33,7 +33,7 @@ const eventsByRegion = computed(() => {
         class="font-mono text-base font-bold transition-colors duration-500"
         :class="isActive ? 'text-amber-300' : 'text-stone-400 group-hover:text-stone-200'"
       >
-        {{ section.month }} 月
+        {{ section.month === 0 ? '全年' : `${section.month} 月` }}
       </h3>
       <span class="text-xs text-stone-600">{{ section.events.length }} 起事件</span>
       <span

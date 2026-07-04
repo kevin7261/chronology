@@ -2,9 +2,13 @@ import { defineStore } from 'pinia';
 import data from '../data/events.json';
 
 /**
- * 產生月份唯一鍵，例如 1930 年 10 月 → "1930-10"
+ * 產生月份唯一鍵，例如 1930 年 10 月 → "1930:10"。
+ * 月份未知（古代事件）以 0 表示；分隔符用冒號以免與西元前的負號混淆。
  */
-export const monthKey = (year, month) => `${year}-${month}`;
+export const monthKey = (year, month) => `${year}:${month ?? 0}`;
+
+/** 年份顯示：負數為西元前 */
+export const formatYear = (year) => (year < 0 ? `前 ${-year}` : String(year));
 
 /** 地區清單與對應的 Tailwind 配色（軌道線 / 文字 / 篩選鈕共用） */
 export const REGIONS = [
@@ -61,10 +65,11 @@ export const useTimelineStore = defineStore('timeline', {
     years() {
       const byYear = new Map();
       for (const evt of this.filteredEvents) {
+        const month = evt.month ?? 0;
         if (!byYear.has(evt.year)) byYear.set(evt.year, new Map());
         const byMonth = byYear.get(evt.year);
-        if (!byMonth.has(evt.month)) byMonth.set(evt.month, []);
-        byMonth.get(evt.month).push(evt);
+        if (!byMonth.has(month)) byMonth.set(month, []);
+        byMonth.get(month).push(evt);
       }
       return [...byYear.keys()]
         .sort((a, b) => a - b)
@@ -91,7 +96,7 @@ export const useTimelineStore = defineStore('timeline', {
     },
 
     activeYear(state) {
-      return state.activeKey ? Number(state.activeKey.split('-')[0]) : null;
+      return state.activeKey ? Number(state.activeKey.split(':')[0]) : null;
     },
 
     /** 目前顯示的軌道（全部模式為三軌並列，篩選後為單軌） */

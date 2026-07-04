@@ -1,6 +1,6 @@
 <script setup>
 import { onMounted, onUnmounted, ref, watch, nextTick } from 'vue';
-import { useTimelineStore } from '../stores/timeline';
+import { useTimelineStore, formatYear } from '../stores/timeline';
 import TimelineMonth from './TimelineMonth.vue';
 
 const store = useTimelineStore();
@@ -74,7 +74,7 @@ watch(
           class="font-serif text-2xl font-black tracking-tight transition-colors duration-500"
           :class="store.activeYear === yearEntry.year ? 'text-amber-400' : 'text-stone-600'"
         >
-          {{ yearEntry.year }}
+          {{ formatYear(yearEntry.year) }}
         </h2>
         <div class="h-px flex-1 bg-stone-800/80"></div>
       </div>
