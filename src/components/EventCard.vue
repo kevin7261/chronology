@@ -1,61 +1,65 @@
 <script setup>
-import { regionBadgeClass } from '../stores/timeline';
+import { ref } from 'vue';
+import { regionTextClass } from '../stores/timeline';
 
 defineProps({
   event: { type: Object, required: true },
 });
+
+/** 說明內容預設收合，點擊卡片展開 */
+const open = ref(false);
 </script>
 
 <template>
   <article
-    class="event-card group rounded-lg border border-stone-800 bg-stone-900/60 p-5 transition-colors duration-300 hover:border-amber-500/40"
+    class="cursor-pointer rounded-md bg-stone-900/60 px-3 py-2 transition-colors duration-200 select-none hover:bg-stone-800/80"
+    :aria-expanded="open"
+    @click="open = !open"
   >
-    <div class="flex items-start gap-4">
-      <!-- 日期徽章 -->
-      <div
-        class="flex w-14 shrink-0 flex-col items-center rounded-md border border-stone-700/80 bg-stone-950 py-2"
+    <div class="flex items-baseline gap-2">
+      <span class="w-9 shrink-0 font-mono text-[11px] text-amber-400/90">
+        {{ event.day ? `${event.day} 日` : '本月' }}
+      </span>
+      <h4 class="min-w-0 flex-1 text-sm leading-snug font-bold text-stone-100">
+        {{ event.title }}
+      </h4>
+      <!-- 行動版單欄堆疊時以文字標示軌道 -->
+      <span class="text-[10px] md:hidden" :class="regionTextClass(event.region)">
+        {{ event.region }}
+      </span>
+      <span
+        class="text-[10px] text-stone-600 transition-transform duration-300"
+        :class="open ? 'rotate-180' : ''"
+        >▾</span
       >
-        <span class="font-mono text-xl font-bold text-amber-400">
-          {{ event.day ?? '—' }}
-        </span>
-        <span class="text-[10px] tracking-widest text-stone-500">
-          {{ event.day ? '日' : '本月' }}
-        </span>
-      </div>
+    </div>
 
-      <div class="min-w-0 flex-1">
-        <div class="flex items-start justify-between gap-3">
-          <h4 class="font-serif text-lg font-bold text-stone-100">
-            {{ event.title }}
-          </h4>
-          <span
-            class="mt-1 shrink-0 rounded-full border px-2 py-0.5 text-[10px] tracking-wider"
-            :class="regionBadgeClass(event.region)"
-          >
-            {{ event.region }}
-          </span>
-        </div>
-        <p class="mt-1.5 text-sm leading-relaxed text-stone-400">
-          {{ event.description }}
-        </p>
-
-        <div class="mt-3 flex flex-wrap items-center gap-2">
-          <span
-            v-for="tag in event.tags"
-            :key="tag"
-            class="rounded-full bg-stone-800 px-2.5 py-0.5 text-[11px] text-stone-400"
-          >
-            {{ tag }}
-          </span>
-          <a
-            :href="event.wiki_url"
-            target="_blank"
-            rel="noopener"
-            class="ml-auto inline-flex items-center gap-1 text-xs text-amber-500/80 transition-colors hover:text-amber-300"
-          >
-            維基百科驗證
-            <span aria-hidden="true">↗</span>
-          </a>
+    <!-- 點擊後展開的說明區 -->
+    <div class="month-body" :class="{ 'is-expanded': open }">
+      <div class="month-body-inner">
+        <div class="pt-2 pb-1">
+          <p class="text-xs leading-relaxed text-stone-400">
+            {{ event.description }}
+          </p>
+          <div class="mt-2 flex flex-wrap items-center gap-1.5">
+            <span
+              v-for="tag in event.tags"
+              :key="tag"
+              class="rounded-full bg-stone-800 px-2 py-0.5 text-[10px] text-stone-400"
+            >
+              {{ tag }}
+            </span>
+            <a
+              :href="event.wiki_url"
+              target="_blank"
+              rel="noopener"
+              class="ml-auto inline-flex items-center gap-1 text-[11px] text-amber-500/80 transition-colors hover:text-amber-300"
+              @click.stop
+            >
+              維基百科驗證
+              <span aria-hidden="true">↗</span>
+            </a>
+          </div>
         </div>
       </div>
     </div>

@@ -65,10 +65,11 @@ const selectRegion = (region) => {
       <SideNav />
     </aside>
     <main class="min-w-0 flex-1 lg:pl-12">
-      <!-- 地區篩選列（sticky） -->
+      <!-- 地區篩選＋軌道標頭（sticky） -->
       <div
-        class="sticky top-2 z-40 -mx-2 mt-6 flex flex-wrap items-center gap-2 rounded-full border border-stone-800/80 bg-stone-950/85 px-3 py-2 backdrop-blur"
+        class="sticky top-0 z-40 -mx-2 mt-4 rounded-b-2xl border-b border-stone-800/80 bg-stone-950/90 px-2 pt-3 pb-2 backdrop-blur"
       >
+        <div class="flex flex-wrap items-center gap-2">
         <button
           type="button"
           class="rounded-full border px-3.5 py-1 text-xs transition-colors duration-300"
@@ -95,6 +96,22 @@ const selectRegion = (region) => {
         >
           {{ r.key }} {{ store.regionCounts[r.key] ?? 0 }}
         </button>
+        </div>
+
+        <!-- 三軌欄位標頭（與下方月份格線對齊） -->
+        <div
+          v-if="store.regionFilter === 'all'"
+          class="mt-2.5 hidden gap-x-4 md:grid md:grid-cols-3"
+        >
+          <div
+            v-for="r in REGIONS"
+            :key="r.key"
+            class="border-l-2 pl-3 text-xs font-bold tracking-widest"
+            :class="[r.track, r.text]"
+          >
+            {{ r.key }}
+          </div>
+        </div>
       </div>
       <Timeline />
     </main>

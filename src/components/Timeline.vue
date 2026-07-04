@@ -66,29 +66,17 @@ watch(
 </script>
 
 <template>
-  <div class="relative py-10">
-    <!-- 貫穿全時間軸的垂直主線 -->
-    <div
-      class="pointer-events-none absolute top-10 bottom-0 left-[7px] w-px bg-gradient-to-b from-amber-500/60 via-stone-700 to-stone-800"
-    ></div>
-
+  <div class="py-8">
     <template v-for="yearEntry in store.years" :key="yearEntry.year">
       <!-- 年份分隔標記 -->
-      <div class="relative mt-14 mb-6 flex items-center gap-4 pl-8 first:mt-0">
-        <span
-          class="absolute left-0 h-[15px] w-[15px] rounded-full border-2 transition-colors duration-500"
-          :class="
-            store.activeYear === yearEntry.year
-              ? 'border-amber-400 bg-amber-400/30'
-              : 'border-stone-600 bg-stone-950'
-          "
-        ></span>
+      <div class="mt-10 mb-4 flex items-center gap-4 first:mt-0">
         <h2
-          class="font-serif text-4xl font-black tracking-tight transition-colors duration-500"
+          class="font-serif text-2xl font-black tracking-tight transition-colors duration-500"
           :class="store.activeYear === yearEntry.year ? 'text-amber-400' : 'text-stone-600'"
         >
           {{ yearEntry.year }}
         </h2>
+        <div class="h-px flex-1 bg-stone-800/80"></div>
       </div>
 
       <TimelineMonth

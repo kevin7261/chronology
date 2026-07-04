@@ -6,27 +6,33 @@ import data from '../data/events.json';
  */
 export const monthKey = (year, month) => `${year}-${month}`;
 
-/** 地區清單與對應的 Tailwind 配色（badge / 篩選鈕共用） */
+/** 地區清單與對應的 Tailwind 配色（軌道線 / 文字 / 篩選鈕共用） */
 export const REGIONS = [
   {
     key: '台灣',
-    badge: 'border-amber-500/40 bg-amber-500/15 text-amber-300',
+    track: 'border-amber-500/35',
+    text: 'text-amber-300',
     pillActive: 'border-amber-400/70 bg-amber-400/15 text-amber-300 font-bold',
   },
   {
     key: '中國',
-    badge: 'border-rose-500/40 bg-rose-500/15 text-rose-300',
+    track: 'border-rose-500/35',
+    text: 'text-rose-300',
     pillActive: 'border-rose-400/70 bg-rose-400/15 text-rose-300 font-bold',
   },
   {
     key: '世界',
-    badge: 'border-sky-500/40 bg-sky-500/15 text-sky-300',
+    track: 'border-sky-500/35',
+    text: 'text-sky-300',
     pillActive: 'border-sky-400/70 bg-sky-400/15 text-sky-300 font-bold',
   },
 ];
 
-export const regionBadgeClass = (region) =>
-  REGIONS.find((r) => r.key === region)?.badge ?? 'border-stone-600 bg-stone-800 text-stone-300';
+export const regionTrackClass = (region) =>
+  REGIONS.find((r) => r.key === region)?.track ?? 'border-stone-700';
+
+export const regionTextClass = (region) =>
+  REGIONS.find((r) => r.key === region)?.text ?? 'text-stone-300';
 
 export const useTimelineStore = defineStore('timeline', {
   state: () => ({
@@ -86,6 +92,11 @@ export const useTimelineStore = defineStore('timeline', {
 
     activeYear(state) {
       return state.activeKey ? Number(state.activeKey.split('-')[0]) : null;
+    },
+
+    /** 目前顯示的軌道（全部模式為三軌並列，篩選後為單軌） */
+    activeRegions(state) {
+      return state.regionFilter === 'all' ? REGIONS.map((r) => r.key) : [state.regionFilter];
     },
 
     regionCounts(state) {
