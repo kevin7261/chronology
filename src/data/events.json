@@ -14973,6 +14973,21 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/馬雅各"
     },
     {
+      "id": "evt_ussr_001",
+      "year": 1870,
+      "month": 4,
+      "day": 22,
+      "region": "世界",
+      "title": "列寧誕生",
+      "description": "弗拉基米爾·列寧出生於俄羅斯辛比爾斯克，日後領導布爾什維克發動十月革命，成為蘇維埃俄國締造者。",
+      "tags": [
+        "蘇聯",
+        "列寧",
+        "人物"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/弗拉基米爾·列寧"
+    },
+    {
       "id": "evt_cn2_103",
       "year": 1870,
       "month": 6,
@@ -15875,6 +15890,21 @@
         "清朝"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/大龍郵票"
+    },
+    {
+      "id": "evt_ussr_002",
+      "year": 1878,
+      "month": 12,
+      "day": 18,
+      "region": "世界",
+      "title": "史達林誕生",
+      "description": "約瑟夫·史達林出生於喬治亞哥里，後成為蘇聯共產黨總書記，主導蘇聯工業化、集體化與大清洗等重大歷史進程。",
+      "tags": [
+        "蘇聯",
+        "史達林",
+        "人物"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/約瑟夫·史達林"
     },
     {
       "id": "evt_tw1_105",
@@ -19290,6 +19320,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/塞拉耶佛事件"
     },
     {
+      "id": "evt_ww_001",
+      "year": 1914,
+      "month": 6,
+      "day": 28,
+      "region": "世界",
+      "title": "薩拉熱窩事件",
+      "description": "奧匈帝國皇儲法蘭茲·斐迪南大公夫婦於波士尼亞薩拉熱窩遇刺身亡，成為第一次世界大戰爆發的直接導火線。",
+      "tags": [
+        "戰爭",
+        "一戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/薩拉熱窩事件"
+    },
+    {
       "id": "evt_cn3_003",
       "year": 1914,
       "month": 7,
@@ -19343,6 +19387,48 @@
         "經濟"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/巴拿馬運河"
+    },
+    {
+      "id": "evt_ww_002",
+      "year": 1914,
+      "month": 8,
+      "day": 26,
+      "region": "世界",
+      "title": "坦能堡戰役",
+      "description": "德軍在東線重創俄軍第二集團軍，予以殲滅性打擊，成為一戰初期德軍最具代表性的勝利之一。",
+      "tags": [
+        "戰爭",
+        "一戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/坦能堡戰役_(1914年)"
+    },
+    {
+      "id": "evt_ww_003",
+      "year": 1914,
+      "month": 9,
+      "day": 6,
+      "region": "世界",
+      "title": "第一次馬恩河戰役",
+      "description": "協約國軍隊在馬恩河擋下德軍攻勢，粉碎了德國速戰速決的施里芬計畫，戰線轉為長期壕溝對峙。",
+      "tags": [
+        "戰爭",
+        "一戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/第一次马恩河战役"
+    },
+    {
+      "id": "evt_ww_004",
+      "year": 1914,
+      "month": 10,
+      "day": 19,
+      "region": "世界",
+      "title": "第一次伊珀爾戰役",
+      "description": "德軍與協約國在比利時伊珀爾一帶激戰，雙方傷亡慘重卻未能突破，西線陣地戰格局自此確立。",
+      "tags": [
+        "戰爭",
+        "一戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/第一次伊珀尔战役"
     },
     {
       "id": "evt_tw2_045",
@@ -19401,6 +19487,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/二十一條"
     },
     {
+      "id": "evt_ww_005",
+      "year": 1915,
+      "month": 1,
+      "day": 19,
+      "region": "世界",
+      "title": "齊柏林飛船首次空襲英國",
+      "description": "德國齊柏林飛船首度空襲英國本土，開啟了戰爭史上對敵國後方城市進行空中轟炸的先例。",
+      "tags": [
+        "戰爭",
+        "一戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/齊柏林飛船"
+    },
+    {
       "id": "evt_tw2_046",
       "year": 1915,
       "month": 4,
@@ -19412,6 +19512,20 @@
         "教育"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/台中一中"
+    },
+    {
+      "id": "evt_ww_006",
+      "year": 1915,
+      "month": 4,
+      "day": 22,
+      "region": "世界",
+      "title": "第二次伊珀爾戰役爆發，德軍首次大規模使用毒氣",
+      "description": "德軍在此役中首次大規模施放氯氣毒氣，開啟了現代戰爭中化學武器的使用，造成協約國士兵重大傷亡。",
+      "tags": [
+        "戰爭",
+        "一戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/第二次伊珀爾戰役"
     },
     {
       "id": "evt_w4_024",
@@ -19441,6 +19555,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/加里波利之戰"
     },
     {
+      "id": "evt_ww_007",
+      "year": 1915,
+      "month": 4,
+      "day": 25,
+      "region": "世界",
+      "title": "加里波利之戰開始",
+      "description": "協約國登陸鄂圖曼帝國加里波利半島，企圖打通達達尼爾海峽，但遭頑強抵抗陷入僵局，最終於隔年撤軍。",
+      "tags": [
+        "戰爭",
+        "一戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/加里波利之战"
+    },
+    {
       "id": "evt_w4_026",
       "year": 1915,
       "month": 5,
@@ -19453,6 +19581,34 @@
         "災難"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/盧西塔尼亞號"
+    },
+    {
+      "id": "evt_ww_008",
+      "year": 1915,
+      "month": 5,
+      "day": 7,
+      "region": "世界",
+      "title": "盧西塔尼亞號沉沒事件",
+      "description": "英國郵輪盧西塔尼亞號遭德國潛艇擊沉，近1200人罹難，事件激起美國國內反德情緒，為其日後參戰埋下伏筆。",
+      "tags": [
+        "戰爭",
+        "一戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/盧西塔尼亞號沉沒事件"
+    },
+    {
+      "id": "evt_ww_009",
+      "year": 1915,
+      "month": 5,
+      "day": 23,
+      "region": "世界",
+      "title": "義大利加入協約國參戰",
+      "description": "義大利王國退出同盟國陣營，轉而加入協約國對奧匈帝國宣戰，在阿爾卑斯山區與義大利戰線展開長期作戰。",
+      "tags": [
+        "戰爭",
+        "一戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/義大利戰線_(第一次世界大戰)"
     },
     {
       "id": "evt_19150800_001",
@@ -19539,6 +19695,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/護國戰爭"
     },
     {
+      "id": "evt_ww_010",
+      "year": 1916,
+      "month": 1,
+      "day": 9,
+      "region": "世界",
+      "title": "加里波利戰役結束，協約國撤軍",
+      "description": "歷經近九個月苦戰後，協約國承認加里波利戰役失敗，完成全面撤軍，鄂圖曼帝國成功守住達達尼爾海峽。",
+      "tags": [
+        "戰爭",
+        "一戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/加里波利之战"
+    },
+    {
       "id": "evt_w4_027",
       "year": 1916,
       "month": 2,
@@ -19550,6 +19720,21 @@
         "戰爭"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/凡爾登戰役"
+    },
+    {
+      "id": "evt_ww_012",
+      "year": 1916,
+      "month": 2,
+      "day": 25,
+      "region": "世界",
+      "title": "貝當受命指揮凡爾登防禦戰",
+      "description": "法國將領菲利普·貝當接掌凡爾登戰線指揮，以「他們不會通過」的堅定防禦聞名，戰後被譽為凡爾登英雄。",
+      "tags": [
+        "戰爭",
+        "一戰",
+        "人物"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/菲利普·貝當"
     },
     {
       "id": "evt_tw2_049",
@@ -19580,6 +19765,34 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/復活節起義"
     },
     {
+      "id": "evt_ww_013",
+      "year": 1916,
+      "month": 5,
+      "day": 31,
+      "region": "世界",
+      "title": "日德蘭海戰",
+      "description": "英國皇家海軍與德意志帝國公海艦隊在北海爆發一戰規模最大的海戰，雙方均宣稱勝利，但德國海軍此後未再大規模出擊。",
+      "tags": [
+        "戰爭",
+        "一戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/日德蘭海戰"
+    },
+    {
+      "id": "evt_ww_014",
+      "year": 1916,
+      "month": 6,
+      "day": 5,
+      "region": "世界",
+      "title": "阿拉伯大起義爆發",
+      "description": "在英國支持下，阿拉伯部族起兵反抗鄂圖曼帝國統治，T·E·勞倫斯協助組織游擊作戰，動搖了鄂圖曼在中東的統治。",
+      "tags": [
+        "戰爭",
+        "一戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/阿拉伯大起義"
+    },
+    {
       "id": "evt_cn3_006",
       "year": 1916,
       "month": 6,
@@ -19607,6 +19820,49 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/索姆河戰役"
     },
     {
+      "id": "evt_ww_015",
+      "year": 1916,
+      "month": 7,
+      "day": 1,
+      "region": "世界",
+      "title": "索姆河戰役爆發",
+      "description": "英法聯軍在索姆河發動大規模攻勢，首日即造成英軍近六萬人傷亡；同年9月英軍首次在戰場上投入坦克作戰。",
+      "tags": [
+        "戰爭",
+        "一戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/索姆河战役"
+    },
+    {
+      "id": "evt_ww_016",
+      "year": 1916,
+      "month": 8,
+      "day": 27,
+      "region": "世界",
+      "title": "羅馬尼亞加入協約國參戰",
+      "description": "羅馬尼亞王國向奧匈帝國宣戰加入協約國陣營，隨即遭同盟國軍隊擊敗，首都布加勒斯特於同年底淪陷。",
+      "tags": [
+        "戰爭",
+        "一戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/羅馬尼亞戰役_(第一次世界大戰)"
+    },
+    {
+      "id": "evt_ww_017",
+      "year": 1916,
+      "month": 8,
+      "day": 29,
+      "region": "世界",
+      "title": "興登堡出任德軍參謀總長",
+      "description": "保羅·馮·興登堡出任德意志帝國陸軍參謀總長，與魯登道夫共同主導戰爭後期德國的軍事與經濟總動員。",
+      "tags": [
+        "戰爭",
+        "一戰",
+        "人物"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/保羅·馮·興登堡"
+    },
+    {
       "id": "evt_gfjp_054",
       "year": 1916,
       "month": 12,
@@ -19620,6 +19876,20 @@
         "逝世"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/夏目漱石"
+    },
+    {
+      "id": "evt_ww_040",
+      "year": 1916,
+      "month": 12,
+      "day": 18,
+      "region": "世界",
+      "title": "凡爾登戰役結束",
+      "description": "歷經約十個月的鏖戰，法軍最終守住凡爾登要塞，此役以「凡爾登絞肉機」聞名，成為一戰消耗戰的象徵。",
+      "tags": [
+        "戰爭",
+        "一戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/凡爾登戰役"
     },
     {
       "id": "evt_gftw_043",
@@ -19636,6 +19906,34 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/王永慶"
     },
     {
+      "id": "evt_ww_018",
+      "year": 1917,
+      "month": 2,
+      "day": 1,
+      "region": "世界",
+      "title": "德國宣布實施無限制潛艇戰",
+      "description": "德國宣布恢復無限制潛艇戰，對所有駛向協約國港口的船隻不加警告即予擊沉，此舉加速美國走向參戰。",
+      "tags": [
+        "戰爭",
+        "一戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/無限制潛艇戰"
+    },
+    {
+      "id": "evt_ww_020",
+      "year": 1917,
+      "month": 3,
+      "day": 1,
+      "region": "世界",
+      "title": "齊默爾曼電報曝光",
+      "description": "英國破解並公開德國外交部致墨西哥的齊默爾曼電報，內容提議德墨結盟對抗美國，事件震驚美國社會。",
+      "tags": [
+        "戰爭",
+        "一戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/齊默爾曼電報"
+    },
+    {
       "id": "evt_w4_030",
       "year": 1917,
       "month": 3,
@@ -19648,6 +19946,20 @@
         "政變"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/二月革命"
+    },
+    {
+      "id": "evt_ww_019",
+      "year": 1917,
+      "month": 3,
+      "day": 8,
+      "region": "世界",
+      "title": "俄國二月革命爆發",
+      "description": "俄國國內因戰爭消耗與民生困頓爆發革命，沙皇尼古拉二世遜位，俄羅斯帝國統治宣告終結，臨時政府成立。",
+      "tags": [
+        "戰爭",
+        "一戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/俄國二月革命"
     },
     {
       "id": "evt_w4_031",
@@ -19664,6 +19976,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/美國加入第一次世界大戰"
     },
     {
+      "id": "evt_ww_021",
+      "year": 1917,
+      "month": 4,
+      "day": 6,
+      "region": "世界",
+      "title": "美國向德國宣戰參加第一次世界大戰",
+      "description": "美國國會通過對德宣戰決議，正式加入協約國陣營，其後續龐大的人力與物資支援扭轉了西線戰局態勢。",
+      "tags": [
+        "戰爭",
+        "一戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/美国加入第一次世界大战"
+    },
+    {
       "id": "evt_cn3_007",
       "year": 1917,
       "month": 7,
@@ -19675,6 +20001,20 @@
         "政變"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/張勳復辟"
+    },
+    {
+      "id": "evt_ww_022",
+      "year": 1917,
+      "month": 7,
+      "day": 31,
+      "region": "世界",
+      "title": "帕森達勒戰役（第三次伊珀爾戰役）",
+      "description": "英軍在法蘭德斯泥濘戰場發動攻勢，歷時逾三個月，雙方共傷亡近五十萬人，僅換得極為有限的領土推進。",
+      "tags": [
+        "戰爭",
+        "一戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/帕森达勒战役"
     },
     {
       "id": "evt_cn3_008",
@@ -19734,6 +20074,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/十月革命"
     },
     {
+      "id": "evt_ww_024",
+      "year": 1917,
+      "month": 11,
+      "day": 20,
+      "region": "世界",
+      "title": "康布雷戰役，坦克首次大規模集中運用",
+      "description": "英軍在康布雷一役中首次集中數百輛坦克發動突破攻勢，展示了裝甲兵器在陣地戰中的潛力，影響日後戰術發展。",
+      "tags": [
+        "戰爭",
+        "一戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/康布雷戰役_(1917年)"
+    },
+    {
       "id": "evt_w4_033",
       "year": 1917,
       "month": 12,
@@ -19762,6 +20116,65 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/芬蘭獨立宣言"
     },
     {
+      "id": "evt_ussr_003",
+      "year": 1917,
+      "month": 12,
+      "day": 20,
+      "region": "世界",
+      "title": "全俄肅反委員會（契卡）成立",
+      "description": "蘇維埃政府成立全俄肅反委員會（契卡），作為鎮壓反革命與反對勢力的秘密警察機構，成為日後蘇聯國安體系的前身。",
+      "tags": [
+        "蘇聯",
+        "俄國內戰",
+        "秘密警察"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/全俄肅反委員會"
+    },
+    {
+      "id": "evt_ccp_002",
+      "year": 1918,
+      "month": null,
+      "day": null,
+      "region": "中國",
+      "title": "李大釗宣傳馬克思主義",
+      "description": "李大釗在北京大學發表《法俄革命之比較觀》、《庶民的勝利》等文章，系統介紹馬克思主義與十月革命，成為中國最早的馬克思主義者之一。",
+      "tags": [
+        "中共黨史",
+        "思想運動"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/李大釗"
+    },
+    {
+      "id": "evt_ussr_004",
+      "year": 1918,
+      "month": 1,
+      "day": 6,
+      "region": "世界",
+      "title": "俄國立憲會議遭布爾什維克解散",
+      "description": "俄國立憲會議召開僅一日即遭布爾什維克政府以武力解散，社會革命黨等多數派勢力被排除於政權之外，標誌蘇維埃一黨體制的確立。",
+      "tags": [
+        "蘇聯",
+        "俄國內戰",
+        "政治"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/俄國立憲會議"
+    },
+    {
+      "id": "evt_ww_032",
+      "year": 1918,
+      "month": 2,
+      "day": 6,
+      "region": "世界",
+      "title": "英國通過《人民代表法令》擴大婦女參政權",
+      "description": "有鑑於婦女在戰時工廠、醫護等後方角色的重大貢獻，英國國會通過法令，首次賦予部分成年女性投票權。",
+      "tags": [
+        "戰爭",
+        "一戰",
+        "社會"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/1918年人民代表法令"
+    },
+    {
       "id": "evt_19180300_001",
       "year": 1918,
       "month": 3,
@@ -19774,6 +20187,49 @@
         "公共衛生"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/1918年流感大流行"
+    },
+    {
+      "id": "evt_ww_025",
+      "year": 1918,
+      "month": 3,
+      "day": 3,
+      "region": "世界",
+      "title": "布列斯特-立陶夫斯克條約簽署，俄國退出戰爭",
+      "description": "蘇維埃俄國與同盟國簽署和約，割讓大片領土以換取停戰，正式退出第一次世界大戰，使德國得以集中兵力於西線。",
+      "tags": [
+        "戰爭",
+        "一戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/布列斯特-立陶夫斯克條約"
+    },
+    {
+      "id": "evt_ww_026",
+      "year": 1918,
+      "month": 3,
+      "day": 21,
+      "region": "世界",
+      "title": "魯登道夫攻勢（德軍春季攻勢）",
+      "description": "德軍在東線兵力解放後於西線發動大規模攻勢，企圖在美軍主力抵達前結束戰爭，初期進展迅速但最終未能突破。",
+      "tags": [
+        "戰爭",
+        "一戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/魯登道夫攻勢"
+    },
+    {
+      "id": "evt_ww_036",
+      "year": 1918,
+      "month": 4,
+      "day": 3,
+      "region": "世界",
+      "title": "福煦被任命為協約國聯軍總司令",
+      "description": "法國元帥費迪南·福煦獲任命為協約國聯軍最高統帥，統一指揮西線各國軍隊，為其後百日攻勢的勝利奠定基礎。",
+      "tags": [
+        "戰爭",
+        "一戰",
+        "人物"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/費迪南·福煦"
     },
     {
       "id": "evt_gfcn_050",
@@ -19803,6 +20259,35 @@
         "革命"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/俄國內戰"
+    },
+    {
+      "id": "evt_ussr_006",
+      "year": 1918,
+      "month": 7,
+      "day": 10,
+      "region": "世界",
+      "title": "蘇俄第一部憲法通過",
+      "description": "全俄蘇維埃代表大會通過俄羅斯蘇維埃聯邦社會主義共和國憲法，確立蘇維埃體制與無產階級專政原則，為蘇聯憲政體系奠定基礎。",
+      "tags": [
+        "蘇聯",
+        "憲法",
+        "政治"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/1918年蘇俄憲法"
+    },
+    {
+      "id": "evt_ww_027",
+      "year": 1918,
+      "month": 7,
+      "day": 15,
+      "region": "世界",
+      "title": "第二次馬恩河戰役",
+      "description": "德軍發動最後一次大規模攻勢遭協約國聯軍擊退，此役成為戰爭的轉捩點，此後協約國轉守為攻。",
+      "tags": [
+        "戰爭",
+        "一戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/第二次马恩河战役"
     },
     {
       "id": "evt_w4_036",
@@ -19848,6 +20333,50 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/米騷動"
     },
     {
+      "id": "evt_ww_028",
+      "year": 1918,
+      "month": 8,
+      "day": 8,
+      "region": "世界",
+      "title": "協約國發動百日攻勢",
+      "description": "協約國聯軍自亞眠戰役起發動一連串攻勢，被德軍稱為「德國陸軍的黑暗之日」，最終迫使德國尋求停戰。",
+      "tags": [
+        "戰爭",
+        "一戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/百日攻勢"
+    },
+    {
+      "id": "evt_ussr_007",
+      "year": 1918,
+      "month": 8,
+      "day": 30,
+      "region": "世界",
+      "title": "列寧遇刺受傷",
+      "description": "社會革命黨人範妮·卡普蘭在莫斯科槍擊列寧使其重傷，事件成為布爾什維克政府展開紅色恐怖鎮壓的直接導火線。",
+      "tags": [
+        "蘇聯",
+        "列寧",
+        "俄國內戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/範妮·卡普蘭"
+    },
+    {
+      "id": "evt_ussr_008",
+      "year": 1918,
+      "month": 9,
+      "day": 5,
+      "region": "世界",
+      "title": "蘇維埃政府頒布紅色恐怖政策",
+      "description": "人民委員會正式頒布法令展開紅色恐怖，授權契卡對「階級敵人」進行大規模逮捕與處決，是俄國內戰期間國家暴力升級的標誌。",
+      "tags": [
+        "蘇聯",
+        "俄國內戰",
+        "紅色恐怖"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/紅色恐怖"
+    },
+    {
       "id": "evt_jp2_030",
       "year": 1918,
       "month": 9,
@@ -19862,6 +20391,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/原敬"
     },
     {
+      "id": "evt_ww_029",
+      "year": 1918,
+      "month": 9,
+      "day": 29,
+      "region": "世界",
+      "title": "保加利亞投降退出戰爭",
+      "description": "保加利亞王國在薩洛尼卡戰線潰敗後率先向協約國投降，成為同盟國中第一個退出戰爭的國家。",
+      "tags": [
+        "戰爭",
+        "一戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/保加利亞王國"
+    },
+    {
       "id": "evt_w4_037",
       "year": 1918,
       "month": 10,
@@ -19874,6 +20417,48 @@
         "國家成立"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/捷克斯洛伐克第一共和國"
+    },
+    {
+      "id": "evt_ww_037",
+      "year": 1918,
+      "month": 10,
+      "day": 30,
+      "region": "世界",
+      "title": "穆德羅斯停戰協定，鄂圖曼帝國退出戰爭",
+      "description": "鄂圖曼帝國與協約國在利姆諾斯島穆德羅斯港簽署停戰協定，宣告退出第一次世界大戰，帝國隨後走向解體。",
+      "tags": [
+        "戰爭",
+        "一戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/穆德洛斯停戰協定"
+    },
+    {
+      "id": "evt_ww_030",
+      "year": 1918,
+      "month": 11,
+      "day": 3,
+      "region": "世界",
+      "title": "基爾水兵起義",
+      "description": "德國基爾港水兵拒絕出海與英國艦隊決戰而發動起義，迅速蔓延全國，引爆德國十一月革命並促成帝制垮台。",
+      "tags": [
+        "戰爭",
+        "一戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/基爾水兵起義"
+    },
+    {
+      "id": "evt_ww_038",
+      "year": 1918,
+      "month": 11,
+      "day": 3,
+      "region": "世界",
+      "title": "維拉朱斯蒂停戰協定，奧匈帝國退出戰爭",
+      "description": "奧匈帝國與義大利簽署停戰協定，正式退出第一次世界大戰，帝國隨即在民族獨立浪潮下分裂瓦解。",
+      "tags": [
+        "戰爭",
+        "一戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/維拉朱斯蒂停戰協定"
     },
     {
       "id": "evt_w4_038",
@@ -19946,6 +20531,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/臺灣教育令"
     },
     {
+      "id": "evt_ww_033",
+      "year": 1919,
+      "month": 1,
+      "day": 18,
+      "region": "世界",
+      "title": "巴黎和會開幕",
+      "description": "戰勝國代表齊聚巴黎，就戰後領土劃分、賠款與國際秩序展開談判，會議最終促成凡爾賽條約等一系列和約簽署。",
+      "tags": [
+        "戰爭",
+        "一戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/巴黎和會"
+    },
+    {
       "id": "evt_w4_041",
       "year": 1919,
       "month": 1,
@@ -19987,6 +20586,21 @@
         "殖民統治"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/總統府 (台灣)"
+    },
+    {
+      "id": "evt_ussr_009",
+      "year": 1919,
+      "month": 3,
+      "day": 2,
+      "region": "世界",
+      "title": "共產國際（第三國際）成立",
+      "description": "列寧在莫斯科召集各國共產黨代表成立共產國際，旨在推動世界無產階級革命，成為蘇聯輸出革命與影響各國共產黨的重要工具。",
+      "tags": [
+        "蘇聯",
+        "共產國際",
+        "國際共產主義"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/共產國際"
     },
     {
       "id": "evt_w4_042",
@@ -20087,6 +20701,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/威瑪共和國"
     },
     {
+      "id": "evt_ww_035",
+      "year": 1919,
+      "month": 9,
+      "day": 10,
+      "region": "世界",
+      "title": "聖日耳曼條約簽署",
+      "description": "協約國與奧地利共和國簽訂和約，正式確認奧匈帝國解體，奧地利喪失大片領土並被禁止與德國合併。",
+      "tags": [
+        "戰爭",
+        "一戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/聖日耳曼條約"
+    },
+    {
       "id": "evt_tw2_053",
       "year": 1919,
       "month": 10,
@@ -20142,6 +20770,21 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/新民會"
     },
     {
+      "id": "evt_ussr_010",
+      "year": 1920,
+      "month": 2,
+      "day": 7,
+      "region": "世界",
+      "title": "白軍將領高爾察克被處決",
+      "description": "俄國內戰期間西伯利亞白軍最高領導人高爾察克遭紅軍俘獲並處決，象徵白軍在西伯利亞戰線的徹底崩潰。",
+      "tags": [
+        "蘇聯",
+        "俄國內戰",
+        "白軍"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/亞歷山大·瓦西里耶維奇·高爾察克"
+    },
+    {
       "id": "evt_gfjp_057",
       "year": 1920,
       "month": 3,
@@ -20155,6 +20798,21 @@
         "屠殺"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/廟街事件"
+    },
+    {
+      "id": "evt_ccp_004",
+      "year": 1920,
+      "month": 4,
+      "day": null,
+      "region": "中國",
+      "title": "共產國際代表維經斯基來華",
+      "description": "共產國際代表格里戈里·維經斯基抵達中國，與李大釗、陳獨秀等人接觸，協助籌建中國共產黨。",
+      "tags": [
+        "中共黨史",
+        "建黨",
+        "共產國際"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/格里戈里·维经斯基"
     },
     {
       "id": "evt_cn3_009",
@@ -20183,6 +20841,34 @@
         "非武裝民族運動"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/臺灣青年"
+    },
+    {
+      "id": "evt_ccp_003",
+      "year": 1920,
+      "month": 8,
+      "day": null,
+      "region": "中國",
+      "title": "上海共產主義小組成立",
+      "description": "陳獨秀等人在上海成立中國第一個共產主義早期組織，成為中國共產黨建黨的核心籌備力量。",
+      "tags": [
+        "中共黨史",
+        "建黨"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/上海共产主义小组"
+    },
+    {
+      "id": "evt_ww_039",
+      "year": 1920,
+      "month": 8,
+      "day": 10,
+      "region": "世界",
+      "title": "色佛爾條約簽署",
+      "description": "協約國與鄂圖曼帝國簽署和約，瓜分其大部分領土，此條約因土耳其民族運動興起而未能真正落實。",
+      "tags": [
+        "戰爭",
+        "一戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/色佛爾條約"
     },
     {
       "id": "evt_w4_047",
@@ -20226,6 +20912,21 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/嘉南大圳"
     },
     {
+      "id": "evt_ussr_011",
+      "year": 1920,
+      "month": 11,
+      "day": 14,
+      "region": "世界",
+      "title": "白軍弗蘭格爾自克里米亞撤退",
+      "description": "白軍最後一位總司令彼得·弗蘭格爾率殘部與難民自克里米亞半島搭船撤往土耳其，標誌俄國內戰歐洲部分主要戰事結束。",
+      "tags": [
+        "蘇聯",
+        "俄國內戰",
+        "白軍"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/彼得·弗蘭格爾"
+    },
+    {
       "id": "evt_tw2_058",
       "year": 1921,
       "month": 1,
@@ -20237,6 +20938,51 @@
         "非武裝民族運動"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/臺灣議會設置請願運動"
+    },
+    {
+      "id": "evt_ussr_012",
+      "year": 1921,
+      "month": 3,
+      "day": 1,
+      "region": "世界",
+      "title": "喀琅施塔得叛亂爆發",
+      "description": "波羅的海艦隊駐紮喀琅施塔得的水兵發動起義，要求蘇維埃民主化並反對戰時共產主義政策，遭紅軍血腥鎮壓，震撼布爾什維克領導層。",
+      "tags": [
+        "蘇聯",
+        "俄國內戰",
+        "起義"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/喀琅施塔得叛亂"
+    },
+    {
+      "id": "evt_ussr_013",
+      "year": 1921,
+      "month": 3,
+      "day": 15,
+      "region": "世界",
+      "title": "新經濟政策實施",
+      "description": "俄共（布）第十次代表大會通過新經濟政策，以糧食稅取代餘糧徵集制，允許有限度的市場與私人小型經濟活動，以恢復戰後凋敝的經濟。",
+      "tags": [
+        "蘇聯",
+        "經濟",
+        "列寧"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/新經濟政策"
+    },
+    {
+      "id": "evt_ussr_014",
+      "year": 1921,
+      "month": 3,
+      "day": 18,
+      "region": "世界",
+      "title": "蘇波里加和約簽署",
+      "description": "蘇維埃俄國與波蘭簽署里加和約，結束蘇波戰爭，劃定雙方邊界，波蘭取得西烏克蘭與西白俄羅斯部分領土。",
+      "tags": [
+        "蘇聯",
+        "波蘭",
+        "條約"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/里加和約"
     },
     {
       "id": "evt_tw2_059",
@@ -20263,6 +21009,21 @@
         "殖民統治"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/臺灣總督府評議會"
+    },
+    {
+      "id": "evt_ccp_005",
+      "year": 1921,
+      "month": 6,
+      "day": null,
+      "region": "中國",
+      "title": "共產國際代表馬林參與中共建黨",
+      "description": "共產國際代表馬林（斯內夫利特）抵達上海，協助籌備並出席中國共產黨第一次全國代表大會。",
+      "tags": [
+        "中共黨史",
+        "建黨",
+        "共產國際"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/馬林 (共產國際)"
     },
     {
       "id": "evt_19210723_001",
@@ -20377,6 +21138,21 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/第一次直奉戰爭"
     },
     {
+      "id": "evt_ussr_015",
+      "year": 1922,
+      "month": 4,
+      "day": 3,
+      "region": "世界",
+      "title": "史達林當選俄共（布）中央委員會總書記",
+      "description": "史達林經列寧提議當選俄共（布）中央委員會總書記，此職位原屬技術性職務，日後卻成為史達林掌控黨政大權的核心平台。",
+      "tags": [
+        "蘇聯",
+        "史達林",
+        "政治"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/約瑟夫·史達林"
+    },
+    {
       "id": "evt_w4_051",
       "year": 1922,
       "month": 6,
@@ -20391,6 +21167,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/愛爾蘭內戰"
     },
     {
+      "id": "evt_ccp_006",
+      "year": 1922,
+      "month": 7,
+      "day": null,
+      "region": "中國",
+      "title": "中國共產黨第二次全國代表大會召開",
+      "description": "大會在上海舉行，首次提出反帝反封建的民主革命綱領，並決定加入共產國際。",
+      "tags": [
+        "中共黨史",
+        "黨代表大會"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/中国共产党第二次全国代表大会"
+    },
+    {
       "id": "evt_jp2_032",
       "year": 1922,
       "month": 7,
@@ -20403,6 +21193,20 @@
         "政黨"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/日本共產黨"
+    },
+    {
+      "id": "evt_ccp_007",
+      "year": 1922,
+      "month": 9,
+      "day": null,
+      "region": "中國",
+      "title": "安源路礦工人大罷工",
+      "description": "在李立三、劉少奇等人領導下，安源路礦工人舉行大罷工並取得勝利，成為中共早期工人運動的重要成果。",
+      "tags": [
+        "中共黨史",
+        "工人運動"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/安源路矿工人大罢工"
     },
     {
       "id": "evt_tw2_062",
@@ -20473,6 +21277,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/二七大罷工"
     },
     {
+      "id": "evt_ccp_008",
+      "year": 1923,
+      "month": 2,
+      "day": 7,
+      "region": "中國",
+      "title": "二七慘案",
+      "description": "京漢鐵路總工會發動大罷工，遭吳佩孚部隊血腥鎮壓，多名工人及工會領袖罹難，史稱二七慘案。",
+      "tags": [
+        "中共黨史",
+        "工人運動"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/二七大罢工"
+    },
+    {
       "id": "evt_tw2_064",
       "year": 1923,
       "month": 4,
@@ -20499,6 +21317,21 @@
         "社會生活"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/裕仁"
+    },
+    {
+      "id": "evt_ccp_009",
+      "year": 1923,
+      "month": 6,
+      "day": null,
+      "region": "中國",
+      "title": "中國共產黨第三次全國代表大會召開",
+      "description": "大會在廣州舉行，決定中共黨員以個人身份加入國民黨，建立革命統一戰線，促成第一次國共合作。",
+      "tags": [
+        "中共黨史",
+        "黨代表大會",
+        "國共合作"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/中国共产党第三次全国代表大会"
     },
     {
       "id": "evt_19230901_001",
@@ -20597,6 +21430,21 @@
         "政治"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/弗拉基米爾·列寧"
+    },
+    {
+      "id": "evt_ussr_016",
+      "year": 1924,
+      "month": 1,
+      "day": 31,
+      "region": "世界",
+      "title": "蘇聯首部憲法通過",
+      "description": "第二次蘇維埃代表大會通過1924年蘇聯憲法，正式確立蘇維埃社會主義共和國聯盟的聯邦體制與國家機構架構。",
+      "tags": [
+        "蘇聯",
+        "憲法",
+        "政治"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/1924年蘇聯憲法"
     },
     {
       "id": "evt_gfjp_058",
@@ -20736,6 +21584,20 @@
         "民族主義"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/五卅運動"
+    },
+    {
+      "id": "evt_ccp_010",
+      "year": 1925,
+      "month": 5,
+      "day": 30,
+      "region": "中國",
+      "title": "五卅運動爆發",
+      "description": "上海發生英籍巡捕開槍打死示威群眾事件，引發全國性反帝愛國運動，中國共產黨在運動中發揮組織動員作用。",
+      "tags": [
+        "中共黨史",
+        "群眾運動"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/五卅运动"
     },
     {
       "id": "evt_w4_059",
@@ -20988,6 +21850,34 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/南昌起義"
     },
     {
+      "id": "evt_ccp_012",
+      "year": 1927,
+      "month": 8,
+      "day": 1,
+      "region": "中國",
+      "title": "南昌起義爆發",
+      "description": "周恩來、賀龍、葉挺等人領導在南昌發動武裝起義，打響中共武裝反抗國民黨統治的第一槍，這一天後被定為建軍節。",
+      "tags": [
+        "中共黨史",
+        "武裝起義"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/南昌起义"
+    },
+    {
+      "id": "evt_ccp_011",
+      "year": 1927,
+      "month": 8,
+      "day": 7,
+      "region": "中國",
+      "title": "八七會議召開",
+      "description": "中共中央在漢口召開緊急會議，確立土地革命和武裝反抗國民黨的總方針，毛澤東提出「槍桿子裡面出政權」。",
+      "tags": [
+        "中共黨史",
+        "路線鬥爭"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/八七会议"
+    },
+    {
       "id": "evt_cn3_018",
       "year": 1927,
       "month": 9,
@@ -21000,6 +21890,34 @@
         "中共"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/秋收起義"
+    },
+    {
+      "id": "evt_ccp_013",
+      "year": 1927,
+      "month": 9,
+      "day": 9,
+      "region": "中國",
+      "title": "秋收起義爆發",
+      "description": "毛澤東領導湘贛邊界的秋收起義，起義部隊後轉向農村，開始建立農村革命根據地的道路。",
+      "tags": [
+        "中共黨史",
+        "武裝起義"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/秋收起义"
+    },
+    {
+      "id": "evt_ccp_014",
+      "year": 1927,
+      "month": 10,
+      "day": null,
+      "region": "中國",
+      "title": "井岡山根據地建立",
+      "description": "毛澤東率秋收起義餘部進駐井岡山，建立中共第一個農村革命根據地，開創「農村包圍城市」的革命道路。",
+      "tags": [
+        "中共黨史",
+        "根據地"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/井冈山革命根据地"
     },
     {
       "id": "evt_w4_064",
@@ -21042,6 +21960,21 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/列夫·托洛斯基"
     },
     {
+      "id": "evt_ussr_017",
+      "year": 1927,
+      "month": 12,
+      "day": 2,
+      "region": "世界",
+      "title": "聯共（布）第十五次代表大會召開",
+      "description": "聯共（布）第十五次代表大會正式開除托洛斯基派反對力量，並確立農業集體化為國家經濟發展路線，為史達林全面掌權鋪路。",
+      "tags": [
+        "蘇聯",
+        "史達林",
+        "政治"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/全聯盟共產黨（布爾什維克）第十五次代表大會"
+    },
+    {
       "id": "evt_tw2_075",
       "year": 1928,
       "month": 2,
@@ -21068,6 +22001,20 @@
         "日治時期"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/國立臺灣大學"
+    },
+    {
+      "id": "evt_ccp_015",
+      "year": 1928,
+      "month": 4,
+      "day": null,
+      "region": "中國",
+      "title": "井岡山會師",
+      "description": "朱德、陳毅率南昌起義餘部與毛澤東部隊在井岡山會師，合編為中國工農紅軍第四軍，壯大了根據地武裝力量。",
+      "tags": [
+        "中共黨史",
+        "根據地"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/井冈山会师"
     },
     {
       "id": "evt_tw2_077",
@@ -21166,6 +22113,21 @@
         "科學"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/亞歷山大·弗萊明"
+    },
+    {
+      "id": "evt_ussr_018",
+      "year": 1928,
+      "month": 10,
+      "day": 1,
+      "region": "世界",
+      "title": "蘇聯第一個五年計畫啟動",
+      "description": "蘇聯正式實施第一個五年計畫，以國家力量強力推動重工業化，同時展開全面農業集體化，深刻改變蘇聯社會經濟結構。",
+      "tags": [
+        "蘇聯",
+        "五年計畫",
+        "經濟"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/蘇聯五年計劃"
     },
     {
       "id": "evt_19281229_001",
@@ -21282,6 +22244,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/1929年華爾街股災"
     },
     {
+      "id": "evt_ccp_016",
+      "year": 1929,
+      "month": 12,
+      "day": null,
+      "region": "中國",
+      "title": "古田會議召開",
+      "description": "紅四軍第九次黨代表大會在福建古田召開，確立「思想建黨、政治建軍」原則，奠定黨對軍隊絕對領導的基礎。",
+      "tags": [
+        "中共黨史",
+        "根據地"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/古田会议"
+    },
+    {
       "id": "evt_tw2_078",
       "year": 1930,
       "month": 1,
@@ -21310,6 +22286,21 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/集團移住"
     },
     {
+      "id": "evt_ussr_019",
+      "year": 1930,
+      "month": 1,
+      "day": 30,
+      "region": "世界",
+      "title": "蘇聯展開消滅富農（去富農化）運動",
+      "description": "蘇共中央政治局下令加速消滅富農運動，大規模沒收富裕農民財產並將其流放至西伯利亞與中亞，作為農業集體化的配套鎮壓手段。",
+      "tags": [
+        "蘇聯",
+        "農業集體化",
+        "史達林"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/去富農化"
+    },
+    {
       "id": "evt_w4_071",
       "year": 1930,
       "month": 3,
@@ -21322,6 +22313,21 @@
         "社會運動"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/食鹽進軍"
+    },
+    {
+      "id": "evt_ussr_020",
+      "year": 1930,
+      "month": 4,
+      "day": 25,
+      "region": "世界",
+      "title": "古拉格勞改營管理總局成立",
+      "description": "蘇聯內務人民委員部設立古拉格（勞改營管理總局），統籌管理遍布全國的強制勞動營體系，數百萬政治犯與刑事犯在其中服刑勞動。",
+      "tags": [
+        "蘇聯",
+        "古拉格",
+        "史達林"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/古拉格"
     },
     {
       "id": "evt_193005_001",
@@ -21366,6 +22372,20 @@
         "經濟產業"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/八田與一"
+    },
+    {
+      "id": "evt_ccp_017",
+      "year": 1930,
+      "month": 6,
+      "day": null,
+      "region": "中國",
+      "title": "李立三「左」傾冒險主義路線",
+      "description": "中共中央實際負責人李立三推行以城市暴動為中心的冒險主義路線，要求紅軍攻打中心城市，因嚴重脫離實際而於同年遭中止。",
+      "tags": [
+        "中共黨史",
+        "路線鬥爭"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/立三路线"
     },
     {
       "id": "evt_tw2_081",
@@ -21449,6 +22469,20 @@
         "暗殺"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/濱口雄幸"
+    },
+    {
+      "id": "evt_ccp_018",
+      "year": 1931,
+      "month": 1,
+      "day": null,
+      "region": "中國",
+      "title": "王明「左」傾教條主義路線",
+      "description": "中共六屆四中全會後，王明等人在共產國際支持下取得中央領導權，推行教條主義軍事、政治路線，給根據地和紅軍造成嚴重損失。",
+      "tags": [
+        "中共黨史",
+        "路線鬥爭"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/王明"
     },
     {
       "id": "evt_tw2_085",
@@ -21589,6 +22623,35 @@
         "科技"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/湯瑪斯·愛迪生"
+    },
+    {
+      "id": "evt_ccp_019",
+      "year": 1931,
+      "month": 11,
+      "day": 7,
+      "region": "中國",
+      "title": "中華蘇維埃共和國成立",
+      "description": "中共在江西瑞金召開第一次全國蘇維埃代表大會，宣布成立中華蘇維埃共和國，毛澤東當選為臨時中央政府主席。",
+      "tags": [
+        "中共黨史",
+        "根據地"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/中华苏维埃共和国"
+    },
+    {
+      "id": "evt_ussr_021",
+      "year": 1932,
+      "month": null,
+      "day": null,
+      "region": "世界",
+      "title": "哈薩克大饑荒達到高峰",
+      "description": "蘇聯強制推行的農牧業集體化政策導致哈薩克草原游牧經濟崩潰，引發哈薩克大饑荒，造成大量哈薩克人死亡或被迫遷徙外逃。",
+      "tags": [
+        "蘇聯",
+        "饑荒",
+        "農業集體化"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/1932年哈薩克斯坦大饑荒"
     },
     {
       "id": "evt_w4_075",
@@ -21816,6 +22879,21 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/國際聯盟"
     },
     {
+      "id": "evt_ussr_022",
+      "year": 1933,
+      "month": 8,
+      "day": 2,
+      "region": "世界",
+      "title": "白海-波羅的海運河通航",
+      "description": "由古拉格勞改犯人在極短時間內以簡陋工具修建完成的白海-波羅的海運河正式通航，工程中大量勞工因惡劣條件死亡。",
+      "tags": [
+        "蘇聯",
+        "古拉格",
+        "基礎建設"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/白海-波羅的海運河"
+    },
+    {
       "id": "evt_gftw_047",
       "year": 1933,
       "month": 10,
@@ -21913,6 +22991,21 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/恩格爾伯特·陶爾斐斯"
     },
     {
+      "id": "evt_ussr_023",
+      "year": 1934,
+      "month": 9,
+      "day": 18,
+      "region": "世界",
+      "title": "蘇聯加入國際聯盟",
+      "description": "蘇聯正式加入國際聯盟並獲得常任理事國席位，反映其在納粹德國崛起後尋求集體安全的外交政策轉向。",
+      "tags": [
+        "蘇聯",
+        "外交",
+        "國際聯盟"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/國際聯盟"
+    },
+    {
       "id": "evt_19341000_001",
       "year": 1934,
       "month": 10,
@@ -21938,6 +23031,34 @@
         "文化"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/臺灣文藝"
+    },
+    {
+      "id": "evt_ccp_020",
+      "year": 1934,
+      "month": 10,
+      "day": null,
+      "region": "中國",
+      "title": "第五次反圍剿失敗",
+      "description": "中央蘇區紅軍在王明路線影響下採取陣地戰、堡壘戰，未能打破國民黨軍第五次圍剿，被迫放棄中央根據地，開始長征。",
+      "tags": [
+        "中共黨史",
+        "根據地"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/第五次反围剿"
+    },
+    {
+      "id": "evt_ccp_021",
+      "year": 1934,
+      "month": 11,
+      "day": null,
+      "region": "中國",
+      "title": "湘江戰役",
+      "description": "中央紅軍長征途中在湘江遭國民黨軍重兵堵截，苦戰後雖突破封鎖但傷亡慘重，兵力由八萬餘銳減至三萬餘人。",
+      "tags": [
+        "中共黨史",
+        "長征"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/湘江战役"
     },
     {
       "id": "evt_w4_084",
@@ -21983,6 +23104,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/天皇機關說"
     },
     {
+      "id": "evt_ccp_022",
+      "year": 1935,
+      "month": 3,
+      "day": null,
+      "region": "中國",
+      "title": "四渡赤水",
+      "description": "毛澤東指揮中央紅軍在川黔滇邊界四次渡過赤水河，靈活穿插迂迴，擺脫國民黨軍圍追堵截，成為長征中的經典戰例。",
+      "tags": [
+        "中共黨史",
+        "長征"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/四渡赤水"
+    },
+    {
       "id": "evt_19350421_001",
       "year": 1935,
       "month": 4,
@@ -22010,6 +23145,21 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/關刀山地震"
     },
     {
+      "id": "evt_ussr_024",
+      "year": 1935,
+      "month": 5,
+      "day": 15,
+      "region": "世界",
+      "title": "莫斯科地鐵通車",
+      "description": "莫斯科地鐵首段線路正式通車，以華麗的宮殿式車站裝飾聞名，成為蘇聯展現社會主義建設成就的重要象徵工程。",
+      "tags": [
+        "蘇聯",
+        "基礎建設",
+        "莫斯科"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/莫斯科地鐵"
+    },
+    {
       "id": "evt_cn3_026",
       "year": 1935,
       "month": 6,
@@ -22022,6 +23172,63 @@
         "日本"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/何梅協定"
+    },
+    {
+      "id": "evt_ccp_023",
+      "year": 1935,
+      "month": 6,
+      "day": null,
+      "region": "中國",
+      "title": "兩河口會議",
+      "description": "中央紅軍與紅四方面軍在四川懋功會師後，中共中央在兩河口召開會議，確定北上建立川陝甘根據地的戰略方針。",
+      "tags": [
+        "中共黨史",
+        "長征"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/两河口会议"
+    },
+    {
+      "id": "evt_ccp_024",
+      "year": 1935,
+      "month": 8,
+      "day": 6,
+      "region": "中國",
+      "title": "方志敏就義",
+      "description": "閩浙贛蘇區及紅十軍團主要領導人方志敏於1934年底率部北上抗日先遣隊時被俘，次年在南昌就義，獄中著有《可愛的中國》。",
+      "tags": [
+        "中共黨史",
+        "根據地"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/方志敏"
+    },
+    {
+      "id": "evt_ussr_025",
+      "year": 1935,
+      "month": 8,
+      "day": 31,
+      "region": "世界",
+      "title": "斯達漢諾夫運動興起",
+      "description": "礦工斯達漢諾夫創下遠超定額的採煤紀錄，蘇聯當局隨即發起以其命名的勞動競賽運動，鼓吹超額生產作為社會主義建設典範。",
+      "tags": [
+        "蘇聯",
+        "五年計畫",
+        "勞動"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/斯達漢諾夫運動"
+    },
+    {
+      "id": "evt_ccp_025",
+      "year": 1935,
+      "month": 9,
+      "day": 12,
+      "region": "中國",
+      "title": "俄界會議召開",
+      "description": "中共中央在甘肅俄界召開政治局擴大會議，決定改編北上紅軍為陝甘支隊，並作出關於張國燾錯誤的決定。",
+      "tags": [
+        "中共黨史",
+        "長征"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/俄界会议"
     },
     {
       "id": "evt_w4_085",
@@ -22050,6 +23257,21 @@
         "殖民地"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/第二次義大利衣索比亞戰爭"
+    },
+    {
+      "id": "evt_ccp_026",
+      "year": 1935,
+      "month": 10,
+      "day": 5,
+      "region": "中國",
+      "title": "張國燾另立「中央」",
+      "description": "紅四方面軍領導人張國燾拒絕北上方針，率部南下並在四川卓木碉另立「中央」，分裂紅軍，後於1936年被迫取消。",
+      "tags": [
+        "中共黨史",
+        "長征",
+        "路線鬥爭"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/张国焘"
     },
     {
       "id": "evt_19351010_001",
@@ -22122,6 +23344,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/一二九運動"
     },
     {
+      "id": "evt_ccp_027",
+      "year": 1935,
+      "month": 12,
+      "day": 17,
+      "region": "中國",
+      "title": "瓦窯堡會議召開",
+      "description": "中共中央政治局在陝北瓦窯堡召開會議，確立抗日民族統一戰線的策略方針，為國共第二次合作奠定基礎。",
+      "tags": [
+        "中共黨史",
+        "路線鬥爭"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/瓦窑堡会议"
+    },
+    {
       "id": "evt_w4_087",
       "year": 1936,
       "month": 2,
@@ -22191,6 +23427,21 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/西班牙內戰"
     },
     {
+      "id": "evt_ussr_026",
+      "year": 1936,
+      "month": 8,
+      "day": 19,
+      "region": "世界",
+      "title": "第一次莫斯科審判",
+      "description": "史達林政府對季諾維也夫、加米涅夫等前黨內領導人進行公開審判，控其密謀推翻政府，全數被判死刑處決，揭開大清洗序幕。",
+      "tags": [
+        "蘇聯",
+        "大清洗",
+        "莫斯科審判"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/莫斯科審判"
+    },
+    {
       "id": "evt_tw2_095",
       "year": 1936,
       "month": 9,
@@ -22203,6 +23454,20 @@
         "人物"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/小林躋造"
+    },
+    {
+      "id": "evt_ccp_028",
+      "year": 1936,
+      "month": 10,
+      "day": null,
+      "region": "中國",
+      "title": "紅軍三大主力會寧會師",
+      "description": "紅一、二、四方面軍在甘肅會寧會師，標誌著歷時兩年的長征勝利結束。",
+      "tags": [
+        "中共黨史",
+        "長征"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/会宁会师"
     },
     {
       "id": "evt_19361019_001",
@@ -22247,6 +23512,21 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/台灣拓殖株式會社"
     },
     {
+      "id": "evt_ussr_027",
+      "year": 1936,
+      "month": 12,
+      "day": 5,
+      "region": "世界",
+      "title": "史達林憲法通過",
+      "description": "蘇聯第八次非常蘇維埃代表大會通過新憲法，表面上賦予公民廣泛權利與普選制度，實際上大清洗運動同時如火如荼進行。",
+      "tags": [
+        "蘇聯",
+        "憲法",
+        "史達林"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/1936年蘇聯憲法"
+    },
+    {
       "id": "evt_w4_090",
       "year": 1936,
       "month": 12,
@@ -22289,6 +23569,21 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/大清洗"
     },
     {
+      "id": "evt_ussr_028",
+      "year": 1937,
+      "month": 1,
+      "day": 23,
+      "region": "世界",
+      "title": "第二次莫斯科審判",
+      "description": "皮達可夫、拉狄克等前布爾什維克領導人在第二次莫斯科審判中被控組織「反蘇托洛斯基中心」，多人遭處決或送入古拉格。",
+      "tags": [
+        "蘇聯",
+        "大清洗",
+        "莫斯科審判"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/莫斯科審判"
+    },
+    {
       "id": "evt_tw2_097",
       "year": 1937,
       "month": 4,
@@ -22315,6 +23610,21 @@
         "科技"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/興登堡號空難"
+    },
+    {
+      "id": "evt_ussr_029",
+      "year": 1937,
+      "month": 6,
+      "day": 11,
+      "region": "世界",
+      "title": "圖哈切夫斯基元帥等紅軍將領被處決",
+      "description": "蘇聯元帥圖哈切夫斯基與多名高級將領被控叛國陰謀，經秘密軍事法庭審判後隨即遭處決，紅軍指揮體系因大清洗遭受嚴重削弱。",
+      "tags": [
+        "蘇聯",
+        "大清洗",
+        "紅軍"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/米哈伊爾·圖哈切夫斯基"
     },
     {
       "id": "evt_19370707_001",
@@ -22388,6 +23698,34 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/淞滬會戰"
     },
     {
+      "id": "evt_ccp_029",
+      "year": 1937,
+      "month": 8,
+      "day": 22,
+      "region": "中國",
+      "title": "洛川會議召開",
+      "description": "中共中央政治局擴大會議在陝北洛川召開，通過《抗日救國十大綱領》，確定開展獨立自主的敵後游擊戰爭方針。",
+      "tags": [
+        "中共黨史",
+        "抗日根據地"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/洛川会议"
+    },
+    {
+      "id": "evt_ccp_030",
+      "year": 1937,
+      "month": 9,
+      "day": null,
+      "region": "中國",
+      "title": "陝甘寧邊區政府成立",
+      "description": "以延安為中心的陝甘寧邊區政府成立，成為中共領導敵後抗戰的政治中心與模範根據地。",
+      "tags": [
+        "中共黨史",
+        "抗日根據地"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/陕甘宁边区"
+    },
+    {
       "id": "evt_tw2_099",
       "year": 1937,
       "month": 9,
@@ -22440,6 +23778,21 @@
         "抗日戰爭"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/台兒莊戰役"
+    },
+    {
+      "id": "evt_ussr_030",
+      "year": 1938,
+      "month": 3,
+      "day": 2,
+      "region": "世界",
+      "title": "第三次莫斯科審判（布哈林案）",
+      "description": "前政治局委員布哈林等人在第三次莫斯科審判中被控叛國與間諜罪，經公開審判後遭處決，象徵老布爾什維克世代在大清洗中徹底消亡。",
+      "tags": [
+        "蘇聯",
+        "大清洗",
+        "莫斯科審判"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/尼古拉·布哈林"
     },
     {
       "id": "evt_w4_093",
@@ -22525,6 +23878,21 @@
         "人權"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/水晶之夜"
+    },
+    {
+      "id": "evt_ussr_031",
+      "year": 1938,
+      "month": 11,
+      "day": 25,
+      "region": "世界",
+      "title": "貝利亞接掌內務人民委員部",
+      "description": "主導大清洗高峰期的內務人民委員葉若夫遭撤換，貝利亞接任內務人民委員部首長，隨後葉若夫本人亦於次年被捕處決。",
+      "tags": [
+        "蘇聯",
+        "大清洗",
+        "秘密警察"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/尼古拉·葉若夫"
     },
     {
       "id": "evt_w4_095",
@@ -22639,6 +24007,21 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/冬季戰爭"
     },
     {
+      "id": "evt_ussr_032",
+      "year": 1939,
+      "month": 12,
+      "day": 14,
+      "region": "世界",
+      "title": "蘇聯因入侵芬蘭遭國際聯盟開除",
+      "description": "蘇聯發動蘇芬冬季戰爭後遭國際聯盟譴責為侵略行為，並被投票開除會籍，成為國際聯盟史上罕見的制裁案例。",
+      "tags": [
+        "蘇聯",
+        "蘇芬戰爭",
+        "外交"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/蘇芬戰爭"
+    },
+    {
       "id": "evt_tw2_101",
       "year": 1940,
       "month": 2,
@@ -22707,6 +24090,48 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/敦克爾克戰役"
     },
     {
+      "id": "evt_ww_043",
+      "year": 1940,
+      "month": 5,
+      "day": 26,
+      "region": "世界",
+      "title": "敦克爾克大撤退",
+      "description": "英法聯軍在德軍包圍下自法國敦克爾克海灘撤往英國，動員大批民間船隻協助，成功撤出逾三十萬名士兵。",
+      "tags": [
+        "戰爭",
+        "二戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/敦克爾克大撤退"
+    },
+    {
+      "id": "evt_ww_044",
+      "year": 1940,
+      "month": 6,
+      "day": 18,
+      "region": "世界",
+      "title": "戴高樂發表六一八演說，自由法國運動成立",
+      "description": "流亡倫敦的法國將領戴高樂透過廣播號召國人繼續抵抗，隨後組建自由法國，成為法國抵抗運動的重要象徵。",
+      "tags": [
+        "戰爭",
+        "二戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/自由法國"
+    },
+    {
+      "id": "evt_ww_045",
+      "year": 1940,
+      "month": 6,
+      "day": 22,
+      "region": "世界",
+      "title": "法國向德國投降，法國戰役結束",
+      "description": "法國在六週內遭德軍擊敗，於貢比涅森林簽署停戰協定投降，北部與西岸由德國直接占領，南部則成立親德的維希政權。",
+      "tags": [
+        "戰爭",
+        "二戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/法國戰役"
+    },
+    {
       "id": "evt_w4_102",
       "year": 1940,
       "month": 7,
@@ -22718,6 +24143,20 @@
         "戰爭"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/不列顛戰役"
+    },
+    {
+      "id": "evt_ww_046",
+      "year": 1940,
+      "month": 7,
+      "day": 10,
+      "region": "世界",
+      "title": "維希法國成立",
+      "description": "貝當元帥在法國中南部建立親德政權，以維希為臨時首都，實行對德合作政策，統治法國本土至1944年。",
+      "tags": [
+        "戰爭",
+        "二戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/維希法國"
     },
     {
       "id": "evt_jp2_047",
@@ -22732,6 +24171,20 @@
         "戰爭"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/1940年夏季奧林匹克運動會"
+    },
+    {
+      "id": "evt_ccp_031",
+      "year": 1940,
+      "month": 8,
+      "day": null,
+      "region": "中國",
+      "title": "百團大戰",
+      "description": "八路軍在彭德懷指揮下發動以破壞華北日軍交通線為主要目標的大規模進攻戰役，共投入百餘個團兵力，是抗戰中八路軍規模最大的主動出擊戰役。",
+      "tags": [
+        "中共黨史",
+        "抗日根據地"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/百团大战"
     },
     {
       "id": "evt_cn3_033",
@@ -22762,6 +24215,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/列夫·托洛斯基"
     },
     {
+      "id": "evt_ww_048",
+      "year": 1940,
+      "month": 9,
+      "day": 7,
+      "region": "世界",
+      "title": "倫敦大轟炸開始",
+      "description": "德國空軍改變戰術，轉而對倫敦等英國城市展開持續夜間轟炸，造成大量平民傷亡，但未能瓦解英國民心士氣。",
+      "tags": [
+        "戰爭",
+        "二戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/倫敦大轟炸"
+    },
+    {
       "id": "evt_jp2_048",
       "year": 1940,
       "month": 9,
@@ -22776,6 +24243,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/德意日三國同盟條約"
     },
     {
+      "id": "evt_ccp_032",
+      "year": 1941,
+      "month": 1,
+      "day": null,
+      "region": "中國",
+      "title": "皖南事變",
+      "description": "國民黨軍在皖南對奉命北移的新四軍部隊發動突襲，新四軍軍長葉挺被扣，副軍長項英遇害，嚴重破壞國共合作抗日的統一戰線。",
+      "tags": [
+        "中共黨史",
+        "國共關係"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/皖南事变"
+    },
+    {
       "id": "evt_cn3_034",
       "year": 1941,
       "month": 1,
@@ -22788,6 +24269,35 @@
         "國共關係"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/皖南事變"
+    },
+    {
+      "id": "evt_ww_049",
+      "year": 1941,
+      "month": 3,
+      "day": 11,
+      "region": "世界",
+      "title": "美國國會通過租借法案",
+      "description": "美國國會通過法案，授權總統向英國、蘇聯等同盟國提供軍事物資援助而無需即時付款，成為美國參戰前重要的戰略支援。",
+      "tags": [
+        "戰爭",
+        "二戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/租借法案"
+    },
+    {
+      "id": "evt_ussr_033",
+      "year": 1941,
+      "month": 4,
+      "day": 13,
+      "region": "世界",
+      "title": "蘇日中立條約簽署",
+      "description": "蘇聯與日本簽署中立條約，相互承諾不介入對方與第三國的戰爭，使蘇聯得以在對德戰爭爆發後專注西線，日本亦得以南進。",
+      "tags": [
+        "蘇聯",
+        "日本",
+        "條約"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/蘇日中立條約"
     },
     {
       "id": "evt_tw2_102",
@@ -22831,6 +24341,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/大西洋憲章"
     },
     {
+      "id": "evt_ww_051",
+      "year": 1941,
+      "month": 8,
+      "day": 14,
+      "region": "世界",
+      "title": "大西洋憲章發表",
+      "description": "羅斯福與邱吉爾於海上會晤後發表聯合聲明，揭示戰後國際秩序原則，包括民族自決與集體安全，成為聯合國成立的思想基礎。",
+      "tags": [
+        "戰爭",
+        "二戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/大西洋宪章"
+    },
+    {
       "id": "evt_w4_106",
       "year": 1941,
       "month": 9,
@@ -22842,6 +24366,34 @@
         "戰爭"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/列寧格勒圍城戰"
+    },
+    {
+      "id": "evt_ww_053",
+      "year": 1941,
+      "month": 10,
+      "day": 2,
+      "region": "世界",
+      "title": "莫斯科戰役爆發",
+      "description": "德軍發動「颱風行動」進逼蘇聯首都莫斯科，蘇軍憑藉嚴寒天候與增援部隊成功擋下攻勢，成為德軍東線首次重大挫敗。",
+      "tags": [
+        "戰爭",
+        "二戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/莫斯科戰役"
+    },
+    {
+      "id": "evt_ww_054",
+      "year": 1941,
+      "month": 12,
+      "day": 7,
+      "region": "世界",
+      "title": "珍珠港事件",
+      "description": "日本海軍突襲美國夏威夷珍珠港海軍基地，重創美國太平洋艦隊，翌日美國正式對日宣戰，戰爭範圍擴及太平洋全域。",
+      "tags": [
+        "戰爭",
+        "二戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/珍珠港事件"
     },
     {
       "id": "evt_19411208_001",
@@ -22900,6 +24452,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/萬湖會議"
     },
     {
+      "id": "evt_ccp_033",
+      "year": 1942,
+      "month": 2,
+      "day": null,
+      "region": "中國",
+      "title": "延安整風運動開始",
+      "description": "中共中央在延安發起整頓學風、黨風、文風的整風運動，確立實事求是的思想路線，鞏固毛澤東在黨內的領導地位。",
+      "tags": [
+        "中共黨史",
+        "整風運動"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/延安整风运动"
+    },
+    {
       "id": "evt_tw2_103",
       "year": 1942,
       "month": 3,
@@ -22954,6 +24520,34 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/陸軍特別志願兵制度"
     },
     {
+      "id": "evt_ccp_034",
+      "year": 1942,
+      "month": 5,
+      "day": null,
+      "region": "中國",
+      "title": "延安文藝座談會召開",
+      "description": "毛澤東主持召開文藝工作者座談會並發表講話，確立文藝為工農兵服務、為政治服務的方針，深刻影響此後數十年中共文藝政策。",
+      "tags": [
+        "中共黨史",
+        "整風運動"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/延安文艺座谈会"
+    },
+    {
+      "id": "evt_ww_056",
+      "year": 1942,
+      "month": 5,
+      "day": 4,
+      "region": "世界",
+      "title": "珊瑚海海戰",
+      "description": "美軍與日軍在珊瑚海爆發史上首次雙方艦隊未曾直接接觸、僅以艦載機交戰的海戰，成功阻止日軍進攻莫爾茲比港的企圖。",
+      "tags": [
+        "戰爭",
+        "二戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/珊瑚海海战"
+    },
+    {
       "id": "evt_jp2_050",
       "year": 1942,
       "month": 6,
@@ -22966,6 +24560,34 @@
         "海戰"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/中途島海戰"
+    },
+    {
+      "id": "evt_ww_057",
+      "year": 1942,
+      "month": 6,
+      "day": 4,
+      "region": "世界",
+      "title": "中途島海戰",
+      "description": "美軍在太平洋中途島擊潰日本聯合艦隊主力，一舉擊沉四艘日軍主力航空母艦，成為太平洋戰爭的重要轉捩點。",
+      "tags": [
+        "戰爭",
+        "二戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/中途島海戰"
+    },
+    {
+      "id": "evt_ww_058",
+      "year": 1942,
+      "month": 8,
+      "day": 7,
+      "region": "世界",
+      "title": "瓜達爾卡納爾島戰役爆發",
+      "description": "美軍在所羅門群島瓜達爾卡納爾島登陸，展開長達半年的陸海空消耗戰，成為盟軍在太平洋戰場首次大規模戰略反攻。",
+      "tags": [
+        "戰爭",
+        "二戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/瓜達爾卡納爾島戰役"
     },
     {
       "id": "evt_w4_108",
@@ -23008,6 +24630,34 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/第二次阿拉曼戰役"
     },
     {
+      "id": "evt_ww_060",
+      "year": 1942,
+      "month": 10,
+      "day": 23,
+      "region": "世界",
+      "title": "第二次阿拉曼戰役",
+      "description": "英軍在北非埃及阿拉曼擊敗隆美爾指揮的德意軍隊，扭轉北非戰局，邱吉爾稱此役為「終結的開始」。",
+      "tags": [
+        "戰爭",
+        "二戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/第二次阿拉曼战役"
+    },
+    {
+      "id": "evt_ww_061",
+      "year": 1942,
+      "month": 11,
+      "day": 8,
+      "region": "世界",
+      "title": "火炬行動，盟軍登陸北非",
+      "description": "美英聯軍在北非法屬摩洛哥與阿爾及利亞登陸，牽制德意軍隊並協助扭轉北非戰局，為日後登陸西西里及義大利鋪路。",
+      "tags": [
+        "戰爭",
+        "二戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/火炬行動"
+    },
+    {
       "id": "evt_w4_111",
       "year": 1943,
       "month": 1,
@@ -23020,6 +24670,49 @@
         "饑荒"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/1943年孟加拉飢荒"
+    },
+    {
+      "id": "evt_ww_062",
+      "year": 1943,
+      "month": 1,
+      "day": 14,
+      "region": "世界",
+      "title": "卡薩布蘭卡會議召開",
+      "description": "羅斯福與邱吉爾在摩洛哥卡薩布蘭卡會晤，商討盟軍戰略部署，並提出要求軸心國「無條件投降」的戰爭原則。",
+      "tags": [
+        "戰爭",
+        "二戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/卡薩布蘭卡會議"
+    },
+    {
+      "id": "evt_ussr_034",
+      "year": 1943,
+      "month": 2,
+      "day": 2,
+      "region": "世界",
+      "title": "史達林格勒戰役蘇軍獲勝",
+      "description": "德國第六集團軍在史達林格勒戰役中被蘇軍包圍殲滅並投降，成為蘇德戰爭的轉捩點，德軍自此轉入戰略防禦。",
+      "tags": [
+        "蘇聯",
+        "二戰",
+        "東線戰場"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/史達林格勒戰役"
+    },
+    {
+      "id": "evt_ww_063",
+      "year": 1943,
+      "month": 2,
+      "day": 22,
+      "region": "世界",
+      "title": "白玫瑰組織成員遭處決",
+      "description": "德國慕尼黑大學學生組成的反納粹地下組織「白玫瑰」成員蘇菲·索爾等人因散發反戰傳單被捕，遭納粹當局處決。",
+      "tags": [
+        "戰爭",
+        "二戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/白玫瑰_(反抗組織)"
     },
     {
       "id": "evt_tw2_106",
@@ -23049,6 +24742,93 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/華沙猶太區起義"
     },
     {
+      "id": "evt_ussr_035",
+      "year": 1943,
+      "month": 5,
+      "day": 22,
+      "region": "世界",
+      "title": "共產國際宣布解散",
+      "description": "史達林為向英美盟國釋出善意並淡化世界革命色彩，宣布解散共產國際，各國共產黨自此改由蘇共中央直接聯繫指導。",
+      "tags": [
+        "蘇聯",
+        "共產國際",
+        "外交"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/共產國際"
+    },
+    {
+      "id": "evt_ccp_035",
+      "year": 1943,
+      "month": 7,
+      "day": null,
+      "region": "中國",
+      "title": "毛澤東思想提出",
+      "description": "王稼祥在文章中首次提出「毛澤東思想」概念，將其確立為馬克思列寧主義與中國革命實踐相結合的理論成果。",
+      "tags": [
+        "中共黨史",
+        "思想理論"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/毛泽东思想"
+    },
+    {
+      "id": "evt_ww_065",
+      "year": 1943,
+      "month": 7,
+      "day": 5,
+      "region": "世界",
+      "title": "庫斯克會戰爆發",
+      "description": "德蘇雙方在庫斯克突出部展開史上規模最大的坦克會戰，蘇軍成功挫敗德軍攻勢，此後德軍在東線徹底喪失戰略主動權。",
+      "tags": [
+        "戰爭",
+        "二戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/庫斯克會戰"
+    },
+    {
+      "id": "evt_ussr_036",
+      "year": 1943,
+      "month": 7,
+      "day": 5,
+      "region": "世界",
+      "title": "庫爾斯克會戰爆發",
+      "description": "德軍於庫爾斯克突出部發動大規模攻勢，遭蘇軍頑強抵抗並反攻擊退，此役是史上規模最大的坦克會戰，徹底扭轉東線戰場主動權。",
+      "tags": [
+        "蘇聯",
+        "二戰",
+        "東線戰場"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/庫爾斯克會戰"
+    },
+    {
+      "id": "evt_ww_066",
+      "year": 1943,
+      "month": 7,
+      "day": 9,
+      "region": "世界",
+      "title": "盟軍登陸西西里島",
+      "description": "英美聯軍發起哈士奇行動登陸義大利西西里島，開啟盟軍進攻歐洲南翼的序幕，並直接導致墨索里尼政權垮台。",
+      "tags": [
+        "戰爭",
+        "二戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/西西里島戰役"
+    },
+    {
+      "id": "evt_ww_067",
+      "year": 1943,
+      "month": 7,
+      "day": 25,
+      "region": "世界",
+      "title": "墨索里尼下台被捕",
+      "description": "義大利法西斯大議會通過不信任案，國王隨即解除墨索里尼職務並將其逮捕，結束其二十餘年的獨裁統治。",
+      "tags": [
+        "戰爭",
+        "二戰",
+        "人物"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/本尼托·墨索里尼"
+    },
+    {
       "id": "evt_tw2_107",
       "year": 1943,
       "month": 8,
@@ -23072,6 +24852,20 @@
       "tags": [
         "戰爭",
         "政變"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/卡西比爾停戰協定"
+    },
+    {
+      "id": "evt_ww_068",
+      "year": 1943,
+      "month": 9,
+      "day": 8,
+      "region": "世界",
+      "title": "義大利簽署卡西比爾停戰協定投降",
+      "description": "義大利王國政府與盟軍秘密簽署停戰協定並公開宣布投降，德軍隨即占領義大利北部並扶植傀儡政權，義大利陷入內戰狀態。",
+      "tags": [
+        "戰爭",
+        "二戰"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/卡西比爾停戰協定"
     },
@@ -23105,6 +24899,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/開羅宣言"
     },
     {
+      "id": "evt_ww_069",
+      "year": 1943,
+      "month": 11,
+      "day": 22,
+      "region": "世界",
+      "title": "開羅會議召開",
+      "description": "羅斯福、邱吉爾與蔣中正在開羅會晤，討論對日作戰方略及戰後亞洲領土安排，會後發表開羅宣言。",
+      "tags": [
+        "戰爭",
+        "二戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/開羅會議"
+    },
+    {
       "id": "evt_w4_114",
       "year": 1943,
       "month": 11,
@@ -23119,6 +24927,35 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/德黑蘭會議"
     },
     {
+      "id": "evt_ww_070",
+      "year": 1943,
+      "month": 11,
+      "day": 28,
+      "region": "世界",
+      "title": "德黑蘭會議召開",
+      "description": "羅斯福、邱吉爾與史達林首度三方會晤於伊朗德黑蘭，敲定開闢歐洲第二戰場的時間表，為隔年諾曼第登陸奠定基礎。",
+      "tags": [
+        "戰爭",
+        "二戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/德黑兰会议"
+    },
+    {
+      "id": "evt_ww_071",
+      "year": 1943,
+      "month": 12,
+      "day": 24,
+      "region": "世界",
+      "title": "艾森豪威爾獲任命為歐洲盟軍最高統帥",
+      "description": "美國將領德懷特·艾森豪威爾獲任命統籌指揮盟軍歐洲遠征軍，全權負責策劃並執行日後的諾曼第登陸與西線作戰。",
+      "tags": [
+        "戰爭",
+        "二戰",
+        "人物"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/德怀特·艾森豪威尔"
+    },
+    {
       "id": "evt_cn3_038",
       "year": 1944,
       "month": null,
@@ -23131,6 +24968,35 @@
         "抗日戰爭"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/豫湘桂會戰"
+    },
+    {
+      "id": "evt_ww_072",
+      "year": 1944,
+      "month": 1,
+      "day": 22,
+      "region": "世界",
+      "title": "安齊奧戰役",
+      "description": "盟軍在義大利安齊奧實施兩棲登陸，企圖包抄德軍防線，卻遭遇頑強抵抗陷入長期膠著的灘頭陣地戰。",
+      "tags": [
+        "戰爭",
+        "二戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/安齊奧戰役"
+    },
+    {
+      "id": "evt_ussr_037",
+      "year": 1944,
+      "month": 1,
+      "day": 27,
+      "region": "世界",
+      "title": "列寧格勒圍城戰解圍",
+      "description": "蘇軍徹底擊退圍困列寧格勒近九百日的德軍，解除歐洲戰爭史上最慘烈的圍城之一，城內軍民在圍城期間死傷慘重。",
+      "tags": [
+        "蘇聯",
+        "二戰",
+        "列寧格勒"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/列寧格勒圍城戰"
     },
     {
       "id": "evt_19440606_001",
@@ -23228,6 +25094,21 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/台灣沖航空戰"
     },
     {
+      "id": "evt_ww_076",
+      "year": 1944,
+      "month": 10,
+      "day": 14,
+      "region": "世界",
+      "title": "隆美爾被迫服毒自殺",
+      "description": "因涉嫌牽連七月密謀案，德國名將「沙漠之狐」埃爾溫·隆美爾遭希特勒賜死，對外則以病逝名義為其舉行國葬。",
+      "tags": [
+        "戰爭",
+        "二戰",
+        "人物"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/埃尔温·隆美尔"
+    },
+    {
       "id": "evt_jp2_051",
       "year": 1944,
       "month": 10,
@@ -23268,6 +25149,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/高雄大空襲"
     },
     {
+      "id": "evt_ww_078",
+      "year": 1945,
+      "month": 1,
+      "day": 27,
+      "region": "世界",
+      "title": "蘇軍解放奧斯威辛集中營",
+      "description": "蘇聯紅軍攻入波蘭境內的奧斯威辛集中營，發現大量猶太人大屠殺的證據，這座納粹最大滅絕營共造成逾百萬人喪生。",
+      "tags": [
+        "戰爭",
+        "二戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/奧斯威辛集中營"
+    },
+    {
       "id": "evt_19450204_001",
       "year": 1945,
       "month": 2,
@@ -23280,6 +25175,34 @@
         "國際秩序"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/雅爾達會議"
+    },
+    {
+      "id": "evt_ww_079",
+      "year": 1945,
+      "month": 2,
+      "day": 13,
+      "region": "世界",
+      "title": "德勒斯登大轟炸",
+      "description": "英美空軍對德國文化古城德勒斯登實施密集燃燒彈轟炸，造成大量平民死亡與城市幾近全毀，戰後成為戰略轟炸倫理爭議的焦點案例。",
+      "tags": [
+        "戰爭",
+        "二戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/德勒斯登轟炸"
+    },
+    {
+      "id": "evt_ww_080",
+      "year": 1945,
+      "month": 2,
+      "day": 19,
+      "region": "世界",
+      "title": "硫磺島戰役",
+      "description": "美軍為奪取可供轟炸機起降的硫磺島與日軍展開慘烈爭奪戰，此役傷亡慘重，美軍在折缽山升起星條旗的畫面成為戰爭經典影像。",
+      "tags": [
+        "戰爭",
+        "二戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/硫磺島戰役"
     },
     {
       "id": "evt_jp2_052",
@@ -23296,6 +25219,34 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/東京大空襲"
     },
     {
+      "id": "evt_ccp_036",
+      "year": 1945,
+      "month": 4,
+      "day": null,
+      "region": "中國",
+      "title": "中共七大確立毛澤東思想為指導思想",
+      "description": "中國共產黨第七次全國代表大會在延安召開，通過的新黨章首次將毛澤東思想確立為全黨的指導思想。",
+      "tags": [
+        "中共黨史",
+        "黨代表大會"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/中国共产党第七次全国代表大会"
+    },
+    {
+      "id": "evt_ww_081",
+      "year": 1945,
+      "month": 4,
+      "day": 1,
+      "region": "世界",
+      "title": "沖繩島戰役",
+      "description": "美軍登陸沖繩島展開太平洋戰爭中規模最大的兩棲作戰之一，日軍以神風特攻等方式頑抗，戰役慘烈傷亡促使盟軍重新評估登陸日本本土的代價。",
+      "tags": [
+        "戰爭",
+        "二戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/沖繩島戰役"
+    },
+    {
       "id": "evt_w4_119",
       "year": 1945,
       "month": 4,
@@ -23308,6 +25259,35 @@
         "政治"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/富蘭克林·羅斯福"
+    },
+    {
+      "id": "evt_ww_082",
+      "year": 1945,
+      "month": 4,
+      "day": 12,
+      "region": "世界",
+      "title": "美國總統羅斯福逝世",
+      "description": "美國總統富蘭克林·羅斯福在任內因腦溢血病逝，未能親見戰爭勝利，副總統杜魯門隨即繼任並主導戰爭最後階段的決策。",
+      "tags": [
+        "戰爭",
+        "二戰",
+        "人物"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/富蘭克林·德拉諾·羅斯福"
+    },
+    {
+      "id": "evt_ww_083",
+      "year": 1945,
+      "month": 4,
+      "day": 15,
+      "region": "世界",
+      "title": "盟軍解放貝爾根-貝爾森集中營",
+      "description": "英軍進入德國貝爾根-貝爾森集中營，發現數千具屍體與大量瀕死囚犯，慘況經媒體披露震驚國際社會，成為納粹暴行的重要見證。",
+      "tags": [
+        "戰爭",
+        "二戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/貝爾根-貝爾森集中營"
     },
     {
       "id": "evt_w4_120",
@@ -23323,6 +25303,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/柏林戰役"
     },
     {
+      "id": "evt_ccp_037",
+      "year": 1945,
+      "month": 4,
+      "day": 20,
+      "region": "中國",
+      "title": "《關於若干歷史問題的決議》通過",
+      "description": "中共六屆七中全會通過該決議，總結建黨以來歷次路線鬥爭的經驗教訓，肯定毛澤東的正確領導，為七大召開作思想準備。",
+      "tags": [
+        "中共黨史",
+        "路線鬥爭"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/关于若干历史问题的决议"
+    },
+    {
       "id": "evt_w4_121",
       "year": 1945,
       "month": 4,
@@ -23335,6 +25329,21 @@
         "戰爭"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/貝尼托·墨索里尼"
+    },
+    {
+      "id": "evt_ww_085",
+      "year": 1945,
+      "month": 4,
+      "day": 28,
+      "region": "世界",
+      "title": "墨索里尼被處決",
+      "description": "義大利獨裁者墨索里尼在試圖逃往瑞士途中遭游擊隊俘獲並處決，遺體其後在米蘭遭公開示眾洩憤。",
+      "tags": [
+        "戰爭",
+        "二戰",
+        "人物"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/墨索里尼之死"
     },
     {
       "id": "evt_w4_122",
@@ -23364,6 +25373,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/歐戰勝利紀念日"
     },
     {
+      "id": "evt_ww_087",
+      "year": 1945,
+      "month": 5,
+      "day": 8,
+      "region": "世界",
+      "title": "德國簽署無條件投降書，歐洲戰事結束",
+      "description": "德國代表在蘭斯與柏林先後簽署無條件投降書，歐洲戰場的戰事正式宣告結束，此日後被定為歐洲勝利紀念日。",
+      "tags": [
+        "戰爭",
+        "二戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/德國無條件投降書"
+    },
+    {
       "id": "evt_19450531_001",
       "year": 1945,
       "month": 5,
@@ -23378,6 +25401,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/台北大空襲"
     },
     {
+      "id": "evt_ww_088",
+      "year": 1945,
+      "month": 7,
+      "day": 16,
+      "region": "世界",
+      "title": "三位一體核試驗，人類首次核爆",
+      "description": "美國曼哈頓計畫在新墨西哥州沙漠成功試爆人類史上第一枚核子武器，證實原子彈技術可行，為隨後對日本使用原子彈鋪路。",
+      "tags": [
+        "戰爭",
+        "二戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/三位一體核試驗"
+    },
+    {
       "id": "evt_w4_124",
       "year": 1945,
       "month": 7,
@@ -23390,6 +25427,20 @@
         "戰爭"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/波茨坦會議"
+    },
+    {
+      "id": "evt_ww_089",
+      "year": 1945,
+      "month": 7,
+      "day": 17,
+      "region": "世界",
+      "title": "波茨坦會議召開",
+      "description": "美、英、蘇三國領袖於柏林近郊波茨坦會晤，商討戰後歐洲秩序安排與對日最後通牒，會中並發表波茨坦宣言。",
+      "tags": [
+        "戰爭",
+        "二戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/波茨坦会议"
     },
     {
       "id": "evt_w4_125",
@@ -23971,6 +26022,21 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/柏林封鎖"
     },
     {
+      "id": "evt_ussr_039",
+      "year": 1948,
+      "month": 6,
+      "day": 28,
+      "region": "世界",
+      "title": "蘇南決裂",
+      "description": "共產黨和工人黨情報局通過決議譴責南斯拉夫狄托政權「背離馬克思列寧主義」並將其開除，蘇南關係公開破裂，成為冷戰初期共產陣營首次重大分裂。",
+      "tags": [
+        "蘇聯",
+        "南斯拉夫",
+        "冷戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/蘇南決裂"
+    },
+    {
       "id": "evt_cn3_042",
       "year": 1948,
       "month": 9,
@@ -24039,6 +26105,35 @@
         "國共內戰"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/平津戰役"
+    },
+    {
+      "id": "evt_ussr_040",
+      "year": 1949,
+      "month": 1,
+      "day": 25,
+      "region": "世界",
+      "title": "經濟互助委員會成立",
+      "description": "蘇聯與東歐社會主義國家成立經濟互助委員會（經互會），作為對抗馬歇爾計畫、協調東方集團經濟合作與貿易的組織。",
+      "tags": [
+        "蘇聯",
+        "冷戰",
+        "經濟"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/經濟互助委員會"
+    },
+    {
+      "id": "evt_ccp_038",
+      "year": 1949,
+      "month": 3,
+      "day": 5,
+      "region": "中國",
+      "title": "中共七屆二中全會召開",
+      "description": "中共中央在河北西柏坡召開會議，決定將工作重心由鄉村轉向城市，毛澤東提出「兩個務必」，告誡全黨警惕驕傲情緒，史稱「進京趕考」。",
+      "tags": [
+        "中共黨史",
+        "建政"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/中国共产党第七届中央委员会第二次全体会议"
     },
     {
       "id": "evt_194904_001",
@@ -24181,6 +26276,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/蘇聯原子彈計劃"
     },
     {
+      "id": "evt_ccp_039",
+      "year": 1949,
+      "month": 9,
+      "day": 21,
+      "region": "中國",
+      "title": "中國人民政治協商會議第一屆全體會議召開",
+      "description": "會議在北平召開，通過《共同綱領》，選舉產生中央人民政府委員會，為中華人民共和國成立作最後籌備。",
+      "tags": [
+        "中共黨史",
+        "建政"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/中国人民政治协商会议第一届全体会议"
+    },
+    {
       "id": "evt_19491001_001",
       "year": 1949,
       "month": 10,
@@ -24292,6 +26401,21 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/鎮壓反革命運動"
     },
     {
+      "id": "evt_ussr_041",
+      "year": 1950,
+      "month": 2,
+      "day": 14,
+      "region": "世界",
+      "title": "中蘇友好同盟互助條約簽署",
+      "description": "毛澤東與史達林在莫斯科簽署中蘇友好同盟互助條約，確立兩國軍事同盟關係，蘇聯並提供中國大量經濟與技術援助。",
+      "tags": [
+        "蘇聯",
+        "中國",
+        "條約"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/中蘇友好同盟互助條約"
+    },
+    {
       "id": "evt_tw3_011",
       "year": 1950,
       "month": 6,
@@ -24346,6 +26470,20 @@
         "改革"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/警察預備隊"
+    },
+    {
+      "id": "evt_ccp_040",
+      "year": 1950,
+      "month": 10,
+      "day": null,
+      "region": "中國",
+      "title": "鎮壓反革命運動開始",
+      "description": "中共中央發出指示，在全國範圍內開展大規模鎮壓反革命運動，打擊國民黨殘餘勢力、土匪及其他反抗力量，鞏固新生政權。",
+      "tags": [
+        "中共黨史",
+        "政治運動"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/镇压反革命运动"
     },
     {
       "id": "evt_19501019_001",
@@ -24417,6 +26555,20 @@
         "戰後處理"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/舊金山和約"
+    },
+    {
+      "id": "evt_ccp_041",
+      "year": 1951,
+      "month": 12,
+      "day": null,
+      "region": "中國",
+      "title": "三反五反運動開始",
+      "description": "中共先後在黨政機關開展反貪污、反浪費、反官僚主義的「三反」運動，並在私營工商業推行反行賄、反偷稅漏稅等「五反」運動。",
+      "tags": [
+        "中共黨史",
+        "政治運動"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/三反五反运动"
     },
     {
       "id": "evt_w5_002",
@@ -24517,6 +26669,21 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/第一個五年計劃_(中華人民共和國)"
     },
     {
+      "id": "evt_ussr_042",
+      "year": 1953,
+      "month": 1,
+      "day": 13,
+      "region": "世界",
+      "title": "醫生案件公布",
+      "description": "蘇聯官方媒體指控一批猶太裔醫師密謀毒害國家領導人，引發全國性反猶恐慌，事件在史達林逝世後不久即遭官方平反撤銷。",
+      "tags": [
+        "蘇聯",
+        "史達林",
+        "反猶主義"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/醫生案件"
+    },
+    {
       "id": "evt_19530126_001",
       "year": 1953,
       "month": 1,
@@ -24588,6 +26755,21 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/去氧核醣核酸"
     },
     {
+      "id": "evt_ussr_043",
+      "year": 1953,
+      "month": 6,
+      "day": 26,
+      "region": "世界",
+      "title": "貝利亞被捕",
+      "description": "史達林逝世後權力鬥爭白熱化，長期掌控秘密警察系統的貝利亞在蘇共主席團會議上遭赫魯雪夫等人聯手逮捕，隨後被控叛國罪。",
+      "tags": [
+        "蘇聯",
+        "貝利亞",
+        "政治鬥爭"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/拉夫連季·貝利亞"
+    },
+    {
       "id": "evt_w5_006",
       "year": 1953,
       "month": 7,
@@ -24602,6 +26784,21 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/朝鲜停战协定"
     },
     {
+      "id": "evt_ussr_044",
+      "year": 1953,
+      "month": 8,
+      "day": 12,
+      "region": "世界",
+      "title": "蘇聯首次氫彈試驗成功",
+      "description": "蘇聯在哈薩克塞米巴拉金斯克試驗場成功試爆代號RDS-6s的氫彈，當量約四十萬噸，使蘇聯成為第二個掌握氫彈技術的國家。",
+      "tags": [
+        "蘇聯",
+        "核武",
+        "冷戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/氫彈"
+    },
+    {
       "id": "evt_w5_007",
       "year": 1953,
       "month": 8,
@@ -24614,6 +26811,35 @@
         "冷戰"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/1953年伊朗政变"
+    },
+    {
+      "id": "evt_ccp_042",
+      "year": 1953,
+      "month": 12,
+      "day": null,
+      "region": "中國",
+      "title": "高饒事件",
+      "description": "中共中央揭發高崗、饒漱石進行分裂黨、篡奪黨和國家最高權力的活動，高崗於1954年自殺，饒漱石後被判刑，成為建政後首次高層路線鬥爭。",
+      "tags": [
+        "中共黨史",
+        "路線鬥爭"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/高饶事件"
+    },
+    {
+      "id": "evt_ussr_045",
+      "year": 1953,
+      "month": 12,
+      "day": 23,
+      "region": "世界",
+      "title": "貝利亞被處決",
+      "description": "貝利亞經秘密軍事法庭審判後以叛國、間諜等罪名被判處死刑並立即槍決，象徵史達林時期秘密警察體系首腦的終結。",
+      "tags": [
+        "蘇聯",
+        "貝利亞",
+        "政治鬥爭"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/拉夫連季·貝利亞"
     },
     {
       "id": "evt_cn3_127",
@@ -24725,6 +26951,20 @@
         "選舉"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/第一屆全國人民代表大會"
+    },
+    {
+      "id": "evt_ccp_043",
+      "year": 1954,
+      "month": 9,
+      "day": 20,
+      "region": "中國",
+      "title": "第一屆全國人民代表大會通過首部憲法",
+      "description": "第一屆全國人民代表大會第一次會議在北京召開，通過中華人民共和國第一部憲法，即「五四憲法」，確立人民代表大會制度。",
+      "tags": [
+        "中共黨史",
+        "制度建設"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/五四宪法"
     },
     {
       "id": "evt_jp2_065",
@@ -24854,6 +27094,21 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/华沙条约组织"
     },
     {
+      "id": "evt_ussr_046",
+      "year": 1955,
+      "month": 5,
+      "day": 26,
+      "region": "世界",
+      "title": "赫魯雪夫訪問貝爾格勒，蘇南關係正常化",
+      "description": "赫魯雪夫率團訪問南斯拉夫並向狄托道歉，正式修復1948年蘇南決裂以來的緊張關係，反映史達林逝世後蘇聯外交路線的調整。",
+      "tags": [
+        "蘇聯",
+        "赫魯雪夫",
+        "南斯拉夫"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/尼基塔·赫魯雪夫"
+    },
+    {
       "id": "evt_tw3_016",
       "year": 1955,
       "month": 8,
@@ -24908,6 +27163,36 @@
         "文化"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/百花齊放，百家爭鳴"
+    },
+    {
+      "id": "evt_ussr_047",
+      "year": 1956,
+      "month": 2,
+      "day": 14,
+      "region": "世界",
+      "title": "蘇聯共產黨第二十次代表大會召開",
+      "description": "蘇共二十大在莫斯科召開，赫魯雪夫在會中發表批判史達林個人崇拜的秘密報告，開啟蘇聯去史達林化的重大轉折。",
+      "tags": [
+        "蘇聯",
+        "赫魯雪夫",
+        "政治"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/蘇聯共產黨第二十次代表大會"
+    },
+    {
+      "id": "evt_ussr_048",
+      "year": 1956,
+      "month": 2,
+      "day": 25,
+      "region": "世界",
+      "title": "赫魯雪夫發表秘密報告",
+      "description": "赫魯雪夫在蘇共二十大閉門會議上發表《關於個人崇拜及其後果》報告，首度公開批判史達林的個人崇拜與大清洗暴行，震撼國際共產主義運動。",
+      "tags": [
+        "蘇聯",
+        "赫魯雪夫",
+        "去史達林化"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/關於個人崇拜及其後果"
     },
     {
       "id": "evt_tw3_017",
@@ -24966,6 +27251,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/石門水庫"
     },
     {
+      "id": "evt_ccp_044",
+      "year": 1956,
+      "month": 9,
+      "day": null,
+      "region": "中國",
+      "title": "中國共產黨第八次全國代表大會召開",
+      "description": "大會分析國內主要矛盾已轉變為人民對經濟文化迅速發展的需要與落後生產力之間的矛盾，新黨章不再提「毛澤東思想」為指導思想。",
+      "tags": [
+        "中共黨史",
+        "黨代表大會"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/中国共产党第八次全国代表大会"
+    },
+    {
       "id": "evt_cn3_057",
       "year": 1956,
       "month": 9,
@@ -25019,6 +27318,21 @@
         "去殖民化"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/苏伊士运河危机"
+    },
+    {
+      "id": "evt_ussr_049",
+      "year": 1956,
+      "month": 11,
+      "day": 4,
+      "region": "世界",
+      "title": "蘇軍出兵鎮壓匈牙利革命",
+      "description": "蘇聯調集大軍攻入布達佩斯，血腥鎮壓匈牙利十月革命並扶植傀儡政府，數千人喪生，數十萬匈牙利人逃往西方，震驚國際社會。",
+      "tags": [
+        "蘇聯",
+        "匈牙利",
+        "冷戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/1956年匈牙利革命"
     },
     {
       "id": "evt_gfjp_068",
@@ -25078,6 +27392,21 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/反右運動"
     },
     {
+      "id": "evt_ussr_050",
+      "year": 1957,
+      "month": 6,
+      "day": 29,
+      "region": "世界",
+      "title": "反黨集團事件",
+      "description": "莫洛托夫、馬林科夫、卡岡諾維奇等蘇共元老聯手企圖罷黜赫魯雪夫，但因未能掌控中央委員會多數而失敗，反遭撤職清算，赫魯雪夫地位因此鞏固。",
+      "tags": [
+        "蘇聯",
+        "赫魯雪夫",
+        "政治鬥爭"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/反黨集團"
+    },
+    {
       "id": "evt_w5_018",
       "year": 1957,
       "month": 9,
@@ -25104,6 +27433,21 @@
         "科技"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/史普尼克1號"
+    },
+    {
+      "id": "evt_ussr_051",
+      "year": 1957,
+      "month": 11,
+      "day": 3,
+      "region": "世界",
+      "title": "史普尼克2號發射，萊卡犬升空",
+      "description": "蘇聯發射史普尼克2號人造衛星，搭載首隻進入地球軌道的動物「萊卡」，延續前一個月首顆人造衛星的太空競賽領先優勢。",
+      "tags": [
+        "蘇聯",
+        "太空競賽",
+        "科技"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/史普尼克2號"
     },
     {
       "id": "evt_cn3_060",
@@ -25217,6 +27561,21 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/法兰西第五共和国"
     },
     {
+      "id": "evt_ussr_052",
+      "year": 1958,
+      "month": 11,
+      "day": 27,
+      "region": "世界",
+      "title": "赫魯雪夫發出柏林最後通牒",
+      "description": "赫魯雪夫向英美法三國發出照會，要求六個月內撤出西柏林駐軍並使其成為「自由城市」，引爆第二次柏林危機，最終蘇聯讓步撤回要求。",
+      "tags": [
+        "蘇聯",
+        "柏林",
+        "冷戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/柏林危機"
+    },
+    {
       "id": "evt_jp2_069",
       "year": 1958,
       "month": 12,
@@ -25286,6 +27645,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/廬山會議_(1959年)"
     },
     {
+      "id": "evt_ccp_045",
+      "year": 1959,
+      "month": 7,
+      "day": null,
+      "region": "中國",
+      "title": "廬山會議召開，彭德懷被批判",
+      "description": "中共中央在廬山召開政治局擴大會議，彭德懷因上書指出大躍進中的問題而被錯誤批判為「右傾機會主義反黨集團」，遭撤職。",
+      "tags": [
+        "中共黨史",
+        "路線鬥爭"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/庐山会议"
+    },
+    {
       "id": "evt_19590807_001",
       "year": 1959,
       "month": 8,
@@ -25298,6 +27671,21 @@
         "社會記憶"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/八七水災"
+    },
+    {
+      "id": "evt_ussr_053",
+      "year": 1959,
+      "month": 9,
+      "day": 15,
+      "region": "世界",
+      "title": "赫魯雪夫訪問美國",
+      "description": "赫魯雪夫展開為期十三天的美國訪問，與艾森豪在大衛營會晤，是冷戰時期蘇聯領導人首次訪美，象徵美蘇關係短暫緩和。",
+      "tags": [
+        "蘇聯",
+        "赫魯雪夫",
+        "冷戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/尼基塔·赫魯雪夫"
     },
     {
       "id": "evt_jp2_070",
@@ -25408,6 +27796,20 @@
         "政治"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/安保斗争"
+    },
+    {
+      "id": "evt_ccp_046",
+      "year": 1960,
+      "month": 7,
+      "day": null,
+      "region": "中國",
+      "title": "中蘇關係惡化",
+      "description": "蘇聯單方面決定撤走在華全部專家、終止合同項目，中蘇兩黨在意識形態和國家利益上的分歧公開化，中蘇同盟關係急劇惡化。",
+      "tags": [
+        "中共黨史",
+        "對外關係"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/中苏交恶"
     },
     {
       "id": "evt_19600904_001",
@@ -25567,6 +27969,35 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/蘇東啟案"
     },
     {
+      "id": "evt_ussr_054",
+      "year": 1961,
+      "month": 10,
+      "day": 31,
+      "region": "世界",
+      "title": "史達林遺體遷出列寧墓",
+      "description": "蘇共二十二大決議將史達林遺體自紅場列寧墓移出，改葬於克里姆林宮牆下，是持續進行去史達林化運動的重要象徵性行動。",
+      "tags": [
+        "蘇聯",
+        "史達林",
+        "去史達林化"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/蘇聯共產黨第二十二次代表大會"
+    },
+    {
+      "id": "evt_ccp_047",
+      "year": 1962,
+      "month": 1,
+      "day": null,
+      "region": "中國",
+      "title": "七千人大會召開",
+      "description": "中共中央在北京召開擴大工作會議，共七千餘名幹部參加，總結大躍進以來的經驗教訓，劉少奇、鄧小平等人主張調整國民經濟政策。",
+      "tags": [
+        "中共黨史",
+        "路線鬥爭"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/七千人大会"
+    },
+    {
       "id": "evt_cn3_063",
       "year": 1962,
       "month": 1,
@@ -25607,6 +28038,21 @@
         "交通"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/三河島事故"
+    },
+    {
+      "id": "evt_ussr_055",
+      "year": 1962,
+      "month": 6,
+      "day": 2,
+      "region": "世界",
+      "title": "新切爾卡斯克屠殺",
+      "description": "頓河畔新切爾卡斯克工人因物價上漲與減薪走上街頭抗議，遭軍隊開槍鎮壓造成多人死亡，事件在蘇聯時期遭長期隱瞞。",
+      "tags": [
+        "蘇聯",
+        "社會抗議",
+        "赫魯雪夫"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/新切爾卡斯克屠殺"
     },
     {
       "id": "evt_w5_029",
@@ -25692,6 +28138,21 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/四清運動"
     },
     {
+      "id": "evt_ccp_048",
+      "year": 1963,
+      "month": null,
+      "day": null,
+      "region": "中國",
+      "title": "四清運動開始",
+      "description": "中共在農村開展清政治、清經濟、清組織、清思想的社會主義教育運動，劉少奇、鄧小平主張的務實工作方法與毛澤東的階級鬥爭理論產生分歧。",
+      "tags": [
+        "中共黨史",
+        "政治運動",
+        "路線鬥爭"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/四清运动"
+    },
+    {
       "id": "evt_cn3_128",
       "year": 1963,
       "month": 8,
@@ -25703,6 +28164,21 @@
         "天災"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/1963年海河特大洪災"
+    },
+    {
+      "id": "evt_ussr_056",
+      "year": 1963,
+      "month": 8,
+      "day": 5,
+      "region": "世界",
+      "title": "部分禁止核試驗條約簽署",
+      "description": "美、蘇、英三國在莫斯科簽署部分禁止核試驗條約，禁止在大氣層、外太空及水下進行核試爆，是冷戰時期首個限制核武器的多邊條約。",
+      "tags": [
+        "蘇聯",
+        "核武",
+        "冷戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/部分禁止核試驗條約"
     },
     {
       "id": "evt_19630828_001",
@@ -25900,6 +28376,21 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/尼基塔·赫鲁晓夫"
     },
     {
+      "id": "evt_ussr_057",
+      "year": 1964,
+      "month": 10,
+      "day": 14,
+      "region": "世界",
+      "title": "布里茲涅夫接任蘇共中央第一書記",
+      "description": "赫魯雪夫遭黨內政變罷黜後，布里茲涅夫接任蘇共中央第一書記，開啟長達十八年、後被稱為「停滯時期」的統治。",
+      "tags": [
+        "蘇聯",
+        "布里茲涅夫",
+        "政治"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/列昂尼德·布里茲涅夫"
+    },
+    {
       "id": "evt_19641016_001",
       "year": 1964,
       "month": 10,
@@ -25968,6 +28459,21 @@
         "人物"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/陳誠"
+    },
+    {
+      "id": "evt_ussr_058",
+      "year": 1965,
+      "month": 3,
+      "day": 18,
+      "region": "世界",
+      "title": "列昂諾夫完成人類首次太空漫步",
+      "description": "蘇聯太空人列昂諾夫在上升2號任務中離開太空艙進行約十二分鐘的艙外活動，成為人類史上首次太空漫步，是蘇聯太空計畫的重要里程碑。",
+      "tags": [
+        "蘇聯",
+        "太空競賽",
+        "科技"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/阿列克謝·列昂諾夫"
     },
     {
       "id": "evt_jp2_077",
@@ -26066,6 +28572,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/九三零事件"
     },
     {
+      "id": "evt_ccp_049",
+      "year": 1965,
+      "month": 11,
+      "day": 10,
+      "region": "中國",
+      "title": "姚文元發表《評新編歷史劇〈海瑞罷官〉》",
+      "description": "姚文元在上海《文匯報》發表文章，批判吳晗所著《海瑞罷官》，被視為文化大革命的輿論導火線。",
+      "tags": [
+        "中共黨史",
+        "文化大革命"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/评新编历史剧《海瑞罢官》"
+    },
+    {
       "id": "evt_w5_039",
       "year": 1965,
       "month": 11,
@@ -26160,6 +28680,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/胡安·卡洛斯·翁加尼亚"
     },
     {
+      "id": "evt_ccp_050",
+      "year": 1966,
+      "month": 8,
+      "day": null,
+      "region": "中國",
+      "title": "紅衛兵運動與大串連興起",
+      "description": "全國各地學生組成紅衛兵組織，在毛澤東多次接見與鼓勵下開展「破四舊」及全國性大串連活動，運動迅速席捲全國。",
+      "tags": [
+        "中共黨史",
+        "文化大革命"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/红卫兵"
+    },
+    {
       "id": "evt_tw3_029",
       "year": 1966,
       "month": 11,
@@ -26186,6 +28720,20 @@
         "產業史"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/加工出口區"
+    },
+    {
+      "id": "evt_ccp_051",
+      "year": 1967,
+      "month": 2,
+      "day": null,
+      "region": "中國",
+      "title": "二月逆流",
+      "description": "部分老一輩革命家與軍隊將領在中央會議上對文革中打倒老幹部、軍隊被衝擊等現象提出強烈批評，後被江青等人定性為「二月逆流」加以打壓。",
+      "tags": [
+        "中共黨史",
+        "文化大革命"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/二月逆流"
     },
     {
       "id": "evt_w5_042",
@@ -26461,6 +29009,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/中國電視公司"
     },
     {
+      "id": "evt_ccp_052",
+      "year": 1968,
+      "month": 10,
+      "day": null,
+      "region": "中國",
+      "title": "中共八屆十二中全會",
+      "description": "全會通過決議，將劉少奇永遠開除出黨並撤銷其黨內外一切職務，劉少奇成為文革中遭受迫害的最高層領導人。",
+      "tags": [
+        "中共黨史",
+        "文化大革命"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/中共八届十二中全会"
+    },
+    {
       "id": "evt_w5_050",
       "year": 1968,
       "month": 10,
@@ -26487,6 +29049,35 @@
         "諾貝爾獎"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/川端康成"
+    },
+    {
+      "id": "evt_ussr_059",
+      "year": 1968,
+      "month": 11,
+      "day": 13,
+      "region": "世界",
+      "title": "布里茲涅夫主義提出",
+      "description": "蘇共領導層在鎮壓布拉格之春後提出「有限主權論」（布里茲涅夫主義），宣稱蘇聯有權為維護社會主義陣營整體利益干預成員國內政。",
+      "tags": [
+        "蘇聯",
+        "布里茲涅夫",
+        "冷戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/布里茲涅夫主義"
+    },
+    {
+      "id": "evt_ccp_053",
+      "year": 1968,
+      "month": 12,
+      "day": 22,
+      "region": "中國",
+      "title": "知識青年上山下鄉運動",
+      "description": "毛澤東發出「知識青年到農村去」的號召，大批城市知識青年被下放至農村和邊疆地區從事勞動，運動持續至1970年代末。",
+      "tags": [
+        "中共黨史",
+        "文化大革命"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/上山下乡运动"
     },
     {
       "id": "evt_tw3_032",
@@ -26530,6 +29121,20 @@
         "冷戰"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/珍寶島事件"
+    },
+    {
+      "id": "evt_ccp_055",
+      "year": 1969,
+      "month": 4,
+      "day": null,
+      "region": "中國",
+      "title": "中國共產黨第九次全國代表大會召開",
+      "description": "大會在文革高潮中召開，新黨章正式將林彪確立為毛澤東的「接班人」，並寫入黨章。",
+      "tags": [
+        "中共黨史",
+        "黨代表大會"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/中国共产党第九次全国代表大会"
     },
     {
       "id": "evt_cn3_072",
@@ -26641,6 +29246,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/劉少奇"
     },
     {
+      "id": "evt_ccp_054",
+      "year": 1969,
+      "month": 11,
+      "day": 12,
+      "region": "中國",
+      "title": "劉少奇迫害致死",
+      "description": "前國家主席劉少奇在文革中遭受長期批鬥與人身迫害，被剝奪治療機會，於河南開封含冤病逝。",
+      "tags": [
+        "中共黨史",
+        "文化大革命"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/刘少奇"
+    },
+    {
       "id": "evt_tw3_035",
       "year": 1970,
       "month": 2,
@@ -26737,6 +29356,21 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/黑色九月"
     },
     {
+      "id": "evt_ussr_060",
+      "year": 1970,
+      "month": 11,
+      "day": 17,
+      "region": "世界",
+      "title": "月球車1號登陸月球",
+      "description": "蘇聯無人月球探測器月球車1號成功降落月面並展開遠端遙控探勘，是人類史上首輛在地外天體上運行的無人駕駛車輛。",
+      "tags": [
+        "蘇聯",
+        "太空競賽",
+        "科技"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/月球車1號"
+    },
+    {
       "id": "evt_19701125_001",
       "year": 1970,
       "month": 11,
@@ -26804,6 +29438,36 @@
         "領土"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/沖繩返還協定"
+    },
+    {
+      "id": "evt_ussr_061",
+      "year": 1971,
+      "month": 6,
+      "day": 30,
+      "region": "世界",
+      "title": "聯盟11號太空人罹難",
+      "description": "聯盟11號太空船在完成禮炮1號空間站任務返航時因艙壓閥意外洩壓，導致三名太空人全部罹難，是人類目前唯一在太空環境中發生的死亡事故。",
+      "tags": [
+        "蘇聯",
+        "太空競賽",
+        "科技"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/聯盟11號"
+    },
+    {
+      "id": "evt_ussr_062",
+      "year": 1971,
+      "month": 9,
+      "day": 11,
+      "region": "世界",
+      "title": "赫魯雪夫逝世",
+      "description": "已下台多年的前蘇共第一書記赫魯雪夫在莫斯科逝世，官方僅低調處理其身後事，未給予國葬待遇。",
+      "tags": [
+        "蘇聯",
+        "赫魯雪夫",
+        "人物"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/尼基塔·赫魯雪夫"
     },
     {
       "id": "evt_19710913_001",
@@ -26918,6 +29582,21 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/上海公報"
     },
     {
+      "id": "evt_ussr_063",
+      "year": 1972,
+      "month": 5,
+      "day": 26,
+      "region": "世界",
+      "title": "美蘇簽署第一階段限制戰略武器條約",
+      "description": "尼克森與布里茲涅夫在莫斯科簽署反彈道飛彈條約及第一階段限制戰略武器臨時協定，是美蘇緩和政策下首批重大軍控成果。",
+      "tags": [
+        "蘇聯",
+        "美國",
+        "軍控"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/戰略武器限制談判"
+    },
+    {
       "id": "evt_w5_059",
       "year": 1972,
       "month": 6,
@@ -27000,6 +29679,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/鄧小平"
     },
     {
+      "id": "evt_ccp_056",
+      "year": 1973,
+      "month": 8,
+      "day": null,
+      "region": "中國",
+      "title": "中國共產黨第十次全國代表大會召開",
+      "description": "大會在林彪事件後召開，選出新的中央領導機構，但仍延續文革路線，江青等人在黨內地位上升。",
+      "tags": [
+        "中共黨史",
+        "黨代表大會"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/中国共产党第十次全国代表大会"
+    },
+    {
       "id": "evt_19730911_001",
       "year": 1973,
       "month": 9,
@@ -27068,6 +29761,50 @@
         "基礎建設"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/十大建設"
+    },
+    {
+      "id": "evt_ussr_064",
+      "year": 1973,
+      "month": 12,
+      "day": 28,
+      "region": "世界",
+      "title": "索忍尼辛《古拉格群島》出版",
+      "description": "索忍尼辛揭露蘇聯勞改營體系真相的紀實鉅著《古拉格群島》於巴黎出版，向世界揭示史達林時期古拉格制度的殘酷全貌。",
+      "tags": [
+        "蘇聯",
+        "古拉格",
+        "異議人士"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/古拉格群島"
+    },
+    {
+      "id": "evt_ccp_057",
+      "year": 1974,
+      "month": 1,
+      "day": null,
+      "region": "中國",
+      "title": "批林批孔運動",
+      "description": "中共發起批判林彪與孔子的政治運動，江青等人藉機影射攻擊周恩來等老一輩革命家，運動持續至1974年下半年。",
+      "tags": [
+        "中共黨史",
+        "文化大革命"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/批林批孔运动"
+    },
+    {
+      "id": "evt_ussr_065",
+      "year": 1974,
+      "month": 2,
+      "day": 13,
+      "region": "世界",
+      "title": "索忍尼辛被驅逐出境",
+      "description": "蘇聯當局以叛國罪剝奪索忍尼辛國籍並將其強制驅逐出境，此後他長期流亡西方，持續撰文批判蘇聯體制。",
+      "tags": [
+        "蘇聯",
+        "異議人士",
+        "索忍尼辛"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/亞歷山大·索忍尼辛"
     },
     {
       "id": "evt_gfcn_055",
@@ -27253,6 +29990,21 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/赫尔辛基协议"
     },
     {
+      "id": "evt_ussr_066",
+      "year": 1975,
+      "month": 10,
+      "day": 9,
+      "region": "世界",
+      "title": "沙卡洛夫獲頒諾貝爾和平獎",
+      "description": "蘇聯核物理學家兼異議人士安德烈·沙卡洛夫因長期倡議人權與反對核武擴散獲頒諾貝爾和平獎，蘇聯當局拒絕批准他出國領獎。",
+      "tags": [
+        "蘇聯",
+        "異議人士",
+        "沙卡洛夫"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/安德烈·薩哈羅夫"
+    },
+    {
       "id": "evt_w5_068",
       "year": 1975,
       "month": 11,
@@ -27307,6 +30059,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/周恩來"
     },
     {
+      "id": "evt_ccp_058",
+      "year": 1976,
+      "month": 1,
+      "day": 8,
+      "region": "中國",
+      "title": "周恩來逝世",
+      "description": "中華人民共和國國務院總理周恩來因病在北京逝世，其逝世引發全國民眾自發悼念，成為同年四五運動的重要背景。",
+      "tags": [
+        "中共黨史",
+        "領導人"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/周恩来"
+    },
+    {
       "id": "evt_w5_071",
       "year": 1976,
       "month": 3,
@@ -27332,6 +30098,35 @@
         "社會運動"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/四五運動"
+    },
+    {
+      "id": "evt_ccp_059",
+      "year": 1976,
+      "month": 4,
+      "day": 5,
+      "region": "中國",
+      "title": "四五天安門事件",
+      "description": "民眾在天安門廣場自發悼念周恩來並表達對「四人幫」的不滿，遭當局定性為「反革命事件」並鎮壓，鄧小平因此被撤銷職務。",
+      "tags": [
+        "中共黨史",
+        "文化大革命"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/四五运动"
+    },
+    {
+      "id": "evt_ussr_067",
+      "year": 1976,
+      "month": 5,
+      "day": 12,
+      "region": "世界",
+      "title": "莫斯科赫爾辛基小組成立",
+      "description": "物理學家尤里·奧爾洛夫等異議人士在莫斯科成立赫爾辛基小組，監督蘇聯政府是否遵守赫爾辛基協議的人權條款，成為蘇聯境內最重要的人權監察組織之一。",
+      "tags": [
+        "蘇聯",
+        "異議人士",
+        "人權"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/莫斯科赫爾辛基小組"
     },
     {
       "id": "evt_w5_072",
@@ -27442,6 +30237,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/粉碎四人幫"
     },
     {
+      "id": "evt_ccp_061",
+      "year": 1976,
+      "month": 10,
+      "day": 6,
+      "region": "中國",
+      "title": "粉碎四人幫",
+      "description": "華國鋒、葉劍英等人在毛澤東逝世後果斷採取行動，逮捕江青、張春橋、姚文元、王洪文四人，宣告文化大革命結束。",
+      "tags": [
+        "中共黨史",
+        "文化大革命"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/粉碎四人帮"
+    },
+    {
       "id": "evt_tw3_040",
       "year": 1976,
       "month": 10,
@@ -27497,6 +30306,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/賽洛瑪颱風"
     },
     {
+      "id": "evt_ccp_062",
+      "year": 1977,
+      "month": 8,
+      "day": null,
+      "region": "中國",
+      "title": "中國共產黨第十一次全國代表大會召開",
+      "description": "大會正式宣布文化大革命結束，但仍在一定程度上肯定文革理論與實踐，改革開放尚未真正展開。",
+      "tags": [
+        "中共黨史",
+        "黨代表大會"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/中国共产党第十一次全国代表大会"
+    },
+    {
       "id": "evt_gfjp_077",
       "year": 1977,
       "month": 9,
@@ -27525,6 +30348,21 @@
         "日本赤軍"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/日本航空472號班機劫機事件_(1977年)"
+    },
+    {
+      "id": "evt_ussr_068",
+      "year": 1977,
+      "month": 10,
+      "day": 7,
+      "region": "世界",
+      "title": "蘇聯新憲法（布里茲涅夫憲法）通過",
+      "description": "蘇聯最高蘇維埃通過新憲法，正式宣稱蘇聯已建成「發達社會主義社會」並確立共產黨為國家領導核心地位，取代1936年史達林憲法。",
+      "tags": [
+        "蘇聯",
+        "憲法",
+        "布里茲涅夫"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/1977年蘇聯憲法"
     },
     {
       "id": "evt_19771119_001",
@@ -27567,6 +30405,20 @@
         "思想"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/真理標準大討論"
+    },
+    {
+      "id": "evt_ccp_063",
+      "year": 1978,
+      "month": 5,
+      "day": 11,
+      "region": "中國",
+      "title": "真理標準大討論展開",
+      "description": "《光明日報》發表《實踐是檢驗真理的唯一標準》一文，引發全國範圍關於真理標準問題的大討論，衝擊「兩個凡是」方針，為十一屆三中全會作思想準備。",
+      "tags": [
+        "中共黨史",
+        "思想解放"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/真理标准大讨论"
     },
     {
       "id": "evt_19780520_001",
@@ -27786,6 +30638,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/三哩岛核泄漏事故"
     },
     {
+      "id": "evt_ccp_064",
+      "year": 1979,
+      "month": 3,
+      "day": 30,
+      "region": "中國",
+      "title": "鄧小平提出四項基本原則",
+      "description": "鄧小平在理論工作務虛會上提出必須堅持社會主義道路、無產階級專政、共產黨領導和馬列主義毛澤東思想，為改革開放劃定政治底線。",
+      "tags": [
+        "中共黨史",
+        "思想理論"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/四项基本原则"
+    },
+    {
       "id": "evt_tw3_045",
       "year": 1979,
       "month": 4,
@@ -27812,6 +30678,21 @@
         "人物"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/玛格丽特·撒切尔"
+    },
+    {
+      "id": "evt_ussr_069",
+      "year": 1979,
+      "month": 6,
+      "day": 18,
+      "region": "世界",
+      "title": "美蘇簽署第二階段限制戰略武器條約",
+      "description": "布里茲涅夫與卡特在維也納簽署第二階段限制戰略武器條約，惟隔年因蘇聯入侵阿富汗，美國國會未予批准。",
+      "tags": [
+        "蘇聯",
+        "美國",
+        "軍控"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/戰略武器限制談判"
     },
     {
       "id": "evt_jp2_089",
@@ -27926,6 +30807,35 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/日本汽車工業"
     },
     {
+      "id": "evt_ussr_070",
+      "year": 1980,
+      "month": 1,
+      "day": 22,
+      "region": "世界",
+      "title": "沙卡洛夫被流放至高爾基市",
+      "description": "沙卡洛夫因公開反對蘇聯入侵阿富汗，遭當局剝奪各項榮譽並未經審判強制流放至封閉城市高爾基，軟禁近七年。",
+      "tags": [
+        "蘇聯",
+        "異議人士",
+        "沙卡洛夫"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/安德烈·薩哈羅夫"
+    },
+    {
+      "id": "evt_ccp_066",
+      "year": 1980,
+      "month": 2,
+      "day": null,
+      "region": "中國",
+      "title": "中共十一屆五中全會為劉少奇平反",
+      "description": "全會通過決議，為劉少奇徹底平反，恢復其名譽，撤銷此前對其的錯誤結論。",
+      "tags": [
+        "中共黨史",
+        "路線鬥爭"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/中国共产党第十一届中央委员会第五次全体会议"
+    },
+    {
       "id": "evt_tw3_046",
       "year": 1980,
       "month": 2,
@@ -27981,6 +30891,21 @@
         "選舉"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/大平正芳"
+    },
+    {
+      "id": "evt_ussr_071",
+      "year": 1980,
+      "month": 7,
+      "day": 19,
+      "region": "世界",
+      "title": "莫斯科奧運開幕",
+      "description": "第22屆夏季奧林匹克運動會在莫斯科揭幕，因蘇聯入侵阿富汗，美國等逾六十國響應抵制未派隊參賽，成為冷戰對抗延伸至體育領域的縮影。",
+      "tags": [
+        "蘇聯",
+        "奧運",
+        "冷戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/1980年夏季奧林匹克運動會"
     },
     {
       "id": "evt_w5_084",
@@ -28050,6 +30975,20 @@
         "司法"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/林彪、江青反革命集團案"
+    },
+    {
+      "id": "evt_ccp_065",
+      "year": 1980,
+      "month": 11,
+      "day": 20,
+      "region": "中國",
+      "title": "林彪江青反革命集團案公審",
+      "description": "最高人民法院特別法庭對江青、張春橋等十名被告進行公開審判，江青、張春橋被判處死刑緩期執行，正式清算文革罪責。",
+      "tags": [
+        "中共黨史",
+        "文化大革命"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/林彪、江青反革命集团案"
     },
     {
       "id": "evt_w5_086",
@@ -28151,6 +31090,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/弗朗索瓦·密特朗"
     },
     {
+      "id": "evt_ccp_068",
+      "year": 1981,
+      "month": 6,
+      "day": null,
+      "region": "中國",
+      "title": "胡耀邦出任中共中央主席",
+      "description": "中共十一屆六中全會選舉胡耀邦為中央委員會主席，成為改革開放初期黨的主要領導人之一。",
+      "tags": [
+        "中共黨史",
+        "領導人"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/胡耀邦"
+    },
+    {
       "id": "evt_w5_090",
       "year": 1981,
       "month": 6,
@@ -28178,6 +31131,20 @@
         "文化大革命"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/關於建國以來黨的若干歷史問題的決議"
+    },
+    {
+      "id": "evt_ccp_067",
+      "year": 1981,
+      "month": 6,
+      "day": 27,
+      "region": "中國",
+      "title": "《關於建國以來黨的若干歷史問題的決議》通過",
+      "description": "中共十一屆六中全會通過該決議，對建國以來的歷史特別是文化大革命作出正式評價，確立毛澤東「功績是主要的，錯誤是次要的」的總體評價。",
+      "tags": [
+        "中共黨史",
+        "路線鬥爭"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/关于建国以来党的若干历史问题的决议"
     },
     {
       "id": "evt_19810703_001",
@@ -28276,6 +31243,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/東北新幹線"
     },
     {
+      "id": "evt_ccp_069",
+      "year": 1982,
+      "month": 9,
+      "day": null,
+      "region": "中國",
+      "title": "中國共產黨第十二次全國代表大會召開",
+      "description": "鄧小平在開幕詞中提出「建設有中國特色的社會主義」，新黨章確立廢除領導職務終身制等重要改革。",
+      "tags": [
+        "中共黨史",
+        "黨代表大會"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/中国共产党第十二次全国代表大会"
+    },
+    {
       "id": "evt_cn3_085",
       "year": 1982,
       "month": 9,
@@ -28301,6 +31282,36 @@
         "戰爭"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/萨布拉-夏蒂拉大屠杀"
+    },
+    {
+      "id": "evt_ussr_072",
+      "year": 1982,
+      "month": 11,
+      "day": 10,
+      "region": "世界",
+      "title": "布里茲涅夫逝世",
+      "description": "蘇共中央總書記布里茲涅夫在莫斯科逝世，結束其長達十八年、被稱為「停滯時期」的統治，蘇聯經濟與政治體制的僵化問題已日益顯著。",
+      "tags": [
+        "蘇聯",
+        "布里茲涅夫",
+        "人物"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/列昂尼德·布里茲涅夫"
+    },
+    {
+      "id": "evt_ussr_073",
+      "year": 1982,
+      "month": 11,
+      "day": 12,
+      "region": "世界",
+      "title": "安德羅波夫就任蘇共總書記",
+      "description": "前克格勃主席尤里·安德羅波夫接任蘇共中央總書記，任內推動有限度的反貪腐與紀律整頓，但因健康惡化僅在位十五個月。",
+      "tags": [
+        "蘇聯",
+        "安德羅波夫",
+        "政治"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/尤里·安德羅波夫"
     },
     {
       "id": "evt_cn3_086",
@@ -28388,6 +31399,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/1983年苏联核警报误报事件"
     },
     {
+      "id": "evt_ccp_070",
+      "year": 1983,
+      "month": 10,
+      "day": null,
+      "region": "中國",
+      "title": "清除精神污染運動",
+      "description": "中共發起清除「精神污染」運動，針對思想文化領域被認為偏離社會主義方向的現象進行整頓，運動僅持續數月即因阻力而收縮。",
+      "tags": [
+        "中共黨史",
+        "政治運動"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/清除精神污染"
+    },
+    {
       "id": "evt_w5_097",
       "year": 1983,
       "month": 10,
@@ -28428,6 +31453,36 @@
         "原住民"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/臺灣原住民族權利促進會"
+    },
+    {
+      "id": "evt_ussr_074",
+      "year": 1984,
+      "month": 2,
+      "day": 9,
+      "region": "世界",
+      "title": "安德羅波夫逝世",
+      "description": "上任僅十五個月的蘇共總書記安德羅波夫因腎衰竭在莫斯科逝世，蘇聯高層迅速陷入新一輪接班問題。",
+      "tags": [
+        "蘇聯",
+        "安德羅波夫",
+        "人物"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/尤里·安德羅波夫"
+    },
+    {
+      "id": "evt_ussr_075",
+      "year": 1984,
+      "month": 2,
+      "day": 13,
+      "region": "世界",
+      "title": "契爾年科就任蘇共總書記",
+      "description": "年邁多病的康斯坦丁·契爾年科接任蘇共中央總書記，是蘇聯高層老人政治的極致體現，其執政期間政策鮮少突破。",
+      "tags": [
+        "蘇聯",
+        "契爾年科",
+        "政治"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/康斯坦丁·契爾年科"
     },
     {
       "id": "evt_gfjp_083",
@@ -28556,6 +31611,21 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/中国南极长城站"
     },
     {
+      "id": "evt_ussr_076",
+      "year": 1985,
+      "month": 3,
+      "day": 10,
+      "region": "世界",
+      "title": "契爾年科逝世",
+      "description": "在位僅約十三個月的蘇共總書記契爾年科病逝，翌日蘇共中央即選出戈巴契夫接任，蘇聯自此步入改革年代。",
+      "tags": [
+        "蘇聯",
+        "契爾年科",
+        "人物"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/康斯坦丁·契爾年科"
+    },
+    {
       "id": "evt_w5_101",
       "year": 1985,
       "month": 3,
@@ -28665,6 +31735,21 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/人民力量革命"
     },
     {
+      "id": "evt_ussr_077",
+      "year": 1986,
+      "month": 2,
+      "day": 25,
+      "region": "世界",
+      "title": "蘇共二十七大確立改革路線",
+      "description": "蘇共二十七次代表大會召開，戈巴契夫在會中正式提出「加速發展戰略」與經濟政治改革方向，為其後重建與公開性政策鋪路。",
+      "tags": [
+        "蘇聯",
+        "戈巴契夫",
+        "改革"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/蘇聯共產黨第二十七次代表大會"
+    },
+    {
       "id": "evt_19860426_001",
       "year": 1986,
       "month": 4,
@@ -28733,6 +31818,50 @@
         "社會運動"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/八六學潮"
+    },
+    {
+      "id": "evt_ussr_078",
+      "year": 1986,
+      "month": 12,
+      "day": 23,
+      "region": "世界",
+      "title": "沙卡洛夫結束流放返回莫斯科",
+      "description": "戈巴契夫親自致電高爾基市寓所通知沙卡洛夫獲准結束近七年流放生活，他隨即搭火車返回莫斯科，象徵蘇聯人權氛圍的轉變。",
+      "tags": [
+        "蘇聯",
+        "異議人士",
+        "沙卡洛夫"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/安德烈·薩哈羅夫"
+    },
+    {
+      "id": "evt_ccp_071",
+      "year": 1987,
+      "month": 1,
+      "day": null,
+      "region": "中國",
+      "title": "反對資產階級自由化運動，胡耀邦下台",
+      "description": "中共中央召開會議，指責胡耀邦在反對資產階級自由化問題上態度不堅決，胡耀邦被迫辭去中共中央總書記職務。",
+      "tags": [
+        "中共黨史",
+        "路線鬥爭"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/反对资产阶级自由化"
+    },
+    {
+      "id": "evt_ussr_079",
+      "year": 1987,
+      "month": 1,
+      "day": 27,
+      "region": "世界",
+      "title": "戈巴契夫正式提出公開性政策",
+      "description": "戈巴契夫在蘇共中央全會上正式將「公開性」（透明化）確立為改革核心政策之一，鬆綁新聞審查與言論限制，揭露大量過去被隱瞞的歷史真相。",
+      "tags": [
+        "蘇聯",
+        "戈巴契夫",
+        "改革"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/公開性"
     },
     {
       "id": "evt_tw3_053",
@@ -28817,6 +31946,20 @@
         "政治史"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/臺灣省戒嚴令"
+    },
+    {
+      "id": "evt_ccp_072",
+      "year": 1987,
+      "month": 10,
+      "day": null,
+      "region": "中國",
+      "title": "中國共產黨第十三次全國代表大會召開",
+      "description": "大會系統闡述社會主義初級階段理論，趙紫陽作政治報告，提出黨政分開等政治體制改革設想。",
+      "tags": [
+        "中共黨史",
+        "黨代表大會"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/中国共产党第十三次全国代表大会"
     },
     {
       "id": "evt_w5_109",
@@ -28916,6 +32059,34 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/赤瓜礁海戰"
     },
     {
+      "id": "evt_ccp_073",
+      "year": 1988,
+      "month": 4,
+      "day": null,
+      "region": "中國",
+      "title": "楊尚昆當選國家主席",
+      "description": "第七屆全國人民代表大會第一次會議選舉楊尚昆為中華人民共和國主席。",
+      "tags": [
+        "中共黨史",
+        "領導人"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/杨尚昆"
+    },
+    {
+      "id": "evt_ccp_074",
+      "year": 1988,
+      "month": 4,
+      "day": null,
+      "region": "中國",
+      "title": "李鵬出任國務院總理",
+      "description": "第七屆全國人民代表大會第一次會議任命李鵬為國務院總理，接替趙紫陽出任政府首腦。",
+      "tags": [
+        "中共黨史",
+        "領導人"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/李鹏"
+    },
+    {
       "id": "evt_tw3_057",
       "year": 1988,
       "month": 5,
@@ -28928,6 +32099,21 @@
         "農業"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/五二〇事件"
+    },
+    {
+      "id": "evt_ussr_080",
+      "year": 1988,
+      "month": 6,
+      "day": 28,
+      "region": "世界",
+      "title": "蘇共第十九次全聯盟代表會議召開",
+      "description": "戈巴契夫在此次會議中提出蘇共與蘇聯政治體制的全面改革方向，包括民主化、法治化與設立新的最高權力機構，是自1941年以來首次召開的黨代表會議。",
+      "tags": [
+        "蘇聯",
+        "戈巴契夫",
+        "改革"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/蘇聯共產黨第十九次全聯盟會議"
     },
     {
       "id": "evt_w5_111",
@@ -29052,6 +32238,21 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/阿拉斯加港湾漏油事件"
     },
     {
+      "id": "evt_ussr_081",
+      "year": 1989,
+      "month": 3,
+      "day": 26,
+      "region": "世界",
+      "title": "蘇聯舉行首次具競爭性的人民代表選舉",
+      "description": "蘇聯舉行1989年人民代表大會選舉，這是蘇聯歷史上首次允許多名候選人競爭同一席次的全國性選舉，多名改革派與異議人士當選。",
+      "tags": [
+        "蘇聯",
+        "戈巴契夫",
+        "選舉"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/1989年蘇聯人民代表大會選舉"
+    },
+    {
       "id": "evt_jp2_096",
       "year": 1989,
       "month": 4,
@@ -29093,6 +32294,36 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/胡耀邦"
     },
     {
+      "id": "evt_ussr_082",
+      "year": 1989,
+      "month": 5,
+      "day": 25,
+      "region": "世界",
+      "title": "蘇聯人民代表大會首次召開",
+      "description": "新設立的蘇聯人民代表大會首次會議在莫斯科舉行並透過電視全程直播，會議中激烈的公開辯論震撼全國，成為蘇聯政治民主化的重要象徵。",
+      "tags": [
+        "蘇聯",
+        "戈巴契夫",
+        "政治"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/蘇聯人民代表大會"
+    },
+    {
+      "id": "evt_ccp_076",
+      "year": 1989,
+      "month": 6,
+      "day": null,
+      "region": "中國",
+      "title": "趙紫陽被解除職務",
+      "description": "中共中央總書記趙紫陽因在處理學生運動問題上主張對話、反對戒嚴而被免去職務，此後被軟禁至2005年逝世。",
+      "tags": [
+        "中共黨史",
+        "領導人",
+        "路線鬥爭"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/赵紫阳"
+    },
+    {
       "id": "evt_19890604_001",
       "year": 1989,
       "month": 6,
@@ -29119,6 +32350,21 @@
         "人物"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/江澤民"
+    },
+    {
+      "id": "evt_ussr_083",
+      "year": 1989,
+      "month": 8,
+      "day": 23,
+      "region": "世界",
+      "title": "波羅的海之路人鏈抗議",
+      "description": "愛沙尼亞、拉脫維亞與立陶宛約兩百萬民眾手牽手組成橫跨三國、長達六百多公里的人鏈，抗議蘇德互不侵犯條約秘密議定書瓜分波羅的海國家，訴求脫離蘇聯獨立。",
+      "tags": [
+        "蘇聯",
+        "波羅的海三國",
+        "獨立運動"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/波羅的海之路"
     },
     {
       "id": "evt_tw3_059",
@@ -29163,6 +32409,21 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/柏林圍牆倒塌"
     },
     {
+      "id": "evt_ussr_084",
+      "year": 1989,
+      "month": 12,
+      "day": 2,
+      "region": "世界",
+      "title": "馬爾他峰會宣告冷戰結束",
+      "description": "戈巴契夫與美國總統老布希在馬爾他外海船艦上舉行峰會，雙方共同宣布冷戰對抗時代結束，開啟美蘇關係新篇章。",
+      "tags": [
+        "蘇聯",
+        "戈巴契夫",
+        "冷戰"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/馬爾他峰會"
+    },
+    {
       "id": "evt_w5_117",
       "year": 1989,
       "month": 12,
@@ -29174,6 +32435,21 @@
         "天災與事故"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/蒙特利尔工程学院大屠杀"
+    },
+    {
+      "id": "evt_ussr_085",
+      "year": 1989,
+      "month": 12,
+      "day": 14,
+      "region": "世界",
+      "title": "沙卡洛夫逝世",
+      "description": "剛當選蘇聯人民代表不久的異議人士沙卡洛夫在莫斯科逝世，數萬民眾自發前往悼念，被視為蘇聯人權運動的重大損失。",
+      "tags": [
+        "蘇聯",
+        "異議人士",
+        "沙卡洛夫"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/安德烈·薩哈羅夫"
     },
     {
       "id": "evt_w5_118",
@@ -29228,6 +32504,36 @@
         "人物"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/纳尔逊·曼德拉"
+    },
+    {
+      "id": "evt_ussr_086",
+      "year": 1990,
+      "month": 3,
+      "day": 11,
+      "region": "世界",
+      "title": "立陶宛宣布恢復獨立",
+      "description": "立陶宛最高蘇維埃通過獨立法案，宣布恢復1940年遭蘇聯併吞前的獨立地位，成為首個宣布脫離蘇聯的加盟共和國。",
+      "tags": [
+        "蘇聯",
+        "立陶宛",
+        "獨立運動"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/立陶宛獨立法案"
+    },
+    {
+      "id": "evt_ussr_087",
+      "year": 1990,
+      "month": 3,
+      "day": 15,
+      "region": "世界",
+      "title": "戈巴契夫就任首任蘇聯總統",
+      "description": "蘇聯人民代表大會修改憲法設立總統制並選出戈巴契夫為首任蘇聯總統，同時取消憲法中共產黨作為國家唯一領導核心的條款，允許多黨制發展。",
+      "tags": [
+        "蘇聯",
+        "戈巴契夫",
+        "政治"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/蘇聯總統"
     },
     {
       "id": "evt_19900316_001",
@@ -29325,6 +32631,21 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/兩德統一"
     },
     {
+      "id": "evt_ussr_088",
+      "year": 1990,
+      "month": 10,
+      "day": 15,
+      "region": "世界",
+      "title": "戈巴契夫獲頒諾貝爾和平獎",
+      "description": "戈巴契夫因推動東西方緊張關係緩和及結束冷戰對抗獲頒諾貝爾和平獎，表彰其改革開放政策對國際局勢的深遠影響。",
+      "tags": [
+        "蘇聯",
+        "戈巴契夫",
+        "諾貝爾獎"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/米哈伊爾·戈巴契夫"
+    },
+    {
       "id": "evt_jp2_097",
       "year": 1990,
       "month": 11,
@@ -29351,6 +32672,21 @@
         "泡沫"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/日本泡沫經濟"
+    },
+    {
+      "id": "evt_ussr_089",
+      "year": 1991,
+      "month": 1,
+      "day": 13,
+      "region": "世界",
+      "title": "立陶宛一月事件",
+      "description": "蘇聯軍隊與特種部隊突襲維爾紐斯電視塔等要地，企圖阻止立陶宛脫離蘇聯，造成十餘名平民死亡，事件引發國際社會強烈譴責。",
+      "tags": [
+        "蘇聯",
+        "立陶宛",
+        "獨立運動"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/立陶宛一月事件"
     },
     {
       "id": "evt_19910117_001",
@@ -29476,6 +32812,21 @@
         "經濟"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/亞太經濟合作會議"
+    },
+    {
+      "id": "evt_ussr_090",
+      "year": 1991,
+      "month": 12,
+      "day": 8,
+      "region": "世界",
+      "title": "別洛韋日協議簽署，獨立國家國協成立",
+      "description": "俄羅斯、烏克蘭與白俄羅斯領導人在別洛韋日森林簽署協議，宣告蘇聯停止存在並成立獨立國家國協，為蘇聯解體鋪下最後一塊拼圖。",
+      "tags": [
+        "蘇聯",
+        "獨立國協",
+        "蘇聯解體"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/別洛韋日協議"
     },
     {
       "id": "evt_gfcn_059",
@@ -29618,6 +32969,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/九二共識"
     },
     {
+      "id": "evt_ccp_077",
+      "year": 1992,
+      "month": 10,
+      "day": null,
+      "region": "中國",
+      "title": "中國共產黨第十四次全國代表大會召開",
+      "description": "大會正式確立建立社會主義市場經濟體制為經濟體制改革的目標，鄧小平理論的核心內容得到系統闡述。",
+      "tags": [
+        "中共黨史",
+        "黨代表大會"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/中国共产党第十四次全国代表大会"
+    },
+    {
       "id": "evt_cn3_091",
       "year": 1992,
       "month": 10,
@@ -29686,6 +33051,20 @@
         "軍事"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/尹清楓命案"
+    },
+    {
+      "id": "evt_ccp_078",
+      "year": 1993,
+      "month": 3,
+      "day": null,
+      "region": "中國",
+      "title": "江澤民兼任國家主席",
+      "description": "第八屆全國人民代表大會第一次會議選舉江澤民為中華人民共和國主席，形成其黨、政、軍最高領導職務集於一身的格局。",
+      "tags": [
+        "中共黨史",
+        "領導人"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/江泽民"
     },
     {
       "id": "evt_tw3_069",
@@ -30060,6 +33439,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/東京地鐵沙林毒氣事件"
     },
     {
+      "id": "evt_ccp_079",
+      "year": 1995,
+      "month": 4,
+      "day": 10,
+      "region": "中國",
+      "title": "陳雲逝世",
+      "description": "中共元老、長期主管財經工作的陳雲在北京逝世，其穩健務實的經濟思想曾與鄧小平的改革路線並行影響中國經濟政策。",
+      "tags": [
+        "中共黨史",
+        "領導人"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/陈云"
+    },
+    {
       "id": "evt_w5_135",
       "year": 1995,
       "month": 4,
@@ -30283,6 +33676,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/鄧小平"
     },
     {
+      "id": "evt_ccp_080",
+      "year": 1997,
+      "month": 2,
+      "day": 19,
+      "region": "中國",
+      "title": "鄧小平逝世",
+      "description": "中國改革開放總設計師鄧小平在北京逝世，其確立的「一個中心、兩個基本點」路線繼續指導此後的中國內外政策。",
+      "tags": [
+        "中共黨史",
+        "領導人"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/邓小平"
+    },
+    {
       "id": "evt_tw3_082",
       "year": 1997,
       "month": 4,
@@ -30393,6 +33800,20 @@
         "王室"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/威爾斯王妃戴安娜"
+    },
+    {
+      "id": "evt_ccp_081",
+      "year": 1997,
+      "month": 9,
+      "day": null,
+      "region": "中國",
+      "title": "中國共產黨第十五次全國代表大會召開",
+      "description": "大會將鄧小平理論正式確立並寫入黨章，作為與馬列主義、毛澤東思想並列的黨的指導思想。",
+      "tags": [
+        "中共黨史",
+        "黨代表大會"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/中国共产党第十五次全国代表大会"
     },
     {
       "id": "evt_jp2_101",
@@ -31132,6 +34553,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/兩岸春節包機"
     },
     {
+      "id": "evt_ccp_083",
+      "year": 2003,
+      "month": 3,
+      "day": null,
+      "region": "中國",
+      "title": "胡錦濤出任國家主席",
+      "description": "第十屆全國人民代表大會第一次會議選舉胡錦濤為中華人民共和國主席，完成新一代中央領導集體的權力交接。",
+      "tags": [
+        "中共黨史",
+        "領導人"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/胡锦涛"
+    },
+    {
       "id": "evt_w6_008",
       "year": 2003,
       "month": 3,
@@ -31436,6 +34871,20 @@
         "人物"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/趙紫陽"
+    },
+    {
+      "id": "evt_ccp_084",
+      "year": 2005,
+      "month": 1,
+      "day": 17,
+      "region": "中國",
+      "title": "趙紫陽逝世",
+      "description": "前中共中央總書記趙紫陽在被軟禁十六年後於北京逝世，官方僅以簡短消息報導其去世。",
+      "tags": [
+        "中共黨史",
+        "領導人"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/赵紫阳"
     },
     {
       "id": "evt_cn3_133",
@@ -31768,6 +35217,20 @@
         "首相更替"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/福田康夫"
+    },
+    {
+      "id": "evt_ccp_085",
+      "year": 2007,
+      "month": 10,
+      "day": null,
+      "region": "中國",
+      "title": "中國共產黨第十七次全國代表大會召開",
+      "description": "大會將胡錦濤提出的「科學發展觀」寫入黨章，作為黨必須長期堅持的指導思想。",
+      "tags": [
+        "中共黨史",
+        "黨代表大會"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/中国共产党第十七次全国代表大会"
     },
     {
       "id": "evt_gfcn_066",
@@ -32645,6 +36108,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/桑迪飓风"
     },
     {
+      "id": "evt_ccp_086",
+      "year": 2012,
+      "month": 11,
+      "day": null,
+      "region": "中國",
+      "title": "中國共產黨第十八次全國代表大會召開",
+      "description": "大會完成中央領導層換屆，選舉產生新一屆中央委員會，開啟新的中央領導集體任期。",
+      "tags": [
+        "中共黨史",
+        "黨代表大會"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/中国共产党第十八次全国代表大会"
+    },
+    {
       "id": "evt_20121115_001",
       "year": 2012,
       "month": 11,
@@ -32657,6 +36134,20 @@
         "人物"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/習近平"
+    },
+    {
+      "id": "evt_ccp_087",
+      "year": 2012,
+      "month": 12,
+      "day": 4,
+      "region": "中國",
+      "title": "中央八項規定出台",
+      "description": "中共中央政治局會議審議通過關於改進工作作風、密切聯繫群眾的八項規定，成為此後大規模反腐倡廉與作風建設的重要開端。",
+      "tags": [
+        "中共黨史",
+        "反腐倡廉"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/中央八项规定"
     },
     {
       "id": "evt_jp2_112",
@@ -33612,6 +37103,20 @@
       "wiki_url": "https://zh.wikipedia.org/wiki/颶風瑪麗亞_(2017年)"
     },
     {
+      "id": "evt_ccp_088",
+      "year": 2017,
+      "month": 10,
+      "day": null,
+      "region": "中國",
+      "title": "中國共產黨第十九次全國代表大會召開",
+      "description": "大會將「習近平新時代中國特色社會主義思想」確立為黨的指導思想並寫入黨章。",
+      "tags": [
+        "中共黨史",
+        "黨代表大會"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/中国共产党第十九次全国代表大会"
+    },
+    {
       "id": "evt_w6_077",
       "year": 2017,
       "month": 10,
@@ -33693,6 +37198,20 @@
         "法律"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/2018年中華人民共和國憲法修正案"
+    },
+    {
+      "id": "evt_ccp_089",
+      "year": 2018,
+      "month": 3,
+      "day": 11,
+      "region": "中國",
+      "title": "修憲取消國家主席任期限制",
+      "description": "第十三屆全國人民代表大會第一次會議通過憲法修正案，刪除國家主席、副主席「連續任職不得超過兩屆」的規定。",
+      "tags": [
+        "中共黨史",
+        "制度變遷"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/2018年中华人民共和国宪法修正案"
     },
     {
       "id": "evt_tw3_141",
@@ -34711,6 +38230,20 @@
         "戰爭"
       ],
       "wiki_url": "https://zh.wikipedia.org/wiki/2022年北溪天然气管道泄漏事件"
+    },
+    {
+      "id": "evt_ccp_090",
+      "year": 2022,
+      "month": 10,
+      "day": null,
+      "region": "中國",
+      "title": "中國共產黨第二十次全國代表大會召開",
+      "description": "大會選舉產生新一屆中央委員會，習近平獲得第三個總書記任期，打破此前的兩屆慣例。",
+      "tags": [
+        "中共黨史",
+        "黨代表大會"
+      ],
+      "wiki_url": "https://zh.wikipedia.org/wiki/中国共产党第二十次全国代表大会"
     },
     {
       "id": "evt_w6_113",
